@@ -38,7 +38,7 @@
 ***
 
 ## Introduction
-This comprehensive website has been designed for the University Research Group "Magnetic Soft Matter Group" of the Univeristy of Granada. 
+This comprehensive website has been designed for the University Research Group "Magnetic Soft Matter Group" of the University of Granada. 
 It is designed to be responsive and accessible on a range of devices, making it easy to navigate for potential students and partners.
 The purpose of the site is to create an online presence allowing researchers and students in general, to find out relevant information about the place, its main research releases, professors background and events. 
 "Magnetic Soft Matter Group" is a new international research group that operates in Granada (Spain) in the field of Bioengineering.
@@ -59,16 +59,18 @@ The main requirement is to make an interactive front-end website using primarily
     -   #### Frequent User Goals
         1. As a Frequent User, I want to check to see if there are any newly added features regarding the research.
         2. As a Frequent User, I want to check to see if there are any updates to the staff and seminars.
-        3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or releases or notified about special events.
+        3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or releases or notified about special events and seminars.
     -   #### Site Owner Goals
         1. Increasing the overall group reputation and awareness of the team and related releases.
-        2. Give an immediate overview of the research, its main applications, products and other important information.
+        2. Give an immediate overview of the research, its main applications, releases and other important information.
         3. Increase percentage of website visits in order to gain more popularity among the community.
         4. Gain a better understanding of the audience by checking their feedback both via the website and social networks.
         5. Consequently, increase social mentions and post with regularity in order to keep attention high.
         6. Allow potential students and potential entrepreneurs  to fill out a contact form, sign up for the email list, visit the physical location, or simply get in touch with the team.
         7. Make the website as accessible and responsive as possible.
-        8. Use reviews to increase customer satisfaction.
+        8. Allow external stakeholders to check out the competence of each single member of the team.
+        9. Increase chances of future cooperations and projects.
+        10. Use reviews to increase customer satisfaction.
 
 #### Strategy
 Broken into three categories, the website will focus on the following target audiences:
@@ -77,25 +79,30 @@ The website will focus on the following target audiences:
 - **Roles:**
    - Current students and researchers
    - Future students and researchers 
-   - Stakeholders and entrepreneurs
+   - Stakeholders and interested entrepreneurs
 - **Demographic:**
    - Post graduate students
    - PHDs and professors
-   - Whoever is interested in this research area
+   - Whoever is interested in this research area both for academic and business reasons
+
 The website needs to enable the **User** to retrieve desired information, including:
 - Information about current research
 - Information about future research
+- Information about the research group components and their qualifications
 - Upcoming seminars/events
 - Contact information (standard and social enquires)
-The website needs to enable the **Restaurant** to:
+
+The website needs to enable the **Research group** to:
 - Develop an online presence 
 - Provide an easily navigable website for users to find relevant information about:
   - New members/research
   - Provide a channel of communication for enquires (via the form or social media)
   - Provide a channel of communication for new and current stakeholders (Social Links - easily accessible throughout the site with a click)
+  - Show the individual skills of each component of the unit and the overall competence of the group.
 
 #### Scope
 In order to identify what features had to be included, the scope was deifined based on the previously defined strategy. This was broken into two categories:
+
 - **Content Requirements**
  - The user will be looking for:
   - General information
@@ -103,6 +110,7 @@ In order to identify what features had to be included, the scope was deifined ba
   - Feedback
   - Contact details
   - Social links
+
 - **Functionality Requirements**
  - The user will be able to:
    - Easily navigate through the site in order to find the information they want
@@ -110,7 +118,7 @@ In order to identify what features had to be included, the scope was deifined ba
    - Verify the status of the place
    - Find directions
    - Be constantly updated about news
-   - Contact the desired team members directly through the Contacts
+   - Contact the desired team members directly through the individual contact details or contact form
 
 #### Structure
 The information architecture was organized in a fluid and clear way in order to ensure that users could navigate through the site with ease and efficiency.
@@ -125,13 +133,16 @@ Several style changes were made in the final project compared to the inital wire
  1. Home Page:
 ![Home Page Wireframe](place_image_here "Home Page Wireframe")
 
- 2. Menu
+ 2. page
  ![xxxx Page Wireframe](place_image_here "xxxx Wireframe")
 
- 3. Gallery
+ 3. page
   ![xxxx Page Wireframe](place_image_here "xxxx Wireframe")
 
- 4. About us
+ 4. page
+  ![xxxx Page Wireframe](place_image_here "xxxx Wireframe")
+
+ 5. page
   ![xxxx Page Wireframe](place_image_here "xxxx Wireframe")
 
 ### Surface
@@ -144,7 +155,7 @@ Several style changes were made in the final project compared to the inital wire
   -   The Oswald font is the main font used throughout the whole website with Nunito as the fallback font in case, for any reason, the font will not be imported into the site correctly.
 
 #### Imagery
-  -   Imagery is extremely important in xxxxxx related websites. It is designed to be striking and catch the user's attention. The carousel on the homepage is an immediate example of an element that catches the attention of the user with the most important features about the winebar.
+  -   Imagery is extremely important in xxxxxx related websites. It is designed to be striking and catch the user's attention. The carousel on the homepage is an immediate example of an element that catches the attention of the user with the most important features about the xxxxxx.
   - It also has a modern but classic aesthetic. The imagery has been thought about carefully to draw the attention of the user straight to the main components of the website.
 
 ## Features
@@ -170,8 +181,8 @@ Each page of the website features a consistent responsive navigational system:
           </li>
      </ul>
   </dd>
-  <dt><a href="menu.html" target="_blank" alt="Menu Page">Menu Page</a></dt>
-  <dd>The Menu page consists of the following elements:
+  <dt><a href="xxxx.html" target="_blank" alt="xxxx Page">Menu Page</a></dt>
+  <dd>The xxxx page consists of the following elements:
      <ul>
           <li><strong>Card list</strong> - Occupying about 80% of the page, this comprehensive card list shows the main and most popular dishes of the restaurant. It starts with appetizers and ends with desserts.
           Once again, in the wine section of the page a <strong>call to action</strong> button is present, which redirects the user to an external PDF page with the wine/spirits menu.
@@ -180,7 +191,7 @@ Each page of the website features a consistent responsive navigational system:
           </li>
      </ul>
   </dd>
-  <dt><a href="gallery.html" target="_blank" alt="Menu Page">Gallery Page</a></dt>
+  <dt><a href="xxxx.html" target="_blank" alt="xxxx Page">Gallery Page</a></dt>
   <dd>The Gallery page consists of the following elements:
      <ul>
           <li><strong>Collage</strong> - Occupying about 50% of the page, this impressive and resposive gallery has the goal of showing the place in a way that catches the user's attention. The images have an ease-in-out effect in order to be more interesting and fun. Furthermore, every time the user hovers over the images, the name of the restaurant appears in a way that is not invasive but effective.
@@ -191,10 +202,10 @@ Each page of the website features a consistent responsive navigational system:
           </li>
      </ul>
   </dd>
-  <dt><a href="about_us.html" target="_blank" alt="About us Page">About Us</a></dt>
+  <dt><a href="xxxx.html" target="_blank" alt="xxxx Page">About Us</a></dt>
   <dd>The About Us page consists of the following elements:
      <ul>
-          <li><strong>Main Image</strong> - A catchy image designed to capture the attention of the user about a feature of the restaurant (homemade pasta) and to draw the eye to the following element.
+          <li><strong>Main Image</strong> - A catchy image designed to capture the attention of the user about a feature of the xxxx and to draw the eye to the following element.
           </li>
           <li><strong>Our Driving Force</strong> - Two cards positioned next to each other with a description of the two main protagonists of the restaurant. This part is for the users who want to know more about the two people who represent the strong points of the restaurant and its success.
           </li>
@@ -209,11 +220,11 @@ Each page of the website features a consistent responsive navigational system:
 ### Features to Implement in the future
 - **Merchandise Shop**
 
-     - Feature - A shop where clients can buy wines or book tables directly via the website.
-     - Reason for not featuring in this release - Not possible with only CSS and HTML.
+     - Feature - .
+     - Reason for not featuring in this release - .
 
-     - Feature - Operational form.
-     - Reason for not featuring in this release - Not possible with only CSS and HTML.
+     - Feature - .
+     - Reason for not featuring in this release - .
 
 ## Issues and Bugs 
 The developer ran into a number of issues during the development of the pages.
@@ -223,24 +234,25 @@ The guiding approach in developing the website was the motto: "Mobile First". Th
 **Gallery Issue** - A great amount of time was dedicated to finding the most suitable style for a gallery that could be both responsive and aesthetically pleasing. After many trials with Bootstrap and other solutions, the best approach was that of a gallery made with CSS Media Queries.
 **Iframe Bug** - An iframe related bug was found when reducing the screen size. Google Maps iframe was not responsive in smaller devices and overflowed the screen. It was resolved using the Bootstrap classes as with the Youtube iframe.
 **HTML Validator-related resolved bugs**
-- One too many closing tags for the icon in all footers.
-- Empty h5 tags in all of the html pages.
-- Unneccesary spacing in the phone number in the footers.
-- Unnecesary spacing in the phone number in the footers.
-- "Frameborder" attribute in the iframe deemed obsolete.
-- Several errors all related to a wrong filing of the form labels and attributes.
+- 
+- 
+- 
+- 
 
 **CSS Validator-related resolved bugs**
 - 
 - 
 - 
 - 
+
 ### Known existing bugs
 -  
+- 
 - 
 - For detailed testing information please check: [TESTING.md](TESTING.md "Link to testing file")
 
 ## Technologies Used
+
 ### Languages Used
 -   [HTML5](https://en.wikipedia.org/wiki/HTML5)
 -   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
@@ -255,9 +267,6 @@ The guiding approach in developing the website was the motto: "Mobile First". Th
     - Google fonts were used to import the fonts.
 1. [Font Awesome:](https://fontawesome.com/)
     - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
-1. [jQuery:](https://jquery.com/)
-    - jQuery came with Bootstrap to make the navbar responsive but was also used for the smooth scroll function in JavaScript.
-    - jQuery came with Bootstrap to make the navbar responsive.
 1. [Git](https://git-scm.com/)
     - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 1. [GitHub:](https://github.com/)
@@ -317,20 +326,22 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 ## Credits
 
 ### Content
--   All content was written by the developer (except for the Bootstrap features).
+-   All content was written by the developer.
 -   Psychological properties of text colour in the README.md was found [here](http://www.colour-affects.co.uk/psychological-properties-of-colours)
+
 ### Media
 - Some Images come from my personal archives
 - All the other Images were downloaded from [Unsplash](https://unsplash.com/ "Link to Unsplash page").
+
 ### Code
 The developer consulted multiple sites in order to better understand the code that they were trying to implement. The following sites were used on a more regular basis:
 - [Stack Overflow](https://stackoverflow.com/ "Link to Stack Overflow page")
 - [W3Schools](https://www.w3schools.com/ "Link to W3Schools page")
 - [Bootstrap](https://getbootstrap.com/ "Link to BootStrap page")
 - [MDN Web Docs](https://developer.mozilla.org/en-US/ "Link to MDN Web Docs")
-- 
-- 
-- 
+- [jQuery](https://jquery.com/ "Link to jQuery page")
+- [jQuery](https://jquery.com/ "Link to jQuery page")
+
 ### Acknowledgements
 - My mentor for continuous helpful feedback.
 - Tutor support at Code Institute for their support.
