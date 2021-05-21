@@ -10,13 +10,14 @@
 
 -   #### First Time Visitor Goals
 
-    1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the Restaurant.
+    1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the University Research Group and its main features.
 
         1. Upon entering the site, users are automatically greeted with a clean and easily readable sticky navigation bar to go to the page of their choice. Underneath, there is xxxxxxxx. Click [here](place_picture/gif_here)
         2. The main features are immediately shown with xxxxxx. Click [here](place_picture/gif_here)
         3. The user has several options: click the link that redirects to the xxx, one of the links in the navbar or scroll down, where he will see the main features of the place together with a link to an impressive xxxx. Click [here](place_picture/gif_here)
 
-    2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
+    2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content,research and researchers.
+
 
         1. The site has been designed to be fluid and to never entrap the user. At the top of each page there is a clean navigation bar; each link describes what page they will end up at clearly and change colour when hovering over the link. Click [here](place_picture/gif_here)
         2. At the bottom of each page there is a button that redirects you at the top of the page so that the user does not have to scroll up again, especially on the longer pages and even more if visualised on a small device. Click [here](place_picture/gif_here)
@@ -24,7 +25,7 @@
         4. The logo image on the top left of each page leads users back to the home page. Click [here](place_picture/gif_here)
         5. The footer menu is easy to use with appropriate icons for easy identification. Click [here](place_picture/gif_here)
 
-    3. As a first time visitor, I want to easily navigate to the research group's social links in order to keep up with the latest news and features.
+    3. As a First Time Visitor, I want to find the main areas of the research group. I also want to locate their social media links to see their followings on social media in order to be updated about their latest releases.
         1. The social media links are located in the footer together with the group's contacts. Click [here](place_picture/gif_here)
         2. Social media links and contacts always adapt responsively in order to be clicked without any difficulty on any device. Click [here](place_picture/gif_here)
         3. The email and phone number in the footer contain a link to facilitate communication with the research group. Click [here](place_picture/gif_here)
@@ -126,7 +127,7 @@ Manual testing was conducted on the following pages in order to assess responsiv
 
 - Hovering over "xxxxxx" in the pages will trigger `hover` effect and clicking on them will redirect you to the xxxx page:
 
-     ![LET US SPOIL YOU link](place_picture/gif_here)
+     ![link](place_picture/gif_here)
 
 - Clicking on wine list link in the Home Page and Menu page will open a pdf list in another tab:
 
@@ -194,7 +195,12 @@ The [W3C Markup Validator](https://validator.w3.org/) service was used to valida
 The [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) service was used to validate the `CSS` coded used.
 
 **Results:**
-![Style sheet validation results](assets/testing_files/validators_images/css_validated.png)
+![Style sheet validation results](place_picture/gif_here)
+
+The [JS Validator](https://jshint.com/) service was used to validate the `JavaScript` coded used.
+
+**Results:**
+![JavaScript validation results](place_picture/gif_here)
 
 ### Browser Validation
 - Chrome
@@ -203,11 +209,11 @@ The [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) service was used t
 - Firefox
 
 ### Lighthouse Auditing
-- Click [here](assets/testing_files/lighthouse_reports/lighthouse_report.png)
+- Click [here](place_picture/gif_here)
 - All images have been compressed before being loaded.
 
 ### Wave Web Accessibility Auditing
-- Click [here](assets/testing_files/wave_reports)
+- Click [here](place_picture/gif_here)
 - Wave validation audit of each page.
 
 ***
