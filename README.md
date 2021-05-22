@@ -266,7 +266,7 @@ The guiding approach in developing the website was the motto: "Mobile First". Th
 ### Languages Used
 -   [HTML5](https://en.wikipedia.org/wiki/HTML5)
 -   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
--   [JavaScript] (https://en.wikipedia.org/wiki/JavaScript)
+-   [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 
 ### Frameworks, Libraries & Programs Used
 1. [Bootstrap 4.6:](https://getbootstrap.com/docs/4.6/getting-started/introduction/)
