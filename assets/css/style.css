@@ -1,12 +1,26 @@
 /*----Navbar----*/
+.navbar {
+    background-color: sandybrown!important;
+}
+
+/*----Nav Links----*/
+.nav-link {
+    padding-right: 30px;
+    font-size: large;
+    font-weight: 500;
+    margin-right: 50px;
+   
+}
 
 
 /*----Footer----*/
 .footer-style {
     padding:50px 0;
     background-color: sandybrown;
-    position: sticky;
     color:#4b4c4d;
+    position: absolute;
+    bottom: 0;
+    width: 100%
 
 }
   
