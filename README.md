@@ -227,28 +227,38 @@ Each page of the website features a consistent responsive navigational system:
      - Reason for not featuring in this release - .
 
 ## Issues and Bugs 
+
 The developer ran into a number of issues during the development of the pages.
 The guiding approach in developing the website was the motto: "Mobile First". This aims to create better experiences for users by starting the design process from the smallest of screens: a mobile.
-**Navbar issue** - An initial issue was to position the navbar links aligned to the logo. This was resolved with a few trials on where to position the right div.
-**Social Links Bug** - A bug was found when testing the social media links. It would not redirect to the right page, giving an error message. It has been resolved by inserting a more complete URL.
-**Gallery Issue** - A great amount of time was dedicated to finding the most suitable style for a gallery that could be both responsive and aesthetically pleasing. After many trials with Bootstrap and other solutions, the best approach was that of a gallery made with CSS Media Queries.
-**Iframe Bug** - An iframe related bug was found when reducing the screen size. Google Maps iframe was not responsive in smaller devices and overflowed the screen. It was resolved using the Bootstrap classes as with the Youtube iframe.
+
+**Navbar issue** 
+- An initial issue was to position the navbar links aligned to the logo. This was resolved with a few trials on where to position the right div.
+
+**Social Links Bug** 
+- A bug was found when testing the social media links. It would not redirect to the right page, giving an error message. It has been resolved by inserting a more complete URL.
+
+**Gallery Issue** 
+- A great amount of time was dedicated to finding the most suitable style for a gallery that could be both responsive and aesthetically pleasing. After many trials with Bootstrap and other solutions, the best approach was that of a gallery made with CSS Media Queries.
+
+**Iframe Bug** 
+- An iframe related bug was found when reducing the screen size. Google Maps iframe was not responsive in smaller devices and overflowed the screen. It was resolved using the Bootstrap classes as with the Youtube iframe.
+
 **HTML Validator-related resolved bugs**
-- 
-- 
-- 
-- 
+- xxxxx
+- xxxxx
+- xxxxx
+- xxxxx
 
 **CSS Validator-related resolved bugs**
-- 
-- 
-- 
-- 
+- xxxxx
+- xxxxx
+- xxxxx
+- xxxxx
 
 ### Known existing bugs
--  
-- 
-- 
+- xxxxx
+- xxxxx
+- xxxxx
 - For detailed testing information please check: [TESTING.md](TESTING.md "Link to testing file")
 
 ## Technologies Used
