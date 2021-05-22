@@ -18,7 +18,6 @@
 
     2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content,research and researchers.
 
-
         1. The site has been designed to be fluid and to never entrap the user. At the top of each page there is a clean navigation bar; each link describes what page they will end up at clearly and change colour when hovering over the link. Click [here](place_picture/gif_here)
         2. At the bottom of each page there is a button that redirects you at the top of the page so that the user does not have to scroll up again, especially on the longer pages and even more if visualised on a small device. Click [here](place_picture/gif_here)
         3. The navigation bar is clearly defined and easily navigable for users to find and use. Click [here](place_picture/gif_here)
@@ -26,6 +25,7 @@
         5. The footer menu is easy to use with appropriate icons for easy identification. Click [here](place_picture/gif_here)
 
     3. As a First Time Visitor, I want to find the main areas of the research group. I also want to locate their social media links to see their followings on social media in order to be updated about their latest releases.
+
         1. The social media links are located in the footer together with the group's contacts. Click [here](place_picture/gif_here)
         2. Social media links and contacts always adapt responsively in order to be clicked without any difficulty on any device. Click [here](place_picture/gif_here)
         3. The email and phone number in the footer contain a link to facilitate communication with the research group. Click [here](place_picture/gif_here)

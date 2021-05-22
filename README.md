@@ -38,9 +38,9 @@
 ***
 
 ## Introduction
-This comprehensive website has been designed for the University Research Group "Magnetic Soft Matter Group" of the University of Granada. 
+This comprehensive website has been designed for the University Research Group "Magnetic Soft Matter Group" of the University of Granada (Spain). 
 It is designed to be responsive and accessible on a range of devices, making it easy to navigate for potential students and partners.
-The purpose of the site is to create an online presence allowing researchers and students in general, to find out relevant information about the place, its main research releases, professors background and events. 
+The purpose of the site is to create an online presence allowing researchers and students in general, to find out relevant information about the place, its main research releases, professors' background and events. 
 "Magnetic Soft Matter Group" is a new international research group that operates in Granada (Spain) in the field of Bioengineering.
 This is the second of four Milestone Projects that the developer must complete during their Full Stack Web Development Program at The Code Institute. 
 The main requirement is to make an interactive front-end website using primarily **HTML5**, **CSS3** and **JavaScript**.
@@ -53,9 +53,9 @@ The main requirement is to make an interactive front-end website using primarily
         2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content,research and researchers.
         3. As a First Time Visitor, I want to find the main areas of the research group. I also want to locate their social media links to see their followings on social media in order to be updated about their latest releases.
     -   #### Returning Visitor Goals
-        1. As a Returning Visitor, I want to find information about new releases.
-        2. As a Returning Visitor, I want to find the best way to get in contact with the research group with any questions I may have.
-        3. As a Returning Visitor, I want to find community links.
+        1. As a Returning Visitor, I want to find information about new releases and events/seminars.
+        2. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any question I may have.
+        3. As a Returning Visitor, I want to find the social media links so that I can join and interact with others in the community.
     -   #### Frequent User Goals
         1. As a Frequent User, I want to check to see if there are any newly added features regarding the research.
         2. As a Frequent User, I want to check to see if there are any updates to the staff and seminars.
@@ -66,7 +66,7 @@ The main requirement is to make an interactive front-end website using primarily
         3. Increase percentage of website visits in order to gain more popularity among the community.
         4. Gain a better understanding of the audience by checking their feedback both via the website and social networks.
         5. Consequently, increase social mentions and post with regularity in order to keep attention high.
-        6. Allow potential students and potential entrepreneurs  to fill out a contact form, sign up for the email list, visit the physical location, or simply get in touch with the team.
+        6. Allow potential students and entrepreneurs  to fill out a contact form, sign up for the email list, visit the physical location, or simply get in touch with the team.
         7. Make the website as accessible and responsive as possible.
         8. Allow external stakeholders to check out the competence of each single member of the team.
         9. Increase chances of future cooperations and projects.
