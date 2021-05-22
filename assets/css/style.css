@@ -1,23 +1,41 @@
+/*----Body properties----*/
+body {
+    background-color: #f5f5f5;
+}
 /*----Navbar----*/
 .navbar {
-    background-color: sandybrown!important;
+    background-color: #1f1f1f!important;
 }
+
+.navbar-brand {
+    color: #ccc !important;
+}
+
+.navbar-toggler-icon {
+    color: #ccc !important;
+}
+/*----Icon----*/
 
 /*----Nav Links----*/
 .nav-link {
     padding-right: 30px;
-    font-size: large;
+    font-size: medium;
     font-weight: 500;
     margin-right: 50px;
+    color: #ccc !important;
    
+}
+.nav-link:hover {
+    color: white !important;
+    text-decoration: none;
 }
 
 
 /*----Footer----*/
 .footer-style {
     padding:50px 0;
-    background-color: sandybrown;
-    color:#4b4c4d;
+    background-color: #1f1f1f;
+    color: #ccc;
     position: absolute;
     bottom: 0;
     width: 100%
