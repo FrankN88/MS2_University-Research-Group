@@ -21,6 +21,11 @@ body {
 .dropdown-menu {
 background-color: #ccc;
 }
+/*----Top Logo----*/
+#top-logo {
+  height: 20%;
+  width: 10%;
+}
 
 /*----Top Jumbotron----*/
 #top-jumbotron {
