@@ -58,6 +58,10 @@ background-color: #ccc;
 text-align: center;
 }
 
+#btn-icon {
+  margin-left: 5px;
+}
+
 /*----Home Cards----*/
 #home-card-1 {
   padding-top: 100px;
