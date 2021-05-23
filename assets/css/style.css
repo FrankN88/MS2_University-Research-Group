@@ -1,6 +1,9 @@
 /*----Body properties----*/
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto:ital,wght@0,300;0,500;1,300&display=swap');
+
 body {
   background-color: #f5f5f5;
+  font-family: "open sans";
 }
 /*----Navbar----*/
 .navbar {
@@ -165,6 +168,12 @@ color: #ccc;
 
 .btn-align {
   text-align: center;
+}
+
+/*----Footer logo----*/
+#granada_logo {
+  height: 100px;
+  width: 130px;
 }
 
 
