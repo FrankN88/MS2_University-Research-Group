@@ -212,4 +212,19 @@ color: #ccc;
   margin-right: 10px;
 }
 
+/*----People Page beginning----*/
 
+#card-team-leader {
+  padding-top: 50px;
+  padding-bottom: 25px;
+}
+
+.card-distance {
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.card-distance-3 {
+  padding-top: 25px;
+  padding-bottom: 100px;
+}
