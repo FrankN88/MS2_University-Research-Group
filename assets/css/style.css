@@ -276,3 +276,8 @@ color: #ccc;
   height: 40%;
   width: 40%;
 }
+
+#about-text-1 {
+  padding-top: 75px;
+  padding-bottom: 25px;
+}
