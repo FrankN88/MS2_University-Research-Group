@@ -73,6 +73,9 @@ text-align: center;
   padding-bottom: 100px;
 }
 
+#hr-home {
+  padding-bottom: 40px;
+}
 
 /*----Footer----*/
 .footer-style {
@@ -259,4 +262,14 @@ color: #ccc;
 .people-title-component {
   font-size: 25px;
   font-weight: bolder;
+}
+/*----People Page end----*/
+
+/*----About Page beginning----*/
+
+#contact-form {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  height: 40%;
+  width: 40%;
 }
