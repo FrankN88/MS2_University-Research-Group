@@ -52,6 +52,9 @@ background-color: #ccc;
   color: white !important;
   text-decoration: none;
 }
+.current {
+	text-decoration: underline;
+}
 
 /*----Jumbotron----*/
 #home-jumbotron {
