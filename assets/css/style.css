@@ -59,6 +59,9 @@ background-color: #ccc;
 /*----Jumbotron----*/
 #home-jumbotron {
 text-align: center;
+/*background-image: ('assets/images/publications/books.jpg'); 
+background-size: cover; 
+background-repeat: no-repeat;*/
 }
 
 #btn-icon {
@@ -90,16 +93,6 @@ text-align: center;
   width: 100%
 
 }
-/*.footer-style {
-position: sticky;
-min-width:100%;
-max-width:100%;
-top: 940px;
-display: flex;
-flex-direction: column;
-background-color: #1f1f1f;
-color: #ccc;
-}*/
 
 .footer-style h3 {
   margin-top:0;
@@ -306,3 +299,41 @@ color: #ccc;
   font-size: 24px;
   font-weight: 900;
 }
+
+
+
+
+/*----testing new jumbotron options----*/
+.jumbotron {
+  position:relative;
+  overflow:hidden;
+}
+
+.jumbotron .container {
+  position:relative;
+  z-index:2;
+  
+  background:rgba(0,0,0,0.2);
+  padding:2rem;
+  border:1px solid rgba(0,0,0,0.1);
+  border-radius:3px;
+}
+
+.jumbotron-background {
+  object-fit:cover;
+  font-family: 'object-fit: cover;';
+  position:absolute;
+  top:0;
+  z-index:1;
+  width:100%;
+  height:100%;
+  opacity:0.5;
+}
+
+img.blur {
+  -webkit-filter: blur(4px);
+  filter: blur(4px);
+  /*filter:progid:DXImageTransform.Microsoft.Blur(PixelRadius='4');*/
+
+}
+
