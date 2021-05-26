@@ -28,9 +28,8 @@ background-color: #ccc;
 }
 
 /*----Top Jumbotron----*/
-#top-jumbotron {
-  background-color: #f5f5f5 !important;
-  text-align: center;
+#index_jtron_top {
+  padding: 100px;
 }
 
 /*----Carousel----*/
