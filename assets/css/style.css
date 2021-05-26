@@ -300,6 +300,14 @@ img.blur {
   margin-right: 10px;
 }
 
+#group_image_about {
+  padding-top: 50px;
+}
+
+#intro_about {
+  text-align: center;
+  padding-bottom: 25px;
+}
 /*----Publications Page beginning----*/
 
 #publications-grid {
