@@ -313,6 +313,10 @@ img.blur {
   text-align: center;
   padding-bottom: 25px;
 }
+
+#about_jtron {
+  padding: 100px;
+}
 /*----Publications Page beginning----*/
 
 #publications-grid {
