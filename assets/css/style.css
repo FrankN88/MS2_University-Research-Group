@@ -342,5 +342,18 @@ img.blur {
   color: #D19D00;
 }
 
+#container-pub-covers {
+  padding: 50px;
+}
+
+#row-2-publications-cover {
+  padding-top: 25px;
+}
+
+.elements-publications-spacing {
+  padding: 2px;
+}
+  
+
 
 
