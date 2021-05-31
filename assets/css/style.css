@@ -361,6 +361,20 @@ input[type="submit"] {
 }
 /*----*/
 
+#embedded-map {
+  padding-top: 75px;
+  padding-bottom: 75px;
+}
+
+#map-title {
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+#map-spacing {
+  margin-right: 15px;
+}
+
 /*----About Page ends----*/
 
 
