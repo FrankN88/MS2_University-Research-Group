@@ -20,3 +20,11 @@ document.getElementById('form')
     });
     this.reset()
 });
+
+// Text area that autogrows based on its content//
+
+document.getElementById("field").addEventListener("input", function(){
+  this.style.height = 'inherit';
+  let height = this.scrollHeight;
+  this.style.height = height + "px";
+})

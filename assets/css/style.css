@@ -414,6 +414,21 @@ input[type="submit"] {
 .elements-publications-spacing {
   padding: 2px;
 }
+
+
+/*----Textarea----*/
+
+textarea {
+  min-height: 10vh;
+  max-height: 40vh;
+  margin: auto;
+  border-radius: 5px;
+  width: 100%;
+}
+
+
+
+
   
 
 
