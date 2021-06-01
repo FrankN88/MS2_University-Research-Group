@@ -14,11 +14,11 @@
 			this.actions();
 		},
 		_slideTo: function(slide) {
-			var currentSlide = this.slides[slide];
+			let currentSlide = this.slides[slide];
 			this.wrapper.style.left = "-" + currentSlide.offsetLeft + "px";
 		},
 		actions: function() {
-			var self = this;
+			let self = this;
 			self.next.addEventListener("click", function() {
 				self.index++;
 				self.previous.style.display = "block";
@@ -40,6 +40,6 @@
 		}
 	};
 	document.addEventListener("DOMContentLoaded", function() {
-		var slider = new Slideshow("#main-slider");
+		let slider = new Slideshow("#main-slider");
 	});
 })();
