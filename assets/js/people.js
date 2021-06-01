@@ -6,7 +6,7 @@
 	Slideshow.prototype = {
 		init: function() {
 			this.wrapper = this.el.querySelector(".slider-wrapper");
-			this.slides = this.el.querySelectorAll(".slide");
+			this.slides = this.el.querySelectorAll(".slide-gal");
 			this.previous = this.el.querySelector(".slider-previous");
 			this.next = this.el.querySelector(".slider-next");
 			this.index = 0;

@@ -448,7 +448,7 @@ textarea {
 	transition:left 500ms linear;
 }
 
-.slide {
+.slide-gal {
 	float:left;
 	position:relative;
 	width:1024px;
@@ -468,7 +468,7 @@ textarea {
 	height:40px;
 	cursor:pointer;
 	text-indent:-9999em;
-	background-color:transparent;
+	background-color:yellow;
 	background-repeat:no-repeat;
 }
 
@@ -477,14 +477,15 @@ textarea {
 }
 
 .slider-nav button.slider-previous {
-	float:left;
-	background-image:url(https://unsplash.com/photos/221wufG10eg);
-	display:none;
-}
+  float: left;
+  background-color: red;
+  /*display: none;*/
+  }
 
 .slider-nav button.slider-next {
-	float:right;
-	background-image:url(https://unsplash.com/photos/4Zaq5xY5M_c);
-}
+  float: right;
+  background-color: green;
+  /*display: none;*/
+  }
 
 
