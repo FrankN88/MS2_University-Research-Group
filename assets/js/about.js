@@ -30,10 +30,3 @@ document.getElementById("field").addEventListener("input", function(){
 })
 
 // User input validation
-function validationForm() {
-  let x = document.forms["from_name"]["message"].value;
-  if (x == "") {
-    alert("Please fill the fields");
-    return false;
-  }
-}
