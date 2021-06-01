@@ -1,4 +1,6 @@
 let slides=document.querySelector('.slider-items').children;
+
+
 let nextSlide=document.querySelector(".right-slide");
 let prevSlide=document.querySelector(".left-slide");
 let totalSlides=slides.length;
