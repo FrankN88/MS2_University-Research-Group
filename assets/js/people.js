@@ -1,45 +1,36 @@
-(function() {
-	function Slideshow(element) {
-		this.el = document.querySelector(element);
-		this.init();
-	}
-	Slideshow.prototype = {
-		init: function() {
-			this.wrapper = this.el.querySelector(".slider-wrapper");
-			this.slides = this.el.querySelectorAll(".slide-gal");
-			this.previous = this.el.querySelector(".slider-previous");
-			this.next = this.el.querySelector(".slider-next");
-			this.index = 0;
-			this.total = this.slides.length;
-			this.actions();
-		},
-		_slideTo: function(slide) {
-			let currentSlide = this.slides[slide];
-			this.wrapper.style.left = "-" + currentSlide.offsetLeft + "px";
-		},
-		actions: function() {
-			let self = this;
-			self.next.addEventListener("click", function() {
-				self.index++;
-				self.previous.style.display = "block";
-				if (self.index == self.total - 1) {
-					self.index = self.total - 1;
-					self.next.style.display = "none";
-				}
-				self._slideTo(self.index);
-			}, false);
-			self.previous.addEventListener("click", function() {
-				self.index--;
-				self.next.style.display = "block";
-				if (self.index == 0) {
-					self.index = 0;
-					self.previous.style.display = "none";
-				}
-				self._slideTo(self.index);
-			}, false);
-		}
-	};
-	document.addEventListener("DOMContentLoaded", function() {
-		let slider = new Slideshow("#main-slider");
-	});
-})();
+let slides=document.querySelector('.slider-items').children;
+let nextSlide=document.querySelector(".right-slide");
+let prevSlide=document.querySelector(".left-slide");
+let totalSlides=slides.length;
+let index=0;
+
+nextSlide.onclick=function () {
+     next("next");
+}
+prevSlide.onclick=function () {
+     next("prev");
+}
+
+function next(direction){
+
+   if(direction=="next"){
+      index++;
+       if(index==totalSlides){
+        index=0;
+       }
+   } 
+   else{
+           if(index==0){
+            index=totalSlides-1;
+           }
+           else{
+            index--;
+           }
+    }
+
+  for(i=0;i<slides.length;i++){
+          slides[i].classList.remove("active");
+  }
+  slides[index].classList.add("active");     
+
+}
