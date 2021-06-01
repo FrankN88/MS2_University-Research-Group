@@ -28,5 +28,3 @@ document.getElementById("field").addEventListener("input", function(){
   let height = this.scrollHeight;
   this.style.height = height + "px";
 })
-
-// User input validation
