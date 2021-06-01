@@ -1,4 +1,4 @@
-// EmailJS function //
+// EmailJS function
 const btn = document.getElementById('button');
 
 document.getElementById('form')
@@ -21,10 +21,19 @@ document.getElementById('form')
     this.reset()
 });
 
-// Text area that autogrows based on its content//
+// Text area that autogrows based on its content
 
 document.getElementById("field").addEventListener("input", function(){
   this.style.height = 'inherit';
   let height = this.scrollHeight;
   this.style.height = height + "px";
 })
+
+// User input validation
+function validationForm() {
+  let x = document.forms["from_name"]["message"].value;
+  if (x == "") {
+    alert("Please fill the fields");
+    return false;
+  }
+}
