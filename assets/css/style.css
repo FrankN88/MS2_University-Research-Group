@@ -265,7 +265,7 @@ img.blur {
 
 .h3-cards-people {
   text-align: center;
-  padding-bottom: 25px;
+  padding-bottom: none;
   color: #1a1a1ae6;
   font-weight: 900;
 }
@@ -333,10 +333,6 @@ img.blur {
 }
 
 .field input {
-  /*display: block;
-  min-width: 250px;
-  line-height: 1.5;
-  font-size: 14px;*/
   width: 100%;
   padding: 12px;
   border: 1px solid #ccc;
@@ -346,12 +342,6 @@ img.blur {
 }
 
 input[type="submit"] {
-  /*display: block;
-  padding: 6px 30px;
-  font-size: 14px;
-  background-color: #4460AA;
-  color: #fff;
-  border: none*/
   background-color: #04AA6D;
   color: white;
   padding: 12px 20px;
@@ -442,7 +432,7 @@ textarea {
 
 .slider {
 	max-width: 700px;
-	border:10px solid  #D19d00;
+	border: 5px solid  #D19d00;
 	margin:80px auto;
 	position: relative;
 	overflow: hidden;
@@ -465,7 +455,7 @@ textarea {
 }
 .slider .left-slide:hover,.slider .right-slide:hover {
  box-shadow: 0px 0px 10px #f5f5f5;
- background-color: #29a8e2;
+ background-color: #D19d00;
 }
 
 .slider .left-slide {
