@@ -485,4 +485,17 @@ textarea {
   padding: 2px;
 }
 
+/*----Projects Page beginning----*/
 
+#projects-icon {
+  margin-left: 15px;
+}
+
+#quiz-title {
+  text-align: center;
+}
+
+#quiz-p {
+  text-align: center;
+  padding-top: 20px;
+}
