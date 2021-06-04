@@ -243,6 +243,10 @@ The guiding approach in developing the website was the motto: "Mobile First". Th
 **Iframe Bug** 
 - An iframe related bug was found when reducing the screen size. Google Maps iframe was not responsive in smaller devices and overflowed the screen. It was resolved using the Bootstrap classes as with the Youtube iframe.
 
+**Form Issue** 
+- The form is correctly working and sending emails. During the development of the page i have tried to build a function within the emailJS one that would validate the inputs. As a result of that the form stopped working and i have decided to go back to the original idea of using the "required" attribute to validate the empty fields.
+The "required" attribute satisfies 100% the functionality i needed, therefore i have decided not to jeopardize the form function and leave it the way it was.
+
 **HTML Validator-related resolved bugs**
 - xxxxx
 - xxxxx
@@ -349,7 +353,6 @@ The developer consulted multiple sites in order to better understand the code th
 - [W3Schools](https://www.w3schools.com/ "Link to W3Schools page")
 - [Bootstrap](https://getbootstrap.com/ "Link to BootStrap page")
 - [MDN Web Docs](https://developer.mozilla.org/en-US/ "Link to MDN Web Docs")
-- [jQuery](https://jquery.com/ "Link to jQuery page")
 - [jQuery](https://jquery.com/ "Link to jQuery page")
 
 ### Acknowledgements
