@@ -3,7 +3,7 @@
 
 body {
   background-color: #f5f5f5;
-  font-family: "open sans";
+  font-family: "Open Sans", "Roboto";
 }
 /*----Navbar----*/
 .navbar {
@@ -499,3 +499,4 @@ textarea {
   text-align: center;
   padding-top: 20px;
 }
+
