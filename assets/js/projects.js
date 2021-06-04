@@ -116,7 +116,7 @@ function next(){
     validate();
 }
 
-//Function to disable click for the options
+//Disable click for the options
 function disableClick(){
     for(let i=0; i<options.length; i++){
         options[i].classList.add("disabled")
@@ -127,7 +127,13 @@ function disableClick(){
     }
 }
 
+//Enable click in the options
+function enableClick(){
+    for(let i=0; i<options.length; i++){
+        options[i].classList.remove("disabled", "correct", "wrong")
 
+    }
+}
 
 
 
