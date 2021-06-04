@@ -111,6 +111,24 @@ function validate(){
     }
 }
 
+//Click event on Next button
+function next(){
+    validate();
+}
+
+//Function to disable click for the options
+function disableClick(){
+    for(let i=0; i<options.length; i++){
+        options[i].classList.add("disabled")
+
+        if(options[i].id == questions[currentIndex].answer){
+            options[i].classList.add('correct');
+        }
+    }
+}
+
+
+
 
 
 
