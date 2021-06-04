@@ -86,5 +86,31 @@ function load(){
     index++
 }
 
+//Check the answer
+function check(element){
+    if(element.id == questions[currentIndex].answer){
+        element.className="correct"
+        updateAnswersTracker("correct")
+        score++
+    }
+    else {
+        element.className="wrong"
+        updateAnswersTracker("wrong")
+    }
+    disableClick();
+}
+
+//Validate button before passing to next
+function validate(){
+    if(!options[0].classList.contains("disabled")){
+        alert("Please select an option")
+    }
+    else{
+        randomQuestion();
+        enableClick();
+    }
+}
+
+
 
 
