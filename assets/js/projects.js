@@ -1,6 +1,26 @@
 // Quiz game
 
 // Questions
+const answersContainer = document.querySelector(".answers-result")
+const options = document.querySelector(".options").children
+const questionSpan = document.querySelector(".question-num-value")
+const question=document.querySelector(".question")
+const totalQuestions =document.querySelector(".total-questions")
+const correctAnswersSpan =document.querySelector(".correct-answers")
+const totalQuestions2 =document.querySelector(".total-questions2")
+const percentageSpan =document.querySelector(".percentage")
+
+let currentIndex;
+let index = 0;
+let respondedQuestions =[];
+let score = 0;
+
+const opt1 = document.querySelector(".option1")
+const opt2 = document.querySelector(".option2")
+const opt3 = document.querySelector(".option3")
+const opt4 = document.querySelector(".option4")
+
+
 const questions = [
     {
         q:'What is the approximated measure of the speed of light?',
@@ -53,4 +73,18 @@ const questions = [
   answer:1
 }
 ]
+
+totalQuestions.innerHTML = questions.length
+
+function load(){
+    questionSpan.innerHTML = index + 1
+    question.innerHTML = questions[currentIndex].q;
+    opt1.innerHTML = questions[currentIndex].options[0]    
+    opt2.innerHTML = questions[currentIndex].options[1]
+    opt3.innerHTML = questions[currentIndex].options[2]
+    opt4.innerHTML = questions[currentIndex].options[3]
+    index++
+}
+
+
 
