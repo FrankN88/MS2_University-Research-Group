@@ -135,6 +135,36 @@ function enableClick(){
     }
 }
 
+//Select a random question
+function randomQuestion(){
+    let randomNumber = Math.floor(Math.random()*questions.length);
+    if(index == questions.length){
+        quizOver();
+    }
+    else{
+        if(respondedQuestions.length > 0){
+            if(respondedQuestions.includes(randomNumber)){
+                randomQuestion();
+            }
+            else {
+                currentIndex = randomNumber;
+                load();
+            }
+        }
+        if(respondedQuestions.length == 0){
+            currentIndex = randomNumber
+            load()
+        }
+        respondedQuestions.push(randomNumber)
+    }
+}
+
+//Restart
+window.onload=function(){
+    this.randomQuestion();
+    this.answersTracker();
+}
+
 
 
 
