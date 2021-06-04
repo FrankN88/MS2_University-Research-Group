@@ -165,6 +165,31 @@ window.onload=function(){
     this.answersTracker();
 }
 
+//Set up answers tracker elements
+function answersTracker(){
+    for(let i=0; i< questions.length; i++){
+        const div =document.createElement("div")
+        answersContainer.appendChild(div);
+    }
+}
+
+//Update the answers tracker elements
+function updateAnswersTracker(newClass){
+    answersContainer.children[index -1].classList.add(newClass)
+}
+
+//Displays the quiz-over page
+function quizOver(){
+    document.querySelector(".quiz-over").classList.add("show")
+    correctAnswersSpan.innerHTML = score;
+    totalQuestions2.innerHTML = questions.length
+    percentageSpan.innerHTML=Math.round((score/questions.length)*100) + "%"
+}
+
+function tryAgain(){
+    window.location.reload();
+}
+
 
 
 
