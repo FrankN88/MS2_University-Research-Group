@@ -67,10 +67,41 @@
   </div>
 
   <!-- Game -->
+  <div class="container" id="game-wrapper">
+  <div class="game-container">
+    <div class="ask-number">
+        <h3>Question <span class="question-num-value"></span> of 
+            <span class="total-questions"></span>
+        </h3>
+    </div>
+    <div class="question"></div>
+    <div class="options">
+        <div id="0" class="option1" onclick="check(this)"></div>
+        <div id="1" class="option2" onclick="check(this)"></div>
+        <div id="2" class="option3" onclick="check(this)"></div>
+        <div id="3" class="option4" onclick="check(this)"></div>
+    </div>
+    <div class="button btn">
+        <button type="button" onclick="next()" class="btn">Next</button>
+    </div>
+    <div class="answers-result">
   
+    </div>
+  </div>
+  <div class="quiz-over">
+    <div class="box">
+        <h1>Well Done! <br />
+            You got <span class="correct-answers"></span> out of 
+            <span class="total-questions2"></span> answers correct. 
+            That is <span class="percentage"></span>
+            Try Again
+        </h1>
+        <button type="button" onclick="tryAgain()">Try Again!</button>
+    </div>
+  </div>
+</div>
 
  
-
 <!-- Footer -->
 <footer>
   <div class="footer-style">

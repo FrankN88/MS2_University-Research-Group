@@ -1,4 +1,4 @@
-
+// Quiz game
 
 // Questions
 const questions = [
