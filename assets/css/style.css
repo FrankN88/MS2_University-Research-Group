@@ -676,6 +676,40 @@ textarea {
   color: white;
 }
 
+/*---clock---*/
+
+
+#bodyclock {
+	font-size: 16px;
+	padding-top: 20px;
+  padding-bottom: 5px;
+	background: #f5f5f5;
+	color: black;
+	display: flex;align-items: center;
+	justify-content: space-around;
+	height: 5vh;
+  box-sizing: border-box;
+  font-family: "roboto";
+}
+
+.digi_clock{
+	font-family: "roboto";
+    font-size: 150px;
+}
+
+.digi_clock span{
+	display: inline-block;
+}
+#second{
+	width: 250px;
+}
+#ampm{
+	font-family: "roboto";
+	font-size: 70%;
+	font-weight: 800;
+
+}
+
 /*----Projects Page Ends----*/
 
 
