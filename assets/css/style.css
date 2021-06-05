@@ -491,6 +491,10 @@ textarea {
   margin-left: 15px;
 }
 
+#projects-icon2 {
+  margin-left: 15px;
+}
+
 #quiz-title {
   text-align: center;
 }
@@ -512,6 +516,7 @@ textarea {
   margin: 30px auto;
   border-radius: 8px;
   padding: 30px;
+  border: 5px solid #D19d00;
 }
 
 .ask-number h3 {
