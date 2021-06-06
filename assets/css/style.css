@@ -38,8 +38,10 @@ body {
   color: #ccc !important;
 }
 
-.navbar-toggler-icon {
-  color: #ccc !important;
+.navbar-light .navbar-toggler {
+  color: #ccc;
+  border-color: #ccc;
+  padding-left: 15px !important;
 }
 
 .dropdown-menu {
