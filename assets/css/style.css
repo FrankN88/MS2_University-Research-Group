@@ -717,7 +717,7 @@ textarea {
 #bars-box {
   text-align: center;
   padding-top: 25px;
-  padding-bottom: 50px;
+  padding-bottom: 100px;
 }
 
 .areatitle {
@@ -725,8 +725,8 @@ textarea {
   font-size: 1.5em;
 }
 .areabar {
-  margin: 0.5em 0;
-  width: 80%;
+  margin: 10px;
+  width: 100%;
   border-radius: 10px;
   background-color: #d19d00;
 }
@@ -748,9 +748,9 @@ textarea {
 .areabar .blue {
   background-color: #4169E1;
 }
-.gray {
+.green {
   background-color: #9ACD32;
 }
-.brown {
+.azure {
   background-color: #ADD8E6;
 }
