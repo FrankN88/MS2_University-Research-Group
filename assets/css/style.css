@@ -485,6 +485,48 @@ textarea {
   padding: 2px;
 }
 
+/*---Percentage---*/
+#bars-box {
+  text-align: center;
+  padding-top: 25px;
+  padding-bottom: 100px;
+}
+
+.areatitle {
+  text-align: center;
+  font-size: 1.5em;
+}
+.areabar {
+  margin: 10px;
+  width: 100%;
+  border-radius: 10px;
+  background-color: #d19d00;
+}
+.areabar .progress {
+  font-weight: 900;
+  font-size: 0.7em;
+  text-align: right;
+  padding: 1em;
+  width: 10%;
+  color: #fff;
+  border-radius: 10px;
+  position: relative;
+}
+.areabar .progress .subjectName {
+
+  position: absolute;
+  left: 50%;
+}
+.areabar .blue {
+  background-color: #4169E1;
+}
+.green {
+  background-color: #9ACD32;
+}
+.azure {
+  background-color: #ADD8E6;
+}
+
 /*----Projects Page beginning----*/
 
 #projects-icon {
@@ -713,44 +755,3 @@ textarea {
 /*----Projects Page Ends----*/
 
 
-/*---Percentage---*/
-#bars-box {
-  text-align: center;
-  padding-top: 25px;
-  padding-bottom: 100px;
-}
-
-.areatitle {
-  text-align: center;
-  font-size: 1.5em;
-}
-.areabar {
-  margin: 10px;
-  width: 100%;
-  border-radius: 10px;
-  background-color: #d19d00;
-}
-.areabar .progress {
-  font-weight: 900;
-  font-size: 0.7em;
-  text-align: right;
-  padding: 1em;
-  width: 10%;
-  color: #fff;
-  border-radius: 10px;
-  position: relative;
-}
-.areabar .progress .subjectName {
-
-  position: absolute;
-  left: 50%;
-}
-.areabar .blue {
-  background-color: #4169E1;
-}
-.green {
-  background-color: #9ACD32;
-}
-.azure {
-  background-color: #ADD8E6;
-}
