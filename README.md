@@ -1,7 +1,9 @@
 <h1 align="center">Magnetic Soft Matter Group</h1>
 
 ![URG Mockup Images](place_mockup_image_here)
+
 [View the live project here](https://frankn88.github.io/MS2_University-Research-Group/)
+
 [View the testing information here - (TESTING.md) ](TESTING.md)
 
 ## Table of contents
@@ -133,57 +135,59 @@ Several style changes were made in the final project compared to the inital wire
  1. Home Page:
 ![Home Page Wireframe](place_image_here "Home Page Wireframe")
 
- 2. page
- ![xxxx Page Wireframe](place_image_here "xxxx Wireframe")
+ 2. About
+ ![About Page Wireframe](place_image_here "About Wireframe")
 
- 3. page
-  ![xxxx Page Wireframe](place_image_here "xxxx Wireframe")
+ 3. People
+  ![People Page Wireframe](place_image_here "People Wireframe")
 
- 4. page
-  ![xxxx Page Wireframe](place_image_here "xxxx Wireframe")
+ 4. Projects
+  ![Projects Page Wireframe](place_image_here "Projects Wireframe")
 
- 5. page
-  ![xxxx Page Wireframe](place_image_here "xxxx Wireframe")
+ 5. Publications
+  ![Publications Page Wireframe](place_image_here "Publications Wireframe")
 
 ### Surface
 
 #### Colour Scheme
-  - The main colours used throughout the website are a mixture of xxxxxxx (to represent the colour of xxxx), white (as a clear and non-invasive contrast colour to the previous one), and black fonts.
+  - The main colours used throughout the website are a mixture of dark gray, opaque white (as a clear and non-invasive contrast colour to the previous one), and black fonts.
 
 #### Typography
-  -   The Oswald font is the main font used throughout the whole website with Nunito as the fallback font in case, for any reason, the font won't be imported into the site correctly.
-  -   The Oswald font is the main font used throughout the whole website with Nunito as the fallback font in case, for any reason, the font will not be imported into the site correctly.
+  -   The "Open sans" font is the main font used throughout the whole website with "Roboto" as the fallback font in case, for any reason, the font won't be imported into the site correctly.
 
 #### Imagery
-  -   Imagery is extremely important in xxxxxx related websites. It is designed to be striking and catch the user's attention. The carousel on the homepage is an immediate example of an element that catches the attention of the user with the most important features about the xxxxxx.
-  - It also has a modern but classic aesthetic. The imagery has been thought about carefully to draw the attention of the user straight to the main components of the website.
+  -   Imagery is extremely important in websites that aim to show the reliability of a research group. It is designed to be striking and catch the user's attention. The carousel on the homepage is an immediate example of an element that catches the attention of the user with the most important technologies and staff.
+  - It also has a smart and simple aesthetic. The imagery has been thought about carefully to draw the attention of the user straight to the main components of the website.
 
 ## Features
 
 ### Design Features
 Each page of the website features a consistent responsive navigational system:
-- A responsive top **Banner** is positioned at the very beginning of the page entirely for aesthetic reasons.
 - The **Header** contains a conventionally placed **logo** at the top left of the page (clicking this will redirect users back to the home page) and **navigation bar** at the top right of the page.
-- On smaller screens, the navigation bar collapses into a **toggler** icon whereby clicking it will reveal the navigation and social media links.
-- On larger screens, the **Footer** contains the appropriate **social media icons**, linking users to the main social media pages of the research group.
-- In the footer, there is a mailto action above the email.
-- <li><strong>xxxxx</strong> - Those <strong>call to action</strong> buttons are present at least once on every page,so that the users are prone to clicking.
+- On smaller screens, the navigation bar collapses into a **toggler** icon whereby clicking it will reveal the links to the other pages.
+- The **Footer** contains the appropriate **social media icons**, linking users to the main social media pages of the research group and university logo (clicking this will redirect users back to the univesity official page). Also the address in the footer works as a link to the university in Google Maps.
+- In the footer, there are respectively a mailto and a callto embedded in the email and number.
+- <li><strong>Back to the top btn</strong> - Those <strong>buttons</strong> are present in the footer so that the user can comfortably click them to be redirected to the top of the page. This feature improves the quality of navigation, especially if using smartphones.
 </li>
 <dl>
-  <dt><a href="index.html" target="_blank" alt="Pasta & Vino Home Page">Home Page</a></dt>
+  <dt><a href="index.html" target="_blank" alt="Research group Home Page">Home Page</a></dt>
   <dd>The Home Page consists of the following elements:
      <ul>
-          <li><strong>Hero Image/carousel</strong> - Occupies 100% of the page width, from the left to the right, while being viewed on all devices. The imagery used was specifically chosen as it created an impactful first impression of the winebar/ restaurant with inspiring images, establishing user expectations for what comes next.
+          <li><strong>Introductory Jumbotron with title</strong> - Occupies 100% of the page width, from the left to the right, while being viewed on all devices. It Introduces the page the user is checking with a short title and a blurred background that changes for every page.
           </li>
-          <li><strong>Card list</strong> - Occupies 80% of the page width, from left to right, while being viewed on a desktop. On mobile and tablet devices, the card list responsively positions vertically, underneath the <strong>Carousel</strong>. The purpose of the card list is to provide an area in the center to highlight the three main features of the restaurant. This style was chosen in order to draw the users' attention to the information straight away. In this, there is a <strong>call to action</strong> button which links to the external page where users are invited to check out the impressive wine/spirits list, one of the main features of the winebar/ restaurant.
+          <li><strong>Hero Image/carousel</strong> - Occupies 100% of the page width, from the left to the right, while being viewed on all devices. The imagery used was specifically chosen as it created an impactful first impression of the technologies used.
           </li>
-          <li><strong>Feedback</strong> - Positive <strong>reviews</strong> are positioned just below the card list to increase trust in the user.
+          <li><strong>Descriptive Cards</strong> - Taking 80% of the page width, from left to right, while being viewed on a desktop. On mobile and tablet devices, the descriptive cards responsively positions vertically, underneath the <strong>Carousel</strong>. The purpose of the card list is to show immediately part of the staff with a little description.
+          </li>
+          <li><strong>Jumbotron and Button</strong> - Strategically positioned between the cards, a jumbotron with a blurred background immediately convey the attention to a button that leads the user to the people's page.
           </li>
      </ul>
   </dd>
-  <dt><a href="xxxx.html" target="_blank" alt="xxxx Page">Menu Page</a></dt>
-  <dd>The xxxx page consists of the following elements:
+  <dt><a href="about.html" target="_blank" alt="About Page">About Page</a></dt>
+  <dd>The About page consists of the following elements:
      <ul>
+          <li><strong>Introductory Jumbotron with title</strong> - Occupies 100% of the page width, from the left to the right, while being viewed on all devices. It Introduces the page the user is checking with a short title and a blurred background that changes for every page.
+          </li>
           <li><strong>Card list</strong> - Occupying about 80% of the page, this comprehensive card list shows the main and most popular dishes of the restaurant. It starts with appetizers and ends with desserts.
           Once again, in the wine section of the page a <strong>call to action</strong> button is present, which redirects the user to an external PDF page with the wine/spirits menu.
           </li>
