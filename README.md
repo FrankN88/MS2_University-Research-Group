@@ -188,34 +188,49 @@ Each page of the website features a consistent responsive navigational system:
      <ul>
           <li><strong>Introductory Jumbotron with title</strong> - Occupies 100% of the page width, from the left to the right, while being viewed on all devices. It Introduces the page the user is checking with a short title and a blurred background that changes for every page.
           </li>
-          <li><strong>Card list</strong> - Occupying about 80% of the page, this comprehensive card list shows the main and most popular dishes of the restaurant. It starts with appetizers and ends with desserts.
-          Once again, in the wine section of the page a <strong>call to action</strong> button is present, which redirects the user to an external PDF page with the wine/spirits menu.
+          <li><strong>Hero Image</strong> - Occupying about 80% of the page, this hero image shows the group together.
           </li>
-          <li><strong>Notices</strong> - At the end of the page there is a list of important information about rules and regulations about the locale.
+          <li><strong>Contact Form</strong> - A little introduction followed by a working contact form. The user can contact the team with this form and fill out a message. The form is connected to EmailJS API.
           </li>
-     </ul>
-  </dd>
-  <dt><a href="xxxx.html" target="_blank" alt="xxxx Page">Gallery Page</a></dt>
-  <dd>The Gallery page consists of the following elements:
-     <ul>
-          <li><strong>Collage</strong> - Occupying about 50% of the page, this impressive and resposive gallery has the goal of showing the place in a way that catches the user's attention. The images have an ease-in-out effect in order to be more interesting and fun. Furthermore, every time the user hovers over the images, the name of the restaurant appears in a way that is not invasive but effective.
-          </li>
-          <li><strong>Google Maps</strong> - iframe embedding of Google maps shows the location of the restaurant. The map is responsive in smaller devices.
-          </li>
-          <li><strong>Youtube Video</strong> - iframe embedding of a Youtube video showing a chef plating up. Once again, an element intended to catch the user's attention and increase curiosity.
+          <li><strong>Map</strong> - An iframe containing a map clearly shows the position of the university.
           </li>
      </ul>
   </dd>
-  <dt><a href="xxxx.html" target="_blank" alt="xxxx Page">About Us</a></dt>
-  <dd>The About Us page consists of the following elements:
+  <dt><a href="people.html" target="_blank" alt="People Page">People Page</a></dt>
+  <dd>The people page consists of the following elements:
      <ul>
-          <li><strong>Main Image</strong> - A catchy image designed to capture the attention of the user about a feature of the xxxx and to draw the eye to the following element.
+          <li><strong>Introductory Jumbotron with title</strong> - Occupies 100% of the page width, from the left to the right, while being viewed on all devices. It Introduces the page the user is checking with a short title and a blurred background that changes for every page.
           </li>
-          <li><strong>Our Driving Force</strong> - Two cards positioned next to each other with a description of the two main protagonists of the restaurant. This part is for the users who want to know more about the two people who represent the strong points of the restaurant and its success.
+          <li><strong>Cards list</strong> - Occupying most of the page, this ordered card list shows every single component of the team and a very brief description of the role he/she has in the group. The cards are totally responsive and position vertically if visualised in smaller devices.
           </li>
-          <li><strong>Second Main Image</strong> - Catchy image designed to capture the attention of the user about a feature of the restaurant (main dining area) and as a sort of separation from the following element.
+          <li><strong>Dynamic Gallery</strong> - this dynamic gallery was built using JS and aims to show part of the staff in a cool way so that the user can click and visualise. 
+          Once again, an element intended to catch the user's attention and increase curiosity.
           </li>
-          <li><strong>Form</strong> - A standard form for the users who want to subscribe.
+     </ul>
+  </dd>
+  <dt><a href="projects.html" target="_blank" alt="Projects Page">Projects</a></dt>
+  <dd>The projects page consists of the following elements:
+     <ul>
+          <li><strong>Introductory Jumbotron with title</strong> - Occupies 100% of the page width, from the left to the right, while being viewed on all devices. It Introduces the page the user is checking with a short title and a blurred background that changes for every page.
+          </li>
+          <li><strong>Clock</strong> - A clock positioned on top of the quiz div shows the real time of the location the user is in.
+          </li>
+          <li><strong>Quiz</strong> - Science based quiz. This quiz has been created to entertain the user while waiting. The questions show immediately if they have been answered correctly or not and at the end give a feedback with a percentage.
+          </li>
+          <li><strong>xxxxx</strong> - xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+          </li>
+     </ul>
+  </dd>
+  <dt><a href="publications.html" target="_blank" alt="Publications Page">Publications Page</a></dt>
+  <dd>The Publications page consists of the following elements:
+     <ul>
+          <li><strong>Introductory Jumbotron with title</strong> - Occupies 100% of the page width, from the left to the right, while being viewed on all devices. It Introduces the page the user is checking with a short title and a blurred background that changes for every page.
+          </li>
+          <li><strong>Images with links</strong> - Those six images are connected to external links leading to scientific magazines.
+          </li>
+          <li><strong>Publications</strong> - Detailed list of publications, year after year, connected to the respective link on the scientific platforms.
+          </li>
+          <li><strong>Progress Bar</strong> - This dynamic progress bar diagram shows the main macro areas of research with the related percentage.
           </li>
      </ul>
   </dd>
