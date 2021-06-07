@@ -251,16 +251,16 @@ The developer ran into a number of issues during the development of the pages.
 The guiding approach in developing the website was the motto: "Mobile First". This aims to create better experiences for users by starting the design process from the smallest of screens: a mobile.
 
 **Navbar issue** 
-- An initial issue was to position the navbar links aligned to the logo. This was resolved with a few trials on where to position the right div.
+- An initial issue was the position (if opened from a small device) the button would take in relation to the logo. After a few trials it has been resolved by reducing the size of the logo and adding some margin to the button.
 
-**Social Links Bug** 
-- A bug was found when testing the social media links. It would not redirect to the right page, giving an error message. It has been resolved by inserting a more complete URL.
+**Cookies Bug** 
+- A responsive mistake related to the cookies was not noticed at the beginning. The cookied div would not respond well of seen on smaller devices, pushing all of the other elemnts in an unnatural way. The use of Bootsrap's container class resolved that issue.
 
 **Gallery Issue** 
-- A great amount of time was dedicated to finding the most suitable style for a gallery that could be both responsive and aesthetically pleasing. After many trials with Bootstrap and other solutions, the best approach was that of a gallery made with CSS Media Queries.
+- A great amount of time was dedicated to finding the most suitable style for a gallery that could be both responsive and aesthetically pleasing. After many trials, the best approach was a dynamic gallery made with JS that would respond to user inputs.
 
-**Iframe Bug** 
-- An iframe related bug was found when reducing the screen size. Google Maps iframe was not responsive in smaller devices and overflowed the screen. It was resolved using the Bootstrap classes as with the Youtube iframe.
+**Progress bar issue** 
+- The elements in the progress bar would overlay one another. Sizing via CSS and enlarging the div resolved that issue and made it totally responsive.
 
 **Form Issue** 
 - The form is correctly working and sending emails. During the development of the page i have tried to build a function within the emailJS one that would validate the inputs. As a result of that the form stopped working and i have decided to go back to the original idea of using the "required" attribute to validate the empty fields.
