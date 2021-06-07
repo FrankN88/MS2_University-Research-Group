@@ -10,11 +10,6 @@ document.getElementById('form')
    const serviceID = 'default_service';
    const templateID = 'template_l5nl898';
 
-   /* const element1 = document.getElementByID('from_name').value; // testing validation
-   const element2 = document.getElementByID('field').value; // testing validation
-
-   if (element1 == "" && element2 == "") { */
-
    emailjs.sendForm(serviceID, templateID, this)
     .then(() => {
       btn.value = 'Send Email';
@@ -24,10 +19,6 @@ document.getElementById('form')
       alert(JSON.stringify(err));
     });
     this.reset()
-
-  /*} else { // testing validation
-    alert("Please fill out the form before sending an email"); // testing validation
-    } // testing validation*/
 
 });
 

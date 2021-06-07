@@ -1,24 +1,22 @@
-// Quiz game
-
 // Questions
-const answersContainer = document.querySelector(".answers-result")
-const options = document.querySelector(".options").children
-const questionSpan = document.querySelector(".question-num-value")
-const question=document.querySelector(".question")
-const totalQuestions =document.querySelector(".total-questions")
-const correctAnswersSpan =document.querySelector(".correct-answers")
-const totalQuestions2 =document.querySelector(".total-questions2")
-const percentageSpan =document.querySelector(".percentage")
+const answersContainer = document.querySelector(".answers-result");
+const options = document.querySelector(".options").children;
+const questionSpan = document.querySelector(".question-num-value");
+const question=document.querySelector(".question");
+const totalQuestions =document.querySelector(".total-questions");
+const correctAnswersSpan =document.querySelector(".correct-answers");
+const totalQuestions2 =document.querySelector(".total-questions2");
+const percentageSpan =document.querySelector(".percentage");
 
 let currentIndex;
 let index = 0;
 let respondedQuestions =[];
 let score = 0;
 
-const opt1 = document.querySelector(".option1")
-const opt2 = document.querySelector(".option2")
-const opt3 = document.querySelector(".option3")
-const opt4 = document.querySelector(".option4")
+const opt1 = document.querySelector(".option1");
+const opt2 = document.querySelector(".option2");
+const opt3 = document.querySelector(".option3");
+const opt4 = document.querySelector(".option4");
 
 
 const questions = [
@@ -72,30 +70,30 @@ const questions = [
   options:['Newton', 'Coriolis', 'Bohr', 'Planck'],
   answer:1
 }
-]
+];
 
-totalQuestions.innerHTML = questions.length
+totalQuestions.innerHTML = questions.length;
 
 function load(){
-    questionSpan.innerHTML = index + 1
+    questionSpan.innerHTML = index + 1;
     question.innerHTML = questions[currentIndex].q;
-    opt1.innerHTML = questions[currentIndex].options[0]    
-    opt2.innerHTML = questions[currentIndex].options[1]
-    opt3.innerHTML = questions[currentIndex].options[2]
-    opt4.innerHTML = questions[currentIndex].options[3]
-    index++
+    opt1.innerHTML = questions[currentIndex].options[0];    
+    opt2.innerHTML = questions[currentIndex].options[1];
+    opt3.innerHTML = questions[currentIndex].options[2];
+    opt4.innerHTML = questions[currentIndex].options[3];
+    index++;
 }
 
 //Check the answer
 function check(element){
     if(element.id == questions[currentIndex].answer){
-        element.className="correct"
-        updateAnswersTracker("correct")
-        score++
+        element.className="correct";
+        updateAnswersTracker("correct");
+        score++;
     }
     else {
-        element.className="wrong"
-        updateAnswersTracker("wrong")
+        element.className="wrong";
+        updateAnswersTracker("wrong");
     }
     disableClick();
 }
@@ -103,7 +101,7 @@ function check(element){
 //Validate button before passing to next
 function validate(){
     if(!options[0].classList.contains("disabled")){
-        alert("Please select an option")
+        alert("Please select an option");
     }
     else{
         randomQuestion();
@@ -119,7 +117,7 @@ function next(){
 //Disable click for the options
 function disableClick(){
     for(let i=0; i<options.length; i++){
-        options[i].classList.add("disabled")
+        options[i].classList.add("disabled");
 
         if(options[i].id == questions[currentIndex].answer){
             options[i].classList.add('correct');
@@ -130,7 +128,7 @@ function disableClick(){
 //Enable click in the options
 function enableClick(){
     for(let i=0; i<options.length; i++){
-        options[i].classList.remove("disabled", "correct", "wrong")
+        options[i].classList.remove("disabled", "correct", "wrong");
 
     }
 }
@@ -152,10 +150,10 @@ function randomQuestion(){
             }
         }
         if(respondedQuestions.length == 0){
-            currentIndex = randomNumber
-            load()
+            currentIndex = randomNumber;
+            load();
         }
-        respondedQuestions.push(randomNumber)
+        respondedQuestions.push(randomNumber);
     }
 }
 
@@ -163,27 +161,27 @@ function randomQuestion(){
 window.onload=function(){
     this.randomQuestion();
     this.answersTracker();
-}
+};
 
 //Set up answers tracker elements
 function answersTracker(){
     for(let i=0; i< questions.length; i++){
-        const div =document.createElement("div")
+        const div =document.createElement("div");
         answersContainer.appendChild(div);
     }
 }
 
 //Update the answers tracker elements
 function updateAnswersTracker(newClass){
-    answersContainer.children[index -1].classList.add(newClass)
+    answersContainer.children[index -1].classList.add(newClass);
 }
 
 //Displays the quiz-over page
 function quizOver(){
-    document.querySelector(".quiz-over").classList.add("show")
+    document.querySelector(".quiz-over").classList.add("show");
     correctAnswersSpan.innerHTML = score;
-    totalQuestions2.innerHTML = questions.length
-    percentageSpan.innerHTML=Math.round((score/questions.length)*100) + "%"
+    totalQuestions2.innerHTML = questions.length;
+    percentageSpan.innerHTML=Math.round((score/questions.length)*100) + "%";
 }
 
 function tryAgain(){
@@ -194,7 +192,7 @@ function tryAgain(){
 gameClock = document.getElementById('gameClock');
 
 function digitalTime(){
-	date = new Date()
+	date = new Date();
 	getHours = date.getHours();
 	let ampm = (getHours >= 12) ? "PM" : "AM";
 	getHours = date.getHours() % 12 || 12;
@@ -202,22 +200,26 @@ function digitalTime(){
 	getSeconds = date.getSeconds();
 
 	if(getHours < 10){
-		getHours = "0"+getHours
+		getHours = "0"+getHours;
 	}
 	if(getMinutes < 10){
-		getMinutes = "0"+getMinutes
+		getMinutes = "0"+getMinutes;
 	}
 	if(getSeconds < 10){
-		getSeconds = "0"+getSeconds
+		getSeconds = "0"+getSeconds;
 	}
 
 	ClockView = "<span>"+getHours + "</span>:<span>"+getMinutes+"</span>:<span id='second'>"+getSeconds+"</span>"+"<span id='ampm'>  "+ampm+"</span>";
-	gameClock.innerHTML= ClockView
-	setTimeout(digitalTime,1000)
+	gameClock.innerHTML= ClockView;
+	setTimeout(digitalTime,1000);
 
 }
 
-digitalTime()
+digitalTime();
+
+
+
+
 
 
 

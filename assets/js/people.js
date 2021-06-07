@@ -8,10 +8,10 @@ let index=0;
 
 nextSlide.onclick=function () {
      next("next");
-}
+};
 prevSlide.onclick=function () {
      next("prev");
-}
+};
 
 function next(direction){
 
@@ -36,6 +36,3 @@ function next(direction){
   slides[index].classList.add("active");     
 
 }
-
-
-

@@ -3,7 +3,7 @@
 class ProgressBar{
   constructor(progressBar, fill, subjectName){
   this.progressBar = progressBar;
-  this.subjectName = subjectName
+  this.subjectName = subjectName;
   this.fill = fill;
   this.speed = 15; 
   this.actual = 0;
@@ -24,7 +24,7 @@ class ProgressBar{
 
 let options = {
   threshold: 0 
-}
+};
 
 let progressBars = document.querySelectorAll('.progress');
 let observer = new IntersectionObserver((progressBars) => {
@@ -40,4 +40,3 @@ let observer = new IntersectionObserver((progressBars) => {
 }, options);
 
 progressBars.forEach( progressBar => observer.observe(progressBar));
-
