@@ -1,4 +1,5 @@
 /*----Body properties----*/
+
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto:ital,wght@0,300;0,500;1,300&display=swap');
 
 body {
@@ -6,7 +7,8 @@ body {
   font-family: "Open Sans", "Roboto";
 }
 
-/* ----- 404 error page ----- */
+/*----404 error page----*/
+
 #error-page {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("assets/images/people/people_jtron.jpg");
   background-size: cover;
@@ -29,7 +31,9 @@ body {
 .center-text{
   text-align: center;
 }
+
 /*----Navbar----*/
+
 .navbar {
   background-color: #1f1f1f!important;
 }
@@ -47,7 +51,9 @@ body {
 .dropdown-menu {
 background-color: #ccc;
 }
+
 /*----Top Logo----*/
+
 #top-logo {
   height: 20%;
   width: 10%;
@@ -55,17 +61,20 @@ background-color: #ccc;
 }
 
 /*----Top Jumbotron----*/
+
 #index_jtron_top {
   padding: 100px;
 }
 
 /*----Carousel----*/
+
 .img-resize {
   width: 100%;
   height: 80%;
 }
 
 /*----Nav Links----*/
+
 .nav-link {
   padding-right: 30px;
   font-size: medium;
@@ -83,6 +92,7 @@ background-color: #ccc;
 }
 
 /*----Jumbotron with a call to action and bg image----*/
+
 .jumbotron {
   position:relative;
   overflow:hidden;
@@ -92,10 +102,6 @@ background-color: #ccc;
 .jumbotron .mid-container {
   position:relative;
   z-index: 2;
-  
-  /*background:rgba(0,0,0,0.2);
-  border:1px solid rgba(0,0,0,0.1);
-  border-radius:3px;*/
 }
 
 .mid-jumbotron-background {
@@ -122,6 +128,7 @@ img.blur {
 }
 
 /*----Home Cards----*/
+
 #home-card-1 {
   padding-top: 100px;
   padding-bottom: 25px;
@@ -137,6 +144,7 @@ img.blur {
 }
 
 /*----Footer----*/
+
 .footer-style {
   padding:50px 0;
   background-color: #1f1f1f;
@@ -228,6 +236,7 @@ img.blur {
 }
 
 /*----Footer btn----*/
+
 .top-nav-button a {
   margin-top: 3rem;
   margin-bottom: 1rem;
@@ -254,12 +263,14 @@ img.blur {
 }
 
 /*----Footer logo----*/
+
 #granada_logo {
   height: 50%;
   width: 80%;
 }
 
 /*----Footer icon----*/
+
 #footer-icon {
   margin-right: 10px;
 }
@@ -313,7 +324,7 @@ img.blur {
   font-weight: bolder;
 }
 
-/*---Gallery people---*/
+/*----Gallery people----*/
 
 #slider-container {
 	background-color: #f5f5f5;
@@ -374,11 +385,9 @@ img.blur {
 	display: block;
 }
 
-
 /*-----People Page ends-----*/
 
 /*----About Page beginning----*/
-
 
 #about-text-1 {
   padding-top: 75px;
@@ -402,7 +411,8 @@ img.blur {
   padding: 100px;
 }
 
-/*--Form--*/
+/*----Form----*/
+
 #form-title {
   text-align: center;
 }
@@ -455,7 +465,8 @@ textarea {
   border-radius: 5px;
   width: 100%;
 }
-/*----*/
+
+/*----Embedded map----*/
 
 #embedded-map {
   padding-top: 75px;
@@ -472,7 +483,6 @@ textarea {
 }
 
 /*----About Page ends----*/
-
 
 /*----Publications Page beginning----*/
 
@@ -511,7 +521,8 @@ textarea {
   padding: 2px;
 }
 
-/*---Percentage---*/
+/*----Percentages Bar----*/
+
 #bars-box {
   text-align: center;
   padding-top: 25px;
@@ -593,7 +604,6 @@ textarea {
   margin: 0;
   padding-bottom: 10px;
 }
-
 
 .question{
   font-size: 24px;
@@ -687,7 +697,6 @@ textarea {
   margin-right: 0 auto;
 }
 
-
 .answers-result div.correct{
   background-color: #98FB98;
   background-position: center;
@@ -714,6 +723,7 @@ textarea {
   align-items: center;
   justify-content: center;
 }
+
 .show{
   display:flex;
 }
@@ -744,8 +754,7 @@ textarea {
   color: white;
 }
 
-/*---clock---*/
-
+/*----Clock----*/
 
 #bodyclock {
 	font-size: 16px;
@@ -768,9 +777,11 @@ textarea {
 .digi_clock span{
 	display: inline-block;
 }
+
 #second{
 	width: 250px;
 }
+
 #ampm{
 	font-family: "roboto";
 	font-size: 70%;
