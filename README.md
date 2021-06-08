@@ -1,6 +1,6 @@
 <h1 align="center">Magnetic Soft Matter Group</h1>
 
-![URG Mockup Images](place_mockup_image_here)
+![URG Mockup Images](assets/images/testing_images/mockup/mockup.png)
 
 [View the live project here](https://frankn88.github.io/MS2_University-Research-Group/)
 
