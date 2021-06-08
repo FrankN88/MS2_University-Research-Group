@@ -789,11 +789,51 @@ textarea {
 
 }
 
+/*----Weather----*/
+
+#weather-body {
+  background: #ced1d6;
+  font-family: sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  min-height: 35vh;
+  margin-bottom: 100px;
+  border: 5px solid #D19d00;
+}
+
+#search-weather {
+  background-color: #fff;
+  border: none;
+  border-radius: 25px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  font-family: inherit;
+  font-size: 1rem;
+  padding: 1rem;
+  min-width: 300px;
+}
+
+#search-weather:focus {
+  outline: none;
+}
+
+.weather {
+  font-size: 2rem;
+  text-align: center;
+}
+
+.weather h2 {
+  display: flex;
+  align-items: center;
+  margin-bottom: 0;
+}
+
+.weather-text-style {
+  text-align: center;
+}
+
 /*----Projects Page Ends----*/
 
-
-
-
-
-/*----Weather test----*/
 
