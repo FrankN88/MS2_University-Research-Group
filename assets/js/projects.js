@@ -28,22 +28,22 @@ const opt4 = document.querySelector(".option4");
 */
 const questions = [
     {   
-        //Question
-        q:'What is the approximated measure of the speed of light?',
-        options:['300 thousand meters/second', '500 thousand meters/second', '200 thousand meters/second', '250 thousand meters/second'],
-        answer:0
+      //Question
+      q:'What is the approximated measure of the speed of light?',
+      options:['300 thousand meters/second', '500 thousand meters/second', '200 thousand meters/second', '250 thousand meters/second'],
+      answer:0
     },
     {   
-        //Question
-        q:'How many elements there are in the periodic table of elements?',
-        options:['120', '118', '215', '230'],
-        answer:1
+      //Question
+      q:'How many elements there are in the periodic table of elements?',
+      options:['120', '118', '215', '230'],
+      answer:1
     },
     {   
-        //Question
-        q:'What is the unit of measure of the magnetic field?',
-        options:['G', 'Watt', 'Gauss', 'Candela'],
-        answer:2
+      //Question
+      q:'What is the unit of measure of the magnetic field?',
+      options:['G', 'Watt', 'Gauss', 'Candela'],
+      answer:2
     },
     {
       //Question 

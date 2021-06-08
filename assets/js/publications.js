@@ -1,5 +1,6 @@
-
-// Progress Bar
+/**
+ * Dynamic progress bar 
+ */
 class ProgressBar{
   constructor(progressBar, fill, subjectName){
   this.progressBar = progressBar;
@@ -10,7 +11,7 @@ class ProgressBar{
   this.filling();
   }
   filling(){ 
-      if( this.actual < this.fill){
+      if( this.actual < this.fill){ // If/else statement 
           this.progressBar.style.width = String(this.actual++)+"%";
           this.progressBar.innerHTML = this.subjectName+String(this.actual)+"%";
           setTimeout(() => this.filling(), this.speed);
