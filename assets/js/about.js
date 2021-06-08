@@ -1,4 +1,7 @@
-// EmailJS function
+/**
+ * [sendEmail to send email using EmailJS
+ * The API that is used is described here: https://www.emailjs.com/
+ */
 const btn = document.getElementById('button');
 
 document.getElementById('form')
