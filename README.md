@@ -124,7 +124,7 @@ In order to identify what features had to be included, the scope was deifined ba
 
 #### Structure
 The information architecture was organized in a fluid and clear way in order to ensure that users could navigate through the site with ease and efficiency.
-![Site Map](site_map_place_image_here)
+![Site Map](assets/images/testing_images/mockup/structure.png)
 
 #### Skeleton 
 Wireframe mockups were created in a [Figma Workspace](place_compressed_figma_pdf_link_here).
