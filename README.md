@@ -136,7 +136,7 @@ Several style changes were made in the final project compared to the inital wire
 ![Home Page Wireframe](assets/images/testing_images/pages/home.png "Home Page Wireframe")
 
  2. About
- ![About Page Wireframe](place_image_here "About Wireframe")
+ ![About Page Wireframe](assets/images/testing_images/pages/about.png "About Wireframe")
 
  3. People
   ![People Page Wireframe](place_image_here "People Wireframe")
