@@ -133,7 +133,7 @@ Several style changes were made in the final project compared to the inital wire
 
 **Pages:**
  1. Home Page:
-![Home Page Wireframe](place_image_here "Home Page Wireframe")
+![Home Page Wireframe](assets/images/testing_images/pages/home.png "Home Page Wireframe")
 
  2. About
  ![About Page Wireframe](place_image_here "About Wireframe")
