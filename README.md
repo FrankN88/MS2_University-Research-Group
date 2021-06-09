@@ -217,7 +217,7 @@ Each page of the website features a consistent responsive navigational system:
           </li>
           <li><strong>Quiz</strong> - Science based quiz. This quiz has been created to entertain the user while waiting. The questions show immediately if they have been answered correctly or not and at the end give a feedback with a percentage.
           </li>
-          <li><strong>xxxxx</strong> - xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+          <li><strong>Weather app</strong> - A simple weather app with an input will idicate the temperature together with the main weather phenomena when the user inserts the name of the desired location.
           </li>
      </ul>
   </dd>
@@ -375,6 +375,6 @@ The developer consulted multiple sites in order to better understand the code th
 - [jQuery](https://jquery.com/ "Link to jQuery page")
 
 ### Acknowledgements
-- My mentor for continuous helpful feedback.
+- My mentor Mo for continuous helpful feedback.
 - Tutor support at Code Institute for their support.
 - My family for opinions and feedback.
