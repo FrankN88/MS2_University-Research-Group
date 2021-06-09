@@ -145,7 +145,7 @@ Several style changes were made in the final project compared to the inital wire
   ![Projects Page Wireframe](assets/images/testing_images/pages/projects.png "Projects Wireframe")
 
  5. Publications
-  ![Publications Page Wireframe](place_image_here "Publications Wireframe")
+  ![Publications Page Wireframe](assets/images/testing_images/pages/publications.png "Publications Wireframe")
 
 ### Surface
 
