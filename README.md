@@ -324,6 +324,8 @@ The "required" attribute satisfies 100% the functionality i needed, therefore i 
     - To send email directly through JS.
 1. [JSFiddle:](https://jsfiddle.net/)
     - JS Code Playground.
+1. [Openweathermap:](https://openweathermap.org/api)
+    - To access current weather data for any location.
 
 ## Testing
 Testing information can be found in a separate testing [file](TESTING.md "Link to testing file")
@@ -375,6 +377,6 @@ The developer consulted multiple sites in order to better understand the code th
 - [jQuery](https://jquery.com/ "Link to jQuery page")
 
 ### Acknowledgements
-- My mentor Mo for continuous helpful feedback.
+- My mentor Mo Shami for continuous helpful feedback.
 - Tutor support at Code Institute for their support.
 - My family for opinions and feedback.

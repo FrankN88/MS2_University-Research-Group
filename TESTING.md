@@ -1,10 +1,10 @@
 # Magnetic Soft Matter Group - Testing
 
-[View the live project here](https://frankn88.github.io/MS2_xxxxxxx)
+[View the live project here](https://github.com/FrankN88/MS2_University-Research-Group)
 
 [Main README.md file](/README.md)
 
-[View website in GitHub Pages](https://github.com/FrankN88/FrankN88-xxxxxxxxx)
+[View website in GitHub Pages](https://frankn88.github.io/MS2_University-Research-Group/)
 
 ### Testing User Stories from User Experience (UX) Section
 
