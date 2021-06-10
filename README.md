@@ -153,14 +153,15 @@ Several style changes were made in the final project compared to the inital wire
 ### Surface
 
 #### Colour Scheme
-  - The main colours used throughout the website are a mixture of dark gray, opaque white (as a clear and non-invasive contrast colour to the previous one), and black fonts.
+  - The main colours used throughout the website are a mixture of dark gray, opaque white (as a clear and non-invasive contrast colour to the previous one), and black fonts. That combination of colours has a classic, professional and non invasive effect on the user. At the same time, when needed, a theme of bright colours provide the right dynamism by appearing near features that need to be highlighted (i.e. gallery and progress bars).
 
 #### Typography
-  -   The "Open sans" font is the main font used throughout the whole website with "Roboto" as the fallback font in case, for any reason, the font won't be imported into the site correctly.
+  -   The "Open sans" font is the main font used throughout the whole website with "Roboto" as the fallback font in case, for any reason, the font won't be imported into the site correctly. 
 
 #### Imagery
   -   Imagery is extremely important in websites that aim to show the reliability of a research group. It is designed to be striking and catch the user's attention. The carousel on the homepage is an immediate example of an element that catches the attention of the user with the most important technologies and staff.
   - It also has a smart and simple aesthetic. The imagery has been thought about carefully to draw the attention of the user straight to the main components of the website.
+  - Ther user can visualise each component of the group thanks to the pictures in "People" page.
 
 ## Features
 
@@ -170,8 +171,8 @@ Each page of the website features a consistent responsive navigational system:
 - On smaller screens, the navigation bar collapses into a **toggler** icon whereby clicking it will reveal the links to the other pages.
 - The **Footer** contains the appropriate **social media icons**, linking users to the main social media pages of the research group and university logo (clicking this will redirect users back to the univesity official page). Also the address in the footer works as a link to the university in Google Maps.
 - In the footer, there are respectively a mailto and a callto embedded in the email and number.
-- <li><strong>Back to the top btn</strong> - Those <strong>buttons</strong> are present in the footer so that the user can comfortably click them to be redirected to the top of the page. This feature improves the quality of navigation, especially if using smartphones.
-</li>
+- <strong>Back to the top btn</strong> - Those <strong>buttons</strong> are present in the footer so that the user can comfortably click them to be redirected to the top of the page. This feature improves the quality of navigation, especially if using smartphones.
+
 <dl>
   <dt><a href="index.html" target="_blank" alt="Research group Home Page">Home Page</a></dt>
   <dd>The Home Page consists of the following elements:
@@ -240,13 +241,9 @@ Each page of the website features a consistent responsive navigational system:
   </dl>
 
 ### Features to Implement in the future
-- **Merchandise Shop**
-
-     - Feature - .
-     - Reason for not featuring in this release - .
-
-     - Feature - .
-     - Reason for not featuring in this release - .
+  - A search area for the whole website in particular the events page would be a useful addition to add
+  - A page for each component of the team with detailed individual projects
+  - To use the EmailJS and OpenWeatherMapp APIs I had to include the API keys in the JS code. From a security perspective there should be no such exposure. As this is a frontend project, it was not in scope to have a backend part. However to implement the APIs correctly from a security perspective I would have like to have a backend element(node for example) and store those elements in the backend so it is not exposed at the frontend.
 
 ## Issues and Bugs 
 
@@ -267,7 +264,7 @@ The guiding approach in developing the website was the motto: "Mobile First". Th
 
 **Form Issue** 
 - The form is correctly working and sending emails. During the development of the page i have tried to build a function within the emailJS one that would validate the inputs. As a result of that the form stopped working and i have decided to go back to the original idea of using the "required" attribute to validate the empty fields.
-The "required" attribute satisfies 100% the functionality i needed, therefore i have decided not to jeopardize the form function and leave it the way it was.
+The "required" attribute satisfies 100% the functionality i needed, therefore i have decided not to jeopardize the form function and leave it the way i had originally built it.
 
 **HTML Validator-related resolved bugs**
 - xxxxx
@@ -345,18 +342,20 @@ To deploy this page to GitHub Pages from its GitHub repository, the following st
 6. Upon selection, the page will automatically refresh meaning that the website is now deployed.
 7. Scroll back down to the "GitHub Pages" section to retrieve the deployed link.
 8. At the time of submitting this Milestone project, the Development Branch and Master Branch are identical.
+
 ### Forking the Repository
 By forking the GitHub Repository a copy of the original repository is made on the GitHub account. To view and/or to make  changes without affecting the original repository: 
 1. Log into [GitHub](https://github.com/login "Link to GitHub login page") or [create an account](https://github.com/join "Link to GitHub create account page").
 2. Locate the [GitHub Repository](https://github.com/FrankN88/FrankN88-xxxxxxxxxxxxx "Link to GitHub Repo").
 3. At the top of the repository, on the right side of the page, select "Fork".
 4. You should now have a copy of the original repository in your GitHub account.
+
 ### Creating a Clone
 How to run this project locally:
 1. Install the [GitPod Browser](https://www.gitpod.io/docs/browser-extension/ "Link to Gitpod Browser extension download") Extension for Chrome.
 2. After installation, restart the browser.
 3. Log into [GitHub](https://github.com/login "Link to GitHub login page") or [create an account](https://github.com/join "Link to GitHub create account page").
-4. Locate the [GitHub Repository](https://github.com/FrankN88/FrankN88-MS2_University-Research-Group "Link to GitHub Repo").
+4. Locate the [GitHub Repository](https://github.com/FrankN88/FrankN88-MS2_University-Research-Group "Link to GitHub Repo".
 5. Click the green "GitPod" button in the top right corner of the repository.
 This will trigger a new gitPod workspace to be created from the code in github where you can work locally.
 Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) to retrieve pictures for some of the buttons and more detailed explanations of the above process.
