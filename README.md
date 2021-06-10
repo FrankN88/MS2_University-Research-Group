@@ -147,6 +147,9 @@ Several style changes were made in the final project compared to the inital wire
  5. Publications
   ![Publications Page Wireframe](assets/images/testing_images/pages/publications.png "Publications Wireframe")
 
+ 6. Page 404
+  ![404 Page Wireframe](assets/images/testing_images/pages/404.png "404 Page Wireframe")
+
 ### Surface
 
 #### Colour Scheme
