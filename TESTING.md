@@ -178,19 +178,23 @@ The [W3C Markup Validator](https://validator.w3.org/) service was used to valida
 
 - Home Page
 
-     ![Home Page HTML Validation Results](place_picture/gif_here)
+     ![Home Page HTML Validation Results](assets/images/testing_images/html_validator/index_html_.png)
 
-- xxxx Page
+- About Page
 
-     ![xxxx Page HTML Validation Results](place_picture/gif_here)
+     ![About Page HTML Validation Results](assets/images/testing_images/html_validator/about_html_validation.png)
 
-- xxxx Page
+- People Page
 
-     ![xxxx Page HTML Validation Results](place_picture/gif_here)
+     ![People Page HTML Validation Results](assets/images/testing_images/html_validator/people_html_validation.png)
 
-- xxxx Page
+- Projects Page
 
-     ![xxxx Page HTML Validation Results](place_picture/gif_here)
+     ![Projects Page HTML Validation Results](assets/images/testing_images/html_validator/projects_html_validation.png)
+
+- Publications Page
+
+     ![Publications Page HTML Validation Results](assets/images/testing_images/html_validator/publications_html_validation.png)
 
 The [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) service was used to validate the `CSS` coded used.
 
