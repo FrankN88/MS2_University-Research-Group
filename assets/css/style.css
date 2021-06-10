@@ -521,6 +521,10 @@ textarea {
   padding: 2px;
 }
 
+.list-group-flush {
+  text-align: center;
+}
+
 /*----Percentages Bar----*/
 
 #bars-box {
