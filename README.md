@@ -171,7 +171,7 @@ Each page of the website features a consistent responsive navigational system:
 - On smaller screens, the navigation bar collapses into a **toggler** icon whereby clicking it will reveal the links to the other pages.
 - The **Footer** contains the appropriate **social media icons**, linking users to the main social media pages of the research group and university logo (clicking this will redirect users back to the univesity official page). Also the address in the footer works as a link to the university in Google Maps.
 - In the footer, there are respectively a mailto and a callto embedded in the email and number.
-- <strong>Back to the top btn</strong> - Those <strong>buttons</strong> are present in the footer so that the user can comfortably click them to be redirected to the top of the page. This feature improves the quality of navigation, especially if using smartphones.
+- **Back to the top btn**  - Those <strong>buttons</strong> are present in the footer so that the user can comfortably click them to be redirected to the top of the page. This feature improves the quality of navigation, especially if using smartphones.
 
 <dl>
   <dt><a href="index.html" target="_blank" alt="Research group Home Page">Home Page</a></dt>
@@ -212,7 +212,7 @@ Each page of the website features a consistent responsive navigational system:
           </li>
      </ul>
   </dd>
-  <dt><a href="projects.html" target="_blank" alt="Projects Page">Projects</a></dt>
+  <dt><a href="projects.html" target="_blank" alt="Projects Page">Projects Page</a></dt>
   <dd>The projects page consists of the following elements:
      <ul>
           <li><strong>Introductory Jumbotron with title</strong> - Occupies 100% of the page width, from the left to the right, while being viewed on all devices. It Introduces the page the user is checking with a short title and a blurred background that changes for every page.
@@ -273,10 +273,7 @@ The "required" attribute satisfies 100% the functionality i needed, therefore i 
 - xxxxx
 
 **CSS Validator-related resolved bugs**
-- xxxxx
-- xxxxx
-- xxxxx
-- xxxxx
+- No bugs found
 
 ### Known existing bugs
 - xxxxx

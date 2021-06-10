@@ -195,7 +195,7 @@ The [W3C Markup Validator](https://validator.w3.org/) service was used to valida
 The [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) service was used to validate the `CSS` coded used.
 
 **Results:**
-![Style sheet validation results](place_picture/gif_here)
+![Style sheet validation results](assets/images/testing_images/css_validator/css_validation.png)
 
 The [JS Validator](https://jshint.com/) service was used to validate the `JavaScript` coded used.
 
