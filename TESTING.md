@@ -246,12 +246,12 @@ weather.js | 0 errors | [Results]()
 
 Page | Result | Test Detail/Screenshot
 ------------ | ------------- | -------------
-index.html | 0 errors and 0 contrast errors| [Results]()
-about.html | 0 errors and 0 contrast errors| [Results]()
-people.html | 0 errors and 0 contrast errors| [Results]()
-projects.html | 0 errors and 0 contrast errors| [Results]()
-publications.html | 0 errors and 0 contrast errors| [Results]()
-publications.html | 0 errors and 0 contrast errors| [Results]()
+index.html | 0 errors and 0 contrast errors| [Results](assets/images/testing_images/wave_validator/index_wave.png)
+about.html | 0 errors and 0 contrast errors| [Results](assets/images/testing_images/wave_validator/about_wave.png)
+people.html | 0 errors and 0 contrast errors| [Results](assets/images/testing_images/wave_validator/people_wave.png)
+projects.html | 0 errors and 0 contrast errors| [Results](assets/images/testing_images/wave_validator/projects_wave.png)
+publications.html | 0 errors and 0 contrast errors| [Results](assets/images/testing_images/wave_validator/publications_wave.png)
+404.html | 0 errors and 0 contrast errors| [Results](assets/images/testing_images/wave_validator/404_wave.png)
 
 <br>
 
