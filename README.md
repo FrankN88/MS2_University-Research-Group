@@ -267,13 +267,12 @@ The guiding approach in developing the website was the motto: "Mobile First". Th
 The "required" attribute satisfies 100% the functionality i needed, therefore i have decided not to jeopardize the form function and leave it the way i had originally built it.
 
 **HTML Validator-related resolved bugs**
-- xxxxx
-- xxxxx
-- xxxxx
-- xxxxx
+- Some missing "alt" attributes to the <img> tags.
+- Incorrect spacing in the phone number in the footer.
+- One missing closing tag.
 
 **CSS Validator-related resolved bugs**
-- No bugs found
+- No bugs found.
 
 ### Known existing bugs
 - xxxxx
@@ -351,8 +350,8 @@ By forking the GitHub Repository a copy of the original repository is made on th
 How to run this project locally:
 1. Install the [GitPod Browser](https://www.gitpod.io/docs/browser-extension/ "Link to Gitpod Browser extension download") Extension for Chrome.
 2. After installation, restart the browser.
-3. Log into [GitHub](https://github.com/login "Link to GitHub login page") or [create an account](https://github.com/join "Link to GitHub create account page").
-4. Locate the [GitHub Repository](https://github.com/FrankN88/FrankN88-MS2_University-Research-Group "Link to GitHub Repo".
+3. Log into [GitHub](https://github.com/login/ "Link to GitHub login page") or [create an account](https://github.com/join "Link to GitHub create account page").
+4. Locate the [GitHub Repository](https://github.com/FrankN88/FrankN88-MS2_University-Research-Group "Link to GitHub Repo").
 5. Click the green "GitPod" button in the top right corner of the repository.
 This will trigger a new gitPod workspace to be created from the code in github where you can work locally.
 Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) to retrieve pictures for some of the buttons and more detailed explanations of the above process.
