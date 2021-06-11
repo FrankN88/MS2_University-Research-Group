@@ -192,12 +192,12 @@ The [W3C Markup Validator](https://validator.w3.org/) service was used to valida
 
 Page | Result | Test Detail/Screenshot
 ------------ | ------------- | -------------
-index.html | Passed, No errors found | [Results](assets/images/testing_images/html_validator/index_html_.png)
-about.html | Passed, No errors found | [Results](assets/images/testing_images/html_validator/about_html_validation.png)
-people.html | Passed, No errors found | [Results](assets/images/testing_images/html_validator/people_html_validation.png)
-projects.html | Passed, No errors found | [Results](assets/images/testing_images/html_validator/projects_html_validation.png)
-publications.html | Passed, No errors found | [Results](assets/images/testing_images/html_validator/publications_html_validation.png)
-404.html | Passed, No errors found | [Results](assets/images/testing_images/html_validator/404_html_validation.png)
+index.html | Passed, No errors found | [Results](assets/images/testing_images/html_validator/index_html_testing.png)
+about.html | Passed, No errors found | [Results](assets/images/testing_images/html_validator/about_html_testing.png)
+people.html | Passed, No errors found | [Results](assets/images/testing_images/html_validator/people_html_testing.png)
+projects.html | Passed, No errors found | [Results](assets/images/testing_images/html_validator/projects_html_testing.png)
+publications.html | Passed, No errors found | [Results](assets/images/testing_images/html_validator/publications_html_testing.png)
+404.html | Passed, No errors found | [Results](assets/images/testing_images/html_validator/404_html_testing.png)
 
 <br>
 
