@@ -386,6 +386,11 @@ img.blur {
 	display: block;
 }
 
+#team-leader-pic {
+  height: 100%;
+  width: 100%;
+}
+
 /*-----People Page ends-----*/
 
 /*----About Page beginning----*/
@@ -507,7 +512,7 @@ textarea {
 }
 
 #publications-container a {
-  color: #D19D00;
+  color: blue;
 }
 
 #container-pub-covers {
