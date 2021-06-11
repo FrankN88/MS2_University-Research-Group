@@ -217,7 +217,7 @@ style.css | Passed, No errors found | [Results](assets/images/testing_images/css
 
 <br>
 
-## JSHint
+### JSHint
 - JSHint was used to analyse the Javascript files
 
 Page | Result | Test Detail/Screenshot
@@ -238,8 +238,20 @@ questions.js | 0 errors and 0 warnings | [Results]()
 - Click [here](place_picture/gif_here)
 - All images have been compressed before being loaded.
 
-### Wave Web Accessibility Auditing
-- Click [here](place_picture/gif_here)
-- Wave validation audit of each page.
+<br>
+
+### Wave Accessibility
+- Wave accessibility(https://wave.webaim.org/) was used to test the websites accessibility
+
+Page | Result | Test Detail/Screenshot
+------------ | ------------- | -------------
+index.html | 0 errors and 0 contrast errors| [Results]()
+about.html | 0 errors and 0 contrast errors| [Results]()
+people.html | 0 errors and 0 contrast errors| [Results]()
+projects.html | 0 errors and 0 contrast errors| [Results]()
+publications.html | 0 errors and 0 contrast errors| [Results]()
+publications.html | 0 errors and 0 contrast errors| [Results]()
+
+<br>
 
 ***
