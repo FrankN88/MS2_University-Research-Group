@@ -92,7 +92,7 @@
      9. Increase chances of future cooperations and projects.
         1. Detailed contacts, disclosed research releases and declared applications of the research allow any stakeholder to interact with members of the team.
     
-     10. Use reviews to increase customer satisfaction.
+    10. Use reviews to increase customer satisfaction.
         1. The reviews are part of the improving process; social media interactions are the first indicator of popularity. 
 
 ## User testing 
@@ -140,31 +140,47 @@ Manual testing was conducted on the following pages in order to assess responsiv
 ### Home Page
 Manual testing was conducted on the following elements of the [Home Page](index.html):
 
- - All the elements are responsive (header,footer, carousel,cards,reviews)
+ - All the elements are responsive (header, footer, carousel, cards, jumbotrons, cookies div)
  - The Navbar turns into a toggler icon in smaller devices
 
    ![Homepage Test](place_picture/gif_here)
 
-### xxxx Page
-Manual testing was conducted on the following elements of the [xxxx Page](menu.html):
+### About Page
+Manual testing was conducted on the following elements of the [About Page](about.html):
 
- - All the elements are responsive (header,footer,cards,notices at the end)
+ - All the elements are responsive (header, footer, jumbotron, hero image, form, iframe)
  - The Navbar turns into a toggler icon in smaller devices
 
    ![xxxx Test](place_picture/gif_here)
 
-### xxxx Page
-Manual testing was conducted on the following elements of the [xxxx Page](gallery.html):
+### People Page
+Manual testing was conducted on the following elements of the [People Page](people.html):
 
- - All the elements are responsive (header,footer,collage,iframes)
+ - All the elements are responsive (header, footer, jumbotron, titles, cards, dynamic gallery)
  - The Navbar turns into a toggler icon in smaller devices
 
    ![xxxx Test](place_picture/gif_here)
 
-### xxxx Page
-Manual testing was conducted on the following elements of the [xxxx Page](about_us.html):
+### Projects Page
+Manual testing was conducted on the following elements of the [Projects Page](projects.html):
 
- - All the elements are responsive (header,footer,main images,cards,form)
+ - All the elements are responsive (header, footer, titles, jumbotron, clock, quiz, met app)
+ - The Navbar turns into a toggler icon in smaller devices
+
+   ![xxxx Test](place_picture/gif_here)
+
+### Publications Page
+Manual testing was conducted on the following elements of the [Publications Page](publications.html):
+
+ - All the elements are responsive (header, footer, titles, jumbotron, images, text, progress bars)
+ - The Navbar turns into a toggler icon in smaller devices
+
+   ![xxxx Test](place_picture/gif_here)
+
+### 404 Page
+Manual testing was conducted on the following elements of the [404 Page](404.html):
+
+ - All the elements are responsive (header, footer, text)
  - The Navbar turns into a toggler icon in smaller devices
 
    ![xxxx Test](place_picture/gif_here)
