@@ -222,11 +222,12 @@ style.css | Passed, No errors found | [Results](assets/images/testing_images/css
 
 Page | Result | Test Detail/Screenshot
 ------------ | ------------- | -------------
-about.js | 0 errors and 0 warnings | [Results]()
-events.js | 0 errors and 1 warning | [Results]()
-quiz.js | 0 errors and 0 warnings | [Results]()
-sendEmail.js | 0 errors and 0 warnings | [Results]()
-questions.js | 0 errors and 0 warnings | [Results]()
+index.js | 0 errors and 0 warnings | [Results]()
+about.js | 0 errors and 0 warning | [Results]()
+people.js | 0 errors and 0 warnings | [Results]()
+projects.js | 0 errors and 0 warnings | [Results]()
+publications.js | 0 errors and 0 warnings | [Results]()
+weather.js | 0 errors and 0 warnings | [Results]()
 
 ### Browser Validation
 - Chrome
