@@ -190,37 +190,43 @@ Manual testing was conducted on the following elements of the [404 Page](404.htm
 ### Code Validation
 The [W3C Markup Validator](https://validator.w3.org/) service was used to validate the `HTML` code used.
 
-**Results:**
+Page | Result | Test Detail/Screenshot
+------------ | ------------- | -------------
+index.html | Passed, No errors found | [Results](assets/images/testing_images/html_validator/index_html_.png)
+about.html | Passed, No errors found | [Results](assets/images/testing_images/html_validator/about_html_validation.png)
+people.html | Passed, No errors found | [Results](assets/images/testing_images/html_validator/people_html_validation.png)
+projects.html | Passed, No errors found | [Results](assets/images/testing_images/html_validator/projects_html_validation.png)
+publications.html | Passed, No errors found | [Results](assets/images/testing_images/html_validator/publications_html_validation.png)
+404.html | Passed, No errors found | [Results](assets/images/testing_images/html_validator/404_html_validation.png)
 
-- Home Page
+<br>
 
-     ![Home Page HTML Validation Results](assets/images/testing_images/html_validator/index_html_.png)
+### CSS Validation Service
+I used https://jigsaw.w3.org/css-validator/ to validate the css(style.css)
+<p>
+    <a href="https://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="https://jigsaw.w3.org/css-validator/images/vcss"
+            alt="Valid CSS!" />
+    </a>
+</p>
 
-- About Page
+Page | Result | Test Detail/Screenshot
+------------ | ------------- | -------------
+style.css | Passed, No errors found | [Results](assets/images/testing_images/css_validator/css_validation.png)
 
-     ![About Page HTML Validation Results](assets/images/testing_images/html_validator/about_html_validation.png)
+<br>
 
-- People Page
+## JSHint
+- JSHint was used to analyse the Javascript files
 
-     ![People Page HTML Validation Results](assets/images/testing_images/html_validator/people_html_validation.png)
-
-- Projects Page
-
-     ![Projects Page HTML Validation Results](assets/images/testing_images/html_validator/projects_html_validation.png)
-
-- Publications Page
-
-     ![Publications Page HTML Validation Results](assets/images/testing_images/html_validator/publications_html_validation.png)
-
-The [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) service was used to validate the `CSS` coded used.
-
-**Results:**
-![Style sheet validation results](assets/images/testing_images/css_validator/css_validation.png)
-
-The [JS Validator](https://jshint.com/) service was used to validate the `JavaScript` coded used.
-
-**Results:**
-![JavaScript validation results](place_picture/gif_here)
+Page | Result | Test Detail/Screenshot
+------------ | ------------- | -------------
+about.js | 0 errors and 0 warnings | [Results]()
+events.js | 0 errors and 1 warning | [Results]()
+quiz.js | 0 errors and 0 warnings | [Results]()
+sendEmail.js | 0 errors and 0 warnings | [Results]()
+questions.js | 0 errors and 0 warnings | [Results]()
 
 ### Browser Validation
 - Chrome
