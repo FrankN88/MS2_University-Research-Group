@@ -188,7 +188,7 @@ Manual testing was conducted on the following elements of the [404 Page](404.htm
 ## Automated Testing
 
 ### Code Validation
-The [W3C Markup Validator](https://validator.w3.org/) service was used to validate the `HTML` code used.
+- The [W3C Markup Validator](https://validator.w3.org/) service was used to validate the `HTML` code used.
 
 Page | Result | Test Detail/Screenshot
 ------------ | ------------- | -------------
@@ -202,14 +202,7 @@ publications.html | Passed, No errors found | [Results](assets/images/testing_im
 <br>
 
 ### CSS Validation Service
-I used https://jigsaw.w3.org/css-validator/ to validate the css(style.css)
-<p>
-    <a href="https://jigsaw.w3.org/css-validator/check/referer">
-        <img style="border:0;width:88px;height:31px"
-            src="https://jigsaw.w3.org/css-validator/images/vcss"
-            alt="Valid CSS!" />
-    </a>
-</p>
+- The [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) service was used to validate the `CSS` code used.
 
 Page | Result | Test Detail/Screenshot
 ------------ | ------------- | -------------
@@ -218,7 +211,7 @@ style.css | Passed, No errors found | [Results](assets/images/testing_images/css
 <br>
 
 ### JSHint
-- JSHint was used to analyse the Javascript files
+- The [JS Hint](https://jshint.com/) service was used to validate the `JS` code used.
 
 Page | Result | Test Detail/Screenshot
 ------------ | ------------- | -------------
@@ -238,7 +231,7 @@ weather.js | 0 errors | [Results]()
 ### Lighthouse Auditing
 - I used Lighthouse (https://developers.google.com/web/tools/lighthouse) to test the performance, seo, best practices and accessability of the site
 
-Page | Result | Test Detail/Screenshot
+Page | Test Detail/Screenshot
 ------------ | ------------- | -------------
 index.html | [Results](assets/images/testing_images/lighthouse_validator/lh_index.png)
 about.html | [Results](assets/images/testing_images/lighthouse_validator/lh_about.png)
