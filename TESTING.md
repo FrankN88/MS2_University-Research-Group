@@ -215,12 +215,12 @@ style.css | Passed, No errors found | [Results](assets/images/testing_images/css
 
 Page | Result | Test Detail/Screenshot
 ------------ | ------------- | -------------
-index.js | 0 errors | [Results]()
-about.js | 0 errors | [Results]()
-people.js | 0 errors | [Results]()
+index.js | 0 errors | [Results](assets/images/testing_images/js_hint/index_js.png)
+about.js | 0 errors | [Results](assets/images/testing_images/js_hint/about_js.png)
+people.js | 0 errors | [Results](assets/images/testing_images/js_hint/people_js.png)
 projects.js | 0 errors | [Results]()
-publications.js | 0 errors | [Results]()
-weather.js | 0 errors | [Results]()
+publications.js | 0 errors | [Results](assets/images/testing_images/js_hint/publications_js.png)
+weather.js | 0 errors | [Results](assets/images/testing_images/js_hint/weather_js.png)
 
 ### Browser Validation
 - Chrome
