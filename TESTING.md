@@ -229,7 +229,7 @@ weather.js | 0 errors | [Results]()
 - Firefox
 
 ### Lighthouse Auditing
-- I used Lighthouse (https://developers.google.com/web/tools/lighthouse) to test the performance, seo, best practices and accessability of the site
+- I used [Lighthouse](https://developers.google.com/web/tools/lighthouse) to test the performance, seo, best practices and accessability of the site
 
 Page | Test Detail/Screenshot
 ------------ | -------------
@@ -243,7 +243,7 @@ publications.html | [Results](assets/images/testing_images/lighthouse_validator/
 <br>
 
 ### Wave Accessibility
-- Wave accessibility(https://wave.webaim.org/) was used to test the websites accessibility
+- [Wave accessibility](https://wave.webaim.org/) was used to test the websites accessibility
 
 Page | Result | Test Detail/Screenshot
 ------------ | ------------- | -------------
