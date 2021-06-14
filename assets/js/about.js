@@ -21,7 +21,7 @@ document.getElementById('form')
                 btn.value = 'Send Email';
                 alert(JSON.stringify(err)); // Error
             });
-        this.reset() // Resetting fields after sending
+        this.reset(); // Resetting fields after sending
 
     });
 
@@ -30,4 +30,4 @@ document.getElementById("field").addEventListener("input", function() {
     this.style.height = 'inherit';
     let height = this.scrollHeight;
     this.style.height = height + "px";
-})
+});
