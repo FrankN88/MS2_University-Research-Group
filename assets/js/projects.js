@@ -150,11 +150,9 @@ function disableClick(){
     }
 }
 
-//Enable click in the options
 /**
  * Enable click in the options
  */
-
 function enableClick(){
     for(let i=0; i<options.length; i++){
         options[i].classList.remove("disabled", "correct", "wrong");
@@ -188,7 +186,6 @@ function randomQuestion(){
     }
 }
 
-
 /**
  * Restart
  */
@@ -196,7 +193,6 @@ window.onload=function(){
     this.randomQuestion();
     this.answersTracker();
 };
-
 
 /**
  * Set up answers tracker elements
@@ -207,13 +203,13 @@ function answersTracker(){
         answersContainer.appendChild(div);
     }
 }
+
 /**
  * Update the answers tracker elements
  */
 function updateAnswersTracker(newClass){
     answersContainer.children[index -1].classList.add(newClass);
 }
-
 
 /**
  * Displays the quiz-over page
