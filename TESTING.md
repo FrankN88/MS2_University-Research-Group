@@ -218,7 +218,7 @@ Page | Result | Test Detail/Screenshot
 index.js | 0 errors | [Results](assets/images/testing_images/js_hint/index_js.png)
 about.js | 0 errors | [Results](assets/images/testing_images/js_hint/about_js.png)
 people.js | 0 errors | [Results](assets/images/testing_images/js_hint/people_js.png)
-projects.js | 0 errors | [Results]()
+projects.js | 0 errors | [Results](assets/images/testing_images/js_hint/projects_js.png)
 publications.js | 0 errors | [Results](assets/images/testing_images/js_hint/publications_js.png)
 weather.js | 0 errors | [Results](assets/images/testing_images/js_hint/weather_js.png)
 
