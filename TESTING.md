@@ -232,7 +232,7 @@ weather.js | 0 errors | [Results]()
 - I used Lighthouse (https://developers.google.com/web/tools/lighthouse) to test the performance, seo, best practices and accessability of the site
 
 Page | Test Detail/Screenshot
------------- | ------------- | -------------
+------------ | -------------
 index.html | [Results](assets/images/testing_images/lighthouse_validator/lh_index.png)
 about.html | [Results](assets/images/testing_images/lighthouse_validator/lh_about.png)
 people.html | [Results](assets/images/testing_images/lighthouse_validator/lh_people.png)
