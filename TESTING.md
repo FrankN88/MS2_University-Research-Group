@@ -12,9 +12,9 @@
 
     1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the University Research Group and its main features.
 
-        1. Upon entering the site, users are automatically greeted with a clean and easily readable sticky navigation bar to go to the page of their choice. Underneath, there is xxxxxxxx. Click [here](place_picture/gif_here)
-        2. The main features are immediately shown with xxxxxx. Click [here](place_picture/gif_here)
-        3. The user has several options: click the link that redirects to the xxx, one of the links in the navbar or scroll down, where he will see the main features of the place together with a link to an impressive xxxx. Click [here](place_picture/gif_here)
+        1. Upon entering the site, users are automatically greeted with a clean and easily readable sticky navigation bar to go to the page of their choice. Underneath, there is an introductory jumbotron. Click [here](place_picture/gif_here)
+        2. The main features are immediately shown with a carousel and cards. Click [here](place_picture/gif_here)
+        3. The user has several options: click the link that redirects to the "people page", one of the links in the navbar or scroll down, where cards will show the main features of the website. Click [here](place_picture/gif_here)
 
     2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content,research and researchers.
 
@@ -34,20 +34,20 @@
 
     1. As a Returning Visitor, I want to find information about new releases and events/seminars.
 
-        1. These are clearly shown in the xxxxxx part and easily accessible via the specific links. Click [here](place_picture/gif_here)
-        2. The link will immediately open in a new page a PDF list of xxxxxx. Click [here](place_picture/gif_here)
+        1. These are clearly shown in the publications page and easily accessible via the specific links. Click [here](place_picture/gif_here)
+        2. Each member of the team is presented with a detailed descriptiion and updated with the latest info and relative contacts. Click [here](place_picture/gif_here)
 
     2. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any question I may have.
 
         1. Contacts are easily visible in every page in the footer. Click [here](place_picture/gif_here)
-        2. In the "xxxxxx" page there is a form to facilitate communication with the research group. Click [here](place_picture/gif_here)
-        3. The footer contains links to the relevant social media (Facebook,LinkedIn, Twitter and Instagram) as well as the organization's email. Click [here](place_picture/gif_here)
+        2. In the "about" page there is a form to facilitate communication with the research group. Click [here](place_picture/gif_here)
+        3. The footer contains links to the relevant social media (Facebook, LinkedIn, Twitter and Instagram) as well as the organization's email. Click [here](place_picture/gif_here)
         4. The email button is set up to automatically open up your email app and autofill the email address in the "To" section. Click [here](place_picture/gif_here)
 
     3. As a Returning Visitor, I want to find the social media links so that I can join and interact with others in the community.
         1. The Facebook Page can be found at the footer of every page and will open a new tab for the user and more information can be found on the Facebook page. Click [here](place_picture/gif_here)
         2. An interested returning user has the chance to immediately click on any link in the footer to be directed to the social medias of the research as much as the LinkedIn page. Click [here](place_picture/gif_here)
-        3. A little gallery will show interesting images to a user who wants to show the university to a friend or colleague. The xxx page has been thought for the same reason other than showing xxxxxxx. Click [here](place_picture/gif_here)
+        3. A little dynamic gallery will show interesting images to a user who wants to show the university to a friend or colleague. Click [here](place_picture/gif_here)
 
 -   #### Frequent User Goals
 
@@ -61,7 +61,7 @@
 
     3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or releases or notified about special events and seminars.
         1. At the bottom of every page there is a footer with a clickable embedded email address. Click [here](assets/testing_files/testing_ux_goals/footer.png)
-        2. In the page "About us" the users can insert their personal details in a form to receive the newsletter and be updated about latest releases. Click [here](place_picture/gif_here)
+        2. In the page "About" the users can insert their personal details in a form to receive the newsletter and be updated about latest releases. Click [here](place_picture/gif_here)
 
 -   #### Site Owner Goals, Testing
 
@@ -69,13 +69,13 @@
         1.  Through descriptive images,thorough descriptions and easy access to social medias.
 
      2. Give an immediate overview of the research, its main applications, releases and other important information.
-        1. Gallery images, staff xxxx , descriptions and interactive map abundantly provide that.
+        1. Gallery images, staff cards, descriptions and interactive map abundantly provide that.
 
      3. Increase percentage of website visits in order to gain more popularity among the community.
-        1. A combination of exhaustive descriptive pages, images, topics; all connected to social and professional links allow that .
+        1. A combination of exhaustive descriptive pages, images, topics; all connected to social and professional links allow that.
 
      4. Gain a better understanding of the audience by checking their feedback both via the website and social networks.
-        1. Possible via the reviews from ther social medias connected to the research group and the form in the page "About Us".
+        1. Possible via the reviews from ther social medias connected to the research group and the form in the page "About".
 
      5. Consequently, increase social mentions and post with regularity in order to keep attention high.
         1. Possible via regular updates (press releases, newsletter and constant update of the site pages) that connected to the social medias interactions give the owner a trend of its audience.
@@ -84,10 +84,10 @@
         1. Through the form present on the website, location and contacts given in the footer and an map.
 
      7. Make the website as accessible as possible.
-        1. The simple and instinctive structure of the website allows that, together with the clarifying images.
+        1. The simple and instinctive structure of the website allows that, together with the clarifying images and dynamic gallery.
 
      8. Allow external stakeholders to check out the competence of each single member of the team..
-        1. Dedicated and detailed pages allow that.
+        1. Dedicated and detailed pages allow that (people page and publications page).
     
      9. Increase chances of future cooperations and projects.
         1. Detailed contacts, disclosed research releases and declared applications of the research allow any stakeholder to interact with members of the team.
@@ -104,7 +104,7 @@ It was through this testing that the following changes were made:
 - Fonts choice looking smart and not invasive.
 - Improving the overall images quality compared to the initial framework idea.
 - Overall balance in the positioning and sizing of images in the pages. 
-- 
+- Dedicating a whole page to the publications with the related links.
 
 ## Manual Testing
 
