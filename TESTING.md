@@ -34,20 +34,20 @@
 
     1. As a Returning Visitor, I want to find information about new releases and events/seminars.
 
-        1. These are clearly shown in the publications page and easily accessible via the specific links. Click [here](place_picture/gif_here)
-        2. Each member of the team is presented with a detailed descriptiion and updated with the latest info and relative contacts. Click [here](place_picture/gif_here)
+        1. These are clearly shown in the publications page and easily accessible via the specific links. Click [here](assets/images/testing_images/ux_stories/publications_link.png)
+        2. Each member of the team is presented with a detailed descriptiion and updated with the latest info and relative contacts. Click [here](assets/images/testing_images/ux_stories/staff_cards.png)
 
     2. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any question I may have.
 
-        1. Contacts are easily visible in every page in the footer. Click [here](place_picture/gif_here)
-        2. In the "about" page there is a form to facilitate communication with the research group. Click [here](place_picture/gif_here)
-        3. The footer contains links to the relevant social media (Facebook, LinkedIn, Twitter and Instagram) as well as the organization's email. Click [here](place_picture/gif_here)
-        4. The email button is set up to automatically open up your email app and autofill the email address in the "To" section. Click [here](place_picture/gif_here)
+        1. Contacts are easily visible in every page in the footer. Click [here](assets/images/testing_images/ux_stories/footer.png)
+        2. In the "about" page there is a form to facilitate communication with the research group. Click [here](assets/images/testing_images/ux_stories/form.png)
+        3. The footer contains links to the relevant social media (Facebook, LinkedIn, Twitter and Instagram) as well as the organization's email. Click [here](assets/images/testing_images/ux_stories/footer.png)
+        4. The email button is set up to automatically open up your email app and autofill the email address in the "To" section. Click [here](assets/images/testing_images/ux_stories/mailto.gif)
 
     3. As a Returning Visitor, I want to find the social media links so that I can join and interact with others in the community.
-        1. The Facebook Page can be found at the footer of every page and will open a new tab for the user and more information can be found on the Facebook page. Click [here](place_picture/gif_here)
-        2. An interested returning user has the chance to immediately click on any link in the footer to be directed to the social medias of the research as much as the LinkedIn page. Click [here](place_picture/gif_here)
-        3. A little dynamic gallery will show interesting images to a user who wants to show the university to a friend or colleague. Click [here](place_picture/gif_here)
+        1. The Facebook Page (together with the other social links) can be found at the footer of every page and will open a new tab for the user and more information can be found on the Facebook page. Click [here](assets/images/testing_images/ux_stories/btn_social.gif)
+        2. An interested returning user has the chance to immediately click on any link in the footer to be directed to the social medias of the research as much as the LinkedIn page. Click [here](assets/images/testing_images/ux_stories/btn_linkedin.gif)
+        3. A little dynamic gallery will show interesting images to a user who wants to show the university to a friend or colleague. Click [here](assets/images/testing_images/ux_stories/gallery.png)
 
 -   #### Frequent User Goals
 
