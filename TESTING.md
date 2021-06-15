@@ -45,8 +45,8 @@
         4. The email button is set up to automatically open up your email app and autofill the email address in the "To" section. Click [here](assets/images/testing_images/ux_stories/mailto.gif)
 
     3. As a Returning Visitor, I want to find the social media links so that I can join and interact with others in the community.
-        1. The Facebook Page (together with the other social links) can be found at the footer of every page and will open a new tab for the user and more information can be found on the Facebook page. Click [here](assets/images/testing_images/ux_stories/btn_social.gif)
-        2. An interested returning user has the chance to immediately click on any link in the footer to be directed to the social medias of the research as much as the LinkedIn page. Click [here](assets/images/testing_images/ux_stories/btn_linkedin.gif)
+        1. The Facebook Page (together with the other social links) can be found at the footer of every page and will open a new tab for the user and more information can be found on the Facebook page. Click [here](assets/images/testing_images/ux_stories/footer.png)
+        2. An interested returning user has the chance to immediately click on any link in the footer to be directed to the social medias of the research as much as the LinkedIn page. Click [here](assets/images/testing_images/ux_stories/social_link.gif)
         3. A little dynamic gallery will show interesting images to a user who wants to show the university to a friend or colleague. Click [here](assets/images/testing_images/ux_stories/gallery.png)
 
 -   #### Frequent User Goals
