@@ -12,8 +12,8 @@
 
     1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the University Research Group and its main features.
 
-        1. Upon entering the site, users are automatically greeted with a clean and easily readable sticky navigation bar to go to the page of their choice. Underneath, there is an introductory jumbotron. Click [here](place_picture/gif_here)
-        2. The main features are immediately shown with a carousel and cards. Click [here](place_picture/gif_here)
+        1. Upon entering the site, users are automatically greeted with a clean and easily readable sticky navigation bar to go to the page of their choice. Underneath, there is an introductory jumbotron. Click [here](assets/images/testing_images/ux_stories/navbar.png)
+        2. The main features are immediately shown with a carousel and cards. Click [here](assets/images/testing_images/ux_stories/carousel.gif)
         3. The user has several options: click the link that redirects to the "people page", one of the links in the navbar or scroll down, where cards will show the main features of the website. Click [here](place_picture/gif_here)
 
     2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content,research and researchers.
