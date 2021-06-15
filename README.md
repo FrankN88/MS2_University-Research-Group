@@ -139,16 +139,16 @@ Several style changes were made in the final project compared to the inital wire
  ![About Page Wireframe](assets/images/testing_images/pages/about.png "About Wireframe")
 
  3. People
-  ![People Page Wireframe](place_image_here "People Wireframe")
+ ![People Page Wireframe](assets/images/testing_images/pages/people.png "People Wireframe")
 
  4. Projects
-  ![Projects Page Wireframe](assets/images/testing_images/pages/projects.png "Projects Wireframe")
+ ![Projects Page Wireframe](assets/images/testing_images/pages/projects.png "Projects Wireframe")
 
  5. Publications
-  ![Publications Page Wireframe](assets/images/testing_images/pages/publications.png "Publications Wireframe")
+ ![Publications Page Wireframe](assets/images/testing_images/pages/publications.png "Publications Wireframe")
 
  6. Page 404
-  ![404 Page Wireframe](assets/images/testing_images/pages/404.png "404 Page Wireframe")
+ ![404 Page Wireframe](assets/images/testing_images/pages/404.png "404 Page Wireframe")
 
 ### Surface
 
