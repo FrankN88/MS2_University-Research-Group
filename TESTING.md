@@ -185,6 +185,10 @@ Manual testing was conducted on the following elements of the [404 Page](404.htm
 
    ![xxxx Test](place_picture/gif_here)
 
+### Testing API Functionality 
+ - The user can regulary fill out the form fields and gets informed when the email has been sent. Click [here](assets/images/testing_images/api_testing/emailJS_api.png)
+ - The user can put the desired location and check out the weather. Click [here](assets/images/testing_images/api_testing/weather_api.png)
+
 ## Automated Testing
 
 ### Code Validation
