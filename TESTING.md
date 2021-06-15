@@ -53,15 +53,15 @@
 
     1. As a Frequent User, I want to check to see if there are any newly added features regarding the research.
 
-        1. The user would already be comfortable with the website layout and can easily check the related page. Click [here](place_picture/gif_here)
+        1. The user would already be comfortable with the website layout and can easily check the page he/she is interested in. Click [here](assets/images/testing_images/ux_stories/navbar.png)
 
     2. As a Frequent User, I want to check to see if there is any news related to the staff and seminars.
 
-        1. The user would already be comfortable with the website layout and can easily click the links to the selected pages. Click [here](place_picture/gif_here)
+        1. The user would already be comfortable with the website layout and can easily click the links to the selected pages. Click [here](assets/images/testing_images/ux_stories/publications_link.png)
 
     3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or releases or notified about special events and seminars.
         1. At the bottom of every page there is a footer with a clickable embedded email address. Click [here](assets/testing_files/testing_ux_goals/footer.png)
-        2. In the page "About" the users can insert their personal details in a form to receive the newsletter and be updated about latest releases. Click [here](place_picture/gif_here)
+        2. In the page "About" the users can insert their personal details in a form to receive the newsletter and be updated about latest releases. Click [here](assets/images/testing_images/ux_stories/form.png)
 
 -   #### Site Owner Goals, Testing
 
