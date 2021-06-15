@@ -13,22 +13,22 @@
     1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the University Research Group and its main features.
 
         1. Upon entering the site, users are automatically greeted with a clean and easily readable sticky navigation bar to go to the page of their choice. Underneath, there is an introductory jumbotron. Click [here](assets/images/testing_images/ux_stories/navbar.png)
-        2. The main features are immediately shown with a carousel and cards. Click [here](assets/images/testing_images/ux_stories/carousel.gif)
-        3. The user has several options: click the link that redirects to the "people page", one of the links in the navbar or scroll down, where cards will show the main features of the website. Click [here](place_picture/gif_here)
+        2. The main features are immediately shown with a carousel and cards. Click [here](assets/images/testing_images/ux_stories/carousel_card.png)
+        3. The user has several options: click the link that redirects to the "people page", one of the links in the navbar or scroll down, where cards will show the main features of the website. Click [here](assets/images/testing_images/ux_stories/btn_home.png)
 
     2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content,research and researchers.
 
-        1. The site has been designed to be fluid and to never entrap the user. At the top of each page there is a clean navigation bar; each link describes what page they will end up at clearly and change colour when hovering over the link. Click [here](place_picture/gif_here)
-        2. At the bottom of each page there is a button that redirects you at the top of the page so that the user does not have to scroll up again, especially on the longer pages and even more if visualised on a small device. Click [here](place_picture/gif_here)
-        3. The navigation bar is clearly defined and easily navigable for users to find and use. Click [here](place_picture/gif_here)
-        4. The logo image on the top left of each page leads users back to the home page. Click [here](place_picture/gif_here)
-        5. The footer menu is easy to use with appropriate icons for easy identification. Click [here](place_picture/gif_here)
+        1. The site has been designed to be fluid and to never entrap the user. At the top of each page there is a clean navigation bar; each link describes what page they will end up at clearly and change colour when hovering over the link. Click [here](assets/images/testing_images/ux_stories/link_hover_decoration.gif)
+        2. At the bottom of each page there is a button that redirects you at the top of the page so that the user does not have to scroll up again, especially on the longer pages and even more if visualised on a small device. Click [here](assets/images/testing_images/ux_stories/btn_up_footer.gif)
+        3. The navigation bar is clearly defined and easily navigable for users to find and use. Click [here](assets/images/testing_images/ux_stories/navbar.png)
+        4. The logo image on the top left of each page leads users back to the home page. Click [here](assets/images/testing_images/ux_stories/logo.gif)
+        5. The footer menu is easy to use with appropriate icons for easy identification. Click [here](assets/images/testing_images/ux_stories/footer.png)
 
     3. As a First Time Visitor, I want to find the main areas of the research group. I also want to locate their social media links to see their followings on social media in order to be updated about their latest releases.
 
-        1. The social media links are located in the footer together with the group's contacts. Click [here](place_picture/gif_here)
-        2. Social media links and contacts always adapt responsively in order to be clicked without any difficulty on any device. Click [here](place_picture/gif_here)
-        3. The email and phone number in the footer contain a link to facilitate communication with the research group. Click [here](place_picture/gif_here)
+        1. The social media links are located in the footer together with the group's contacts. Click [here](assets/images/testing_images/ux_stories/footer_links_responsive.png)
+        2. Social media links and contacts always adapt responsively in order to be clicked without any difficulty on any device. Click [here](assets/images/testing_images/ux_stories/footer_links_responsive.png)
+        3. The email and phone number in the footer contain a link to facilitate communication with the research group (click-to-call/mailto button). Click [here](assets/images/testing_images/ux_stories/callto_mailto.gif)
 
 -   #### Returning Visitor Goals
 
