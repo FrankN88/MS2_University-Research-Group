@@ -278,18 +278,6 @@ img.blur {
 
 /*----People Page beginning----*/
 
-#card-team-leader {
-  padding-top: 50px;
-  padding-bottom: 25px;
-}
-
-.h2-team-leader {
-  text-align: center;
-  color: #1a1a1ae6;
-  padding-bottom: 25px;
-  font-weight: 900;
-}
-
 .card-distance {
   padding-top: 25px;
   padding-bottom: 25px;
@@ -384,11 +372,6 @@ img.blur {
 
 .slider .slider-items .item.active {
 	display: block;
-}
-
-#team-leader-pic {
-  height: 100%;
-  width: 100%;
 }
 
 /*-----People Page ends-----*/
