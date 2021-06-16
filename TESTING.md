@@ -113,13 +113,13 @@ Manual testing was conducted on the following pages in order to assess responsiv
 
 - Hovering over the Navbar will trigger `hover` effect, confirming the link the users are on. Click [here](assets/images/testing_images/ux_stories/link_hover_decoration.gif)
 
-- Hovering over Social links will trigger `hover` effect and clicking on them will open a new tab. Click [here](assets/images/testing_images/ux_stories/hover_social.gif)
+- Hovering over Social links will trigger `hover` effect and clicking on them will open a new tab. Click [here](assets/images/testing_images/ux_stories/hover_click_social.gif)
 
 - Clicking on the logo will take you back to the home page or refresh it. Click [here](assets/images/testing_images/ux_stories/back_home_page.gif)
 
 - Hovering over email and phone number in the footer will trigger `hover` effect and clicking on them will redirect you to the email (mailto) or initialise the call (callto - if using a mobile device - ). Click [here](assets/images/testing_images/ux_stories/callto_mailto.gif)
 
-- Clicking on the univesity logo in the footer will redirect you to the university homepage and clicking on the address will open the location in GoogleMaps. Click [here](assets/images/testing_images/ux_stories/footer_link_out.gif)
+- Clicking on the univesity logo in the footer will redirect you to the university homepage and clicking on the address will open the location in GoogleMaps. Click [here](assets/images/testing_images/ux_stories/footer_out_link.gif)
 
 ### Home Page
 Manual testing was conducted on the following elements of the [Home Page](index.html):
