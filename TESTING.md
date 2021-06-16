@@ -136,7 +136,7 @@ Manual testing was conducted on the following elements of the [About Page](about
  - The form maintain its functionality in all devices 
  - The Navbar turns into a toggler icon in smaller devices
 
-   ![xxxx Test](place_picture/gif_here)
+   ![xxxx Test](assets/images/testing_images/ux_stories/gif_about_responsive.gif)
 
 ### People Page
 Manual testing was conducted on the following elements of the [People Page](people.html):
