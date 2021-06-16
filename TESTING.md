@@ -119,23 +119,19 @@ Manual testing was conducted on the following pages in order to assess responsiv
 
      Social link in the footer:
 
-     ![Facebook Social link](place_picture/gif_here)
+     ![Social link](place_picture/gif_here)
 
 - Clicking on the logo will take you back to the home page or refresh it:
 
      ![Ckick home page](place_picture/gif_here)
 
-- Hovering over "xxxxxx" in the pages will trigger `hover` effect and clicking on them will redirect you to the xxxx page:
+- Hovering over email and phone number in the footer will trigger `hover` effect and clicking on them will redirect you to the email (mailto) or initialise the call (callto - if using a mobile device - ):
 
      ![link](place_picture/gif_here)
 
-- Clicking on wine list link in the Home Page and Menu page will open a pdf list in another tab:
+- Clicking on the univesity logo in the footer will redirect you to the university homepage and clicking on the address will open the location in GoogleMaps:
 
-     ![Ckick wine link](place_picture/gif_here)
-
-- Hovering over any image in the gallery will trigger `hover` with an ease-in-out effect:
-
-     ![Gallery ease-in-out effect](place_picture/gif_here)
+     ![xxxx](place_picture/gif_here)
 
 ### Home Page
 Manual testing was conducted on the following elements of the [Home Page](index.html):
@@ -149,6 +145,7 @@ Manual testing was conducted on the following elements of the [Home Page](index.
 Manual testing was conducted on the following elements of the [About Page](about.html):
 
  - All the elements are responsive (header, footer, jumbotron, hero image, form, iframe)
+ - The form maintain its functionality in all devices 
  - The Navbar turns into a toggler icon in smaller devices
 
    ![xxxx Test](place_picture/gif_here)
@@ -157,6 +154,7 @@ Manual testing was conducted on the following elements of the [About Page](about
 Manual testing was conducted on the following elements of the [People Page](people.html):
 
  - All the elements are responsive (header, footer, jumbotron, titles, cards, dynamic gallery)
+ - The cards align vertically in small devices
  - The Navbar turns into a toggler icon in smaller devices
 
    ![xxxx Test](place_picture/gif_here)
@@ -165,6 +163,7 @@ Manual testing was conducted on the following elements of the [People Page](peop
 Manual testing was conducted on the following elements of the [Projects Page](projects.html):
 
  - All the elements are responsive (header, footer, titles, jumbotron, clock, quiz, met app)
+ - Clock, quiz and met app maintain their functionality in small devices
  - The Navbar turns into a toggler icon in smaller devices
 
    ![xxxx Test](place_picture/gif_here)
