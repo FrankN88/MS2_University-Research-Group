@@ -111,27 +111,15 @@ It was through this testing that the following changes were made:
 ### Common Elements Testing
 Manual testing was conducted on the following pages in order to assess responsiveness,funcionality and usability:
 
-- Hovering over the Navbar will trigger `hover` effect, confirming the link the users are on:
+- Hovering over the Navbar will trigger `hover` effect, confirming the link the users are on. Click [here](assets/images/testing_images/ux_stories/link_hover_decoration.gif)
 
-     ![Navbar hover effect](assets/images/testing_images/ux_stories/link_hover_decoration.gif)
+- Hovering over Social links will trigger `hover` effect and clicking on them will open a new tab. Click [here](assets/images/testing_images/ux_stories/hover_social.gif)
 
-- Hovering over Social links will trigger `hover` effect and clicking on them will open a new tab:
+- Clicking on the logo will take you back to the home page or refresh it. Click [here](assets/images/testing_images/ux_stories/back_home_page.gif)
 
-     Social link in the footer:
+- Hovering over email and phone number in the footer will trigger `hover` effect and clicking on them will redirect you to the email (mailto) or initialise the call (callto - if using a mobile device - ). Click [here](assets/images/testing_images/ux_stories/callto_mailto.gif)
 
-     ![Social link](assets/images/testing_images/ux_stories/hover_social.gif)
-
-- Clicking on the logo will take you back to the home page or refresh it:
-
-     ![Ckick home page](place_picture/gif_here)
-
-- Hovering over email and phone number in the footer will trigger `hover` effect and clicking on them will redirect you to the email (mailto) or initialise the call (callto - if using a mobile device - ):
-
-     ![link](place_picture/gif_here)
-
-- Clicking on the univesity logo in the footer will redirect you to the university homepage and clicking on the address will open the location in GoogleMaps:
-
-     ![xxxx](place_picture/gif_here)
+- Clicking on the univesity logo in the footer will redirect you to the university homepage and clicking on the address will open the location in GoogleMaps. Click [here](assets/images/testing_images/ux_stories/link_uni_footer.gif)
 
 ### Home Page
 Manual testing was conducted on the following elements of the [Home Page](index.html):
