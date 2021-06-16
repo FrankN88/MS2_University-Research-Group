@@ -45,7 +45,6 @@ body {
 .navbar-light .navbar-toggler {
   color: #ccc;
   border-color: #ccc;
-  padding-left: 15px !important;
 }
 
 .dropdown-menu {
@@ -55,8 +54,8 @@ background-color: #ccc;
 /*----Top Logo----*/
 
 #top-logo {
-  height: 20%;
-  width: 10%;
+  height: auto;
+  width: 7%;
   padding-left: 10px;
 }
 
