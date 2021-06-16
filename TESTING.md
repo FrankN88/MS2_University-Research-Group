@@ -113,7 +113,7 @@ Manual testing was conducted on the following pages in order to assess responsiv
 
 - Hovering over the Navbar will trigger `hover` effect, confirming the link the users are on:
 
-     ![Navbar hover effect](place_picture/gif_here)
+     ![Navbar hover effect](assets/images/testing_images/ux_stories/link_hover_decoration.gif)
 
 - Hovering over Social links will trigger `hover` effect and clicking on them will open a new tab:
 
