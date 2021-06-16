@@ -127,9 +127,7 @@ Manual testing was conducted on the following elements of the [Home Page](index.
  - All the elements are responsive (header, footer, carousel, cards, jumbotrons, cookies div)
  - The Navbar turns into a toggler icon in smaller devices
  
-  - [Homepage Test](place_picture/gif_here)
-
-   ![Homepage Test](place_picture/gif_here)
+   ![Homepage Test](assets/images/testing_images/ux_stories/gif_home_responsive.gif)
 
 ### About Page
 Manual testing was conducted on the following elements of the [About Page](about.html):
