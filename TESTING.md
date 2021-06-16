@@ -145,7 +145,7 @@ Manual testing was conducted on the following elements of the [People Page](peop
  - The cards align vertically in small devices
  - The Navbar turns into a toggler icon in smaller devices
 
-   ![xxxx Test](place_picture/gif_here)
+   ![xxxx Test](assets/images/testing_images/ux_stories/gif_people_responsive.gif)
 
 ### Projects Page
 Manual testing was conducted on the following elements of the [Projects Page](projects.html):
@@ -154,7 +154,7 @@ Manual testing was conducted on the following elements of the [Projects Page](pr
  - Clock, quiz and met app maintain their functionality in small devices
  - The Navbar turns into a toggler icon in smaller devices
 
-   ![xxxx Test](place_picture/gif_here)
+   ![xxxx Test](assets/images/testing_images/ux_stories/gif_projects_responsive.gif)
 
 ### Publications Page
 Manual testing was conducted on the following elements of the [Publications Page](publications.html):
@@ -162,7 +162,7 @@ Manual testing was conducted on the following elements of the [Publications Page
  - All the elements are responsive (header, footer, titles, jumbotron, images, text, progress bars)
  - The Navbar turns into a toggler icon in smaller devices
 
-   ![xxxx Test](place_picture/gif_here)
+   ![xxxx Test](assets/images/testing_images/ux_stories/gif_publications_responsive.gif)
 
 ### 404 Page
 Manual testing was conducted on the following elements of the [404 Page](404.html):
@@ -170,7 +170,7 @@ Manual testing was conducted on the following elements of the [404 Page](404.htm
  - All the elements are responsive (header, footer, text)
  - The Navbar turns into a toggler icon in smaller devices
 
-   ![xxxx Test](place_picture/gif_here)
+   ![xxxx Test](assets/images/testing_images/ux_stories/gif_404_responsive.gif)
 
 ### Testing API Functionality 
  - The user can regulary fill out the form fields and gets informed when the email has been sent. Click [here](assets/images/testing_images/api_testing/emailJS_api.png)
