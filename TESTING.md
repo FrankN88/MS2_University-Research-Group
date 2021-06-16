@@ -119,7 +119,7 @@ Manual testing was conducted on the following pages in order to assess responsiv
 
      Social link in the footer:
 
-     ![Social link](place_picture/gif_here)
+     ![Social link](assets/images/testing_images/ux_stories/hover_social.gif)
 
 - Clicking on the logo will take you back to the home page or refresh it:
 
