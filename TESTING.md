@@ -119,7 +119,7 @@ Manual testing was conducted on the following pages in order to assess responsiv
 
 - Hovering over email and phone number in the footer will trigger `hover` effect and clicking on them will redirect you to the email (mailto) or initialise the call (callto - if using a mobile device - ). Click [here](assets/images/testing_images/ux_stories/callto_mailto.gif)
 
-- Clicking on the univesity logo in the footer will redirect you to the university homepage and clicking on the address will open the location in GoogleMaps. Click [here](assets/images/testing_images/ux_stories/link_uni_footer.gif)
+- Clicking on the univesity logo in the footer will redirect you to the university homepage and clicking on the address will open the location in GoogleMaps. Click [here](assets/images/testing_images/ux_stories/footer_link_out.gif)
 
 ### Home Page
 Manual testing was conducted on the following elements of the [Home Page](index.html):
