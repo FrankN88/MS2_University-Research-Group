@@ -512,6 +512,10 @@ textarea {
   text-align: center;
 }
 
+#publications-container ul {
+  padding-inline-start: 5px !important;
+}
+
 /*----Percentages Bar----*/
 
 #bars-box {
