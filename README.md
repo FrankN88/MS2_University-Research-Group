@@ -252,6 +252,9 @@ The guiding approach in developing the website was the motto: "Mobile First". Th
 **Navbar issue** 
 - An initial issue was the position (if opened from a small device) the button would take in relation to the logo. After a few trials it has been resolved by reducing the size of the logo.
 
+**Logo issue** 
+- The initial use of `%` instead of `px` to size the logo made the whole surface of the navbar cliccable. The use of the unit `px` resolved the situation. Now in the navbar only the logo can be clickable (together with the links) and the rest of the navbar is safe.
+
 **Cookies Bug** 
 - A responsive mistake related to the cookies was not noticed at the beginning. The cookies div would not respond well if visualised on small devices, pushing all of the other elements in an unnatural way. The use of Bootsrap's container class resolved that issue.
 
@@ -275,8 +278,7 @@ The "required" attribute satisfies 100% the functionality i needed, therefore i 
 
 ### Known existing bugs
 - Occasional use of `!important` to override Boostrap features.
-- The publications list in the same page tends to push slightly to the right of the page when visualised on small devices.
-- People page tends to load slightly slower than the other pages. That is due to the many images present on the page. All of the images have been resized and compressed but that still affect a bit the speed in loading if compared to the other pages.
+- People page tends to load slightly slower than the other pages. That is due to the many images present on the page. All of the images have been resized and compressed but that still affects a bit the speed in loading if compared to the other pages.
 - For detailed testing information please check: [TESTING.md](TESTING.md "Link to testing file")
 
 ## Technologies Used
