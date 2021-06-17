@@ -205,7 +205,7 @@ img.blur {
   text-align:center;
   border-radius:50%;
   border:1px solid #ccc;
-  margin: left 5px;
+  margin-left: 5px;
   margin-top:22px;
   color:inherit;
   opacity:0.75;
@@ -513,7 +513,7 @@ textarea {
 }
 
 #publications-container ul {
-  padding-inline-start: 5px !important;
+  padding-left: 5px !important;
 }
 
 /*----Percentages Bar----*/
