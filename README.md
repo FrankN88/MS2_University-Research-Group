@@ -360,7 +360,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 ## Credits
 
 ### Content
--   All content was written by the developer.
+-   References in the JS code related to the APIs.
 -   Psychological properties of text colour in the README.md was found [here](http://www.colour-affects.co.uk/psychological-properties-of-colours)
 
 ### Media
