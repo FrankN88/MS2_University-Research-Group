@@ -50,18 +50,22 @@ The main requirement is to make an interactive front-end website using primarily
 ## User Experience (UX)
 
 -   ### User stories
+
     -   #### First Time Visitor Goals
         1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the University Research Group and its main features.
         2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content,research and researchers.
         3. As a First Time Visitor, I want to find the main areas of the research group. I also want to locate their social media links to see their followings on social media in order to be updated about their latest releases.
+
     -   #### Returning Visitor Goals
         1. As a Returning Visitor, I want to find information about new releases and events/seminars.
         2. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any question I may have.
         3. As a Returning Visitor, I want to find the social media links so that I can join and interact with others in the community.
+
     -   #### Frequent User Goals
         1. As a Frequent User, I want to check to see if there are any newly added features regarding the research.
         2. As a Frequent User, I want to check to see if there are any updates to the staff and seminars.
         3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or releases or notified about special events and seminars.
+
     -   #### Site Owner Goals
         1. Increasing the overall group reputation and awareness of the team and related releases.
         2. Give an immediate overview of the research, its main applications, releases and other important information.
