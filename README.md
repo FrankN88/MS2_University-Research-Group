@@ -274,7 +274,7 @@ The "required" attribute satisfies 100% the functionality i needed, therefore i 
 - No bugs found.
 
 ### Known existing bugs
-- xxxxx
+- Occasional use of `!important` to override Boostrap features.
 - The publications list in the same page tends to push slightly to the right of the page when visualised on small devices.
 - People page tends to load slightly slower than the other pages. That is due to the many images present on the page. All of the images have been resized and compressed but that still affect a bit the speed in loading if compared to the other pages.
 - For detailed testing information please check: [TESTING.md](TESTING.md "Link to testing file")
