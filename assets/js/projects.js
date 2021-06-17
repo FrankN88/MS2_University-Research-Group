@@ -256,15 +256,3 @@ function digitalTime(){
 }
 
 digitalTime();
-
-
-
-
-
-
-
-
-
-
-
-
