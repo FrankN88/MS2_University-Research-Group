@@ -157,7 +157,7 @@ Each page of the website features a consistent responsive navigational system:
   </details>
 - On smaller screens, the navigation bar collapses into a **toggler** icon whereby clicking it will reveal the links to the other pages.
   <details><summary>Toggle btn</summary>
-    <img src="assets/images/testing_images/ux_stories/btn_up_footer.gif">
+    <img src="">
   </details>
 - The **Footer** contains the appropriate **social media icons**, linking users to the main social media pages of the research group and university logo (clicking this will redirect users back to the univesity official page). Also the address in the footer works as a link to the university in Google Maps.
   <details><summary>Footer</summary>
@@ -169,7 +169,7 @@ Each page of the website features a consistent responsive navigational system:
   </details>
 - **Back to the top button**  - Those <strong>buttons</strong> are present in the footer so that the user can comfortably click them to be redirected to the top of the page. This feature improves the quality of navigation, especially if using smartphones.
   <details><summary>Btn back to the top</summary>
-    <img src="">
+    <img src="assets/images/testing_images/ux_stories/btn_up_footer.gif">
   </details>
 
 <dl>
