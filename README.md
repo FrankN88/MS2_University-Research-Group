@@ -189,6 +189,9 @@ Each page of the website features a consistent responsive navigational system:
           <li><strong>Jumbotron and Button</strong> - Strategically positioned between the cards, a jumbotron with a blurred background immediately convey the attention to a button that leads the user to the people's page.
           </li>
      </ul>
+     <details><summary>Home</summary>
+     <img src="assets/images/testing_images/pages/home.png">
+     </details>
   </dd>
   <dt><a href="about.html" target="_blank" alt="About Page">About Page</a></dt>
   <dd>The About page consists of the following elements:
