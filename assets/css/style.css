@@ -53,12 +53,6 @@ background-color: #ccc;
   width: 50px;
 }
 
-/*----Top Jumbotron----*/
-
-#index_jtron_top {
-  padding: 100px;
-}
-
 /*----Carousel----*/
 
 .img-resize {
@@ -267,6 +261,14 @@ img.blur {
 
 .footer-icon {
   margin-right: 10px;
+}
+
+/*----Cookies----*/
+
+#learn-more {
+  color: #ccc;
+  padding-left: 5px;
+  text-decoration: none !important;
 }
 
 /*----People Page beginning----*/
