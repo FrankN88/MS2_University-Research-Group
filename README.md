@@ -145,13 +145,16 @@ Several style changes were made in the final project compared to the inital wire
 #### Imagery
   -   Imagery is extremely important in websites that aim to show the reliability of a research group. It is designed to be striking and catch the user's attention. The carousel on the homepage is an immediate example of an element that catches the attention of the user with the most important technologies and staff.
   - It also has a smart and simple aesthetic. The imagery has been thought about carefully to draw the attention of the user straight to the main components of the website.
-  - Ther user can visualise each component of the group thanks to the pictures in "People" page.
+  - Ther user can visualise each component of the group thanks to the pictures in "People" page or in the dynamic gallery.
 
 ## Features
 
 ### Design Features
 Each page of the website features a consistent responsive navigational system:
 - The **Header** contains a conventionally placed **logo** at the top left of the page (clicking this will redirect users back to the home page) and **navigation bar** at the top right of the page.
+  <details><summary>Header</summary>
+    <img src="assets/images/testing_images/ux_stories/back_home_page.gif">
+  </details>
 - On smaller screens, the navigation bar collapses into a **toggler** icon whereby clicking it will reveal the links to the other pages.
 - The **Footer** contains the appropriate **social media icons**, linking users to the main social media pages of the research group and university logo (clicking this will redirect users back to the univesity official page). Also the address in the footer works as a link to the university in Google Maps.
 - In the footer, there are respectively a mailto and a callto embedded in the email and number.
