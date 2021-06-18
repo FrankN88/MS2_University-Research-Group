@@ -10,11 +10,11 @@ body {
 /*----404 error page----*/
 
 #error-page {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+  /*background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
-  background-attachment: fixed;
+  background-attachment: fixed;*/
   height:auto;
   min-height:800px;
   height:auto !important;
