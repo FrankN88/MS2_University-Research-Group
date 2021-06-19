@@ -55,148 +55,148 @@
            <img src="assets/images/testing_images/ux_stories/footer_links_responsive.png">
            </details>
         2. Social media links and contacts always adapt responsively in order to be clicked without any difficulty on any device.
-        <details><summary>Links responsiveness</summary>
-        <img src="assets/images/testing_images/ux_stories/footer_links_responsive.png">
-        </details>
+           <details><summary>Links responsiveness</summary>
+           <img src="assets/images/testing_images/ux_stories/footer_links_responsive.png">
+           </details>
         3. The email and phone number in the footer contain a link to facilitate communication with the research group (click-to-call/mailto button).
-        <details><summary>Callto/Mailto</summary>
-        <img src="assets/images/testing_images/ux_stories/callto_mailto.gif">
-        </details>
+           <details><summary>Callto/Mailto</summary>
+           <img src="assets/images/testing_images/ux_stories/callto_mailto.gif">
+           </details>
 
 -   #### Returning Visitor Goals
 
     1. As a Returning Visitor, I want to find information about new releases and events/seminars.
 
         1. These are clearly shown in the publications page and easily accessible via the specific links.
-        <details><summary>Publications updates</summary>
-        <img src="assets/images/testing_images/ux_stories/publications_link.png">
-        </details>
+           <details><summary>Publications updates</summary>
+           <img src="assets/images/testing_images/ux_stories/publications_link.png">
+           </details>
         2. Each member of the team is presented with a detailed descriptiion and updated with the latest info and relative contacts.
-        <details><summary>Staff description</summary>
-        <img src="assets/images/testing_images/ux_stories/staff_cards.png">
-        </details>
+           <details><summary>Staff description</summary>
+           <img src="assets/images/testing_images/ux_stories/staff_cards.png">
+           </details>
 
     2. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any question I may have.
 
         1. Contacts are easily visible in every page in the footer.
-        <details><summary>Contacts</summary>
-        <img src="assets/images/testing_images/ux_stories/footer.png">
-        </details>
+           <details><summary>Contacts</summary>
+           <img src="assets/images/testing_images/ux_stories/footer.png">
+           </details>
         2. In the "about" page there is a form to facilitate communication with the research group.
-        <details><summary>Form</summary>
-        <img src="assets/images/testing_images/ux_stories/form.png">
-        </details>
+           <details><summary>Form</summary>
+           <img src="assets/images/testing_images/ux_stories/form.png">
+           </details>
         3. The footer contains links to the relevant social media (Facebook, LinkedIn, Twitter and Instagram) as well as the organization's email.
-        <details><summary>Footer links and contacts</summary>
-        <img src="assets/images/testing_images/ux_stories/footer.png">
-        </details>
+           <details><summary>Footer links and contacts</summary>
+           <img src="assets/images/testing_images/ux_stories/footer.png">
+           </details>
         4. The email button is set up to automatically open up your email app and autofill the email address in the "To" section.
-        <details><summary>Mailto click</summary>
-        <img src="assets/images/testing_images/ux_stories/mailto.gif">
-        </details>
+           <details><summary>Mailto click</summary>
+           <img src="assets/images/testing_images/ux_stories/mailto.gif">
+           </details>
 
     3. As a Returning Visitor, I want to find the social media links so that I can join and interact with others in the community.
         1. The Facebook Page (together with the other social links) can be found at the footer of every page and will open a new tab for the user and more information can be found on the Facebook page.
-        <details><summary>Social media position</summary>
-        <img src="assets/images/testing_images/ux_stories/footer.png">
-        </details>
+           <details><summary>Social media position</summary>
+           <img src="assets/images/testing_images/ux_stories/footer.png">
+           </details>
         2. An interested returning user has the chance to immediately click on any link in the footer to be directed to the social medias of the research as much as the LinkedIn page.
-        <details><summary>Clicking footer icon</summary>
-        <img src="assets/images/testing_images/ux_stories/social_link.gif">
-        </details>
+           <details><summary>Clicking footer icon</summary>
+           <img src="assets/images/testing_images/ux_stories/social_link.gif">
+           </details>
         3. A little dynamic gallery will show interesting images to a user who wants to show the university to a friend or colleague.
-        <details><summary>Gallery</summary>
-        <img src="assets/images/testing_images/ux_stories/gallery.png">
-        </details>
+           <details><summary>Gallery</summary>
+           <img src="assets/images/testing_images/ux_stories/gallery.png">
+           </details>
 
 -   #### Frequent User Goals
 
     1. As a Frequent User, I want to check to see if there are any newly added features regarding the research.
 
         1. The user would already be comfortable with the website layout and can easily check the page he/she is interested in.
-        <details><summary>Navbar details</summary>
-        <img src="assets/images/testing_images/ux_stories/navbar.png">
-        </details>
+           <details><summary>Navbar details</summary>
+           <img src="assets/images/testing_images/ux_stories/navbar.png">
+           </details>
 
     2. As a Frequent User, I want to check to see if there is any news related to the staff and seminars.
 
         1. The user would already be comfortable with the website layout and can easily click the links to the selected pages.
-        <details><summary>Clicking publications links</summary>
-        <img src="assets/images/testing_images/ux_stories/publications.gif">
-        </details>
+           <details><summary>Clicking publications links</summary>
+           <img src="assets/images/testing_images/ux_stories/publications.gif">
+           </details>
 
     3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or releases or notified about special events and seminars.
 
         1. At the bottom of every page there is a footer with a clickable embedded email address.
-        <details><summary>Mailto</summary>
-        <img src="assets/images/testing_images/ux_stories/mailto.gif">
-        </details>
+           <details><summary>Mailto</summary>
+           <img src="assets/images/testing_images/ux_stories/mailto.gif">
+           </details>
         2. In the page "About" the users can insert their personal details in a form to receive the newsletter and be updated about latest releases.
-        <details><summary>Filling the form</summary>
-        <img src="assets/images/testing_images/ux_stories/form.png">
-        </details>
+           <details><summary>Filling the form</summary>
+           <img src="assets/images/testing_images/ux_stories/form.png">
+           </details>
 
 -   #### Site Owner Goals, Testing
 
      1. Increasing the overall group reputation and awareness of the team and related releases..
         1.  Through descriptive images,thorough descriptions and easy access to social medias.
-        <details><summary></summary>
-        <img src="">
-        </details>
+           <details><summary></summary>
+           <img src="">
+           </details>
 
      2. Give an immediate overview of the research, its main applications, releases and other important information.
         1. Gallery images, staff cards, descriptions and interactive map abundantly provide that.
-        <details><summary></summary>
-        <img src="">
-        </details>
+           <details><summary></summary>
+           <img src="">
+           </details>
 
      3. Increase percentage of website visits in order to gain more popularity among the community.
         1. A combination of exhaustive descriptive pages, images, topics; all connected to social and professional links allow that.
-        <details><summary></summary>
-        <img src="">
-        </details>
+           <details><summary></summary>
+           <img src="">
+           </details>
 
      4. Gain a better understanding of the audience by checking their feedback both via the website and social networks.
         1. Possible via the reviews from ther social medias connected to the research group and the form in the page "About".
-        <details><summary></summary>
-        <img src="">
-        </details>
+           <details><summary></summary>
+           <img src="">
+           </details>
 
      5. Consequently, increase social mentions and post with regularity in order to keep attention high.
         1. Possible via regular updates (press releases, newsletter and constant update of the site pages) that connected to the social medias interactions give the owner a trend of its audience.
-        <details><summary></summary>
-        <img src="">
-        </details>
+           <details><summary></summary>
+           <img src="">
+           </details>
 
      6. Allow potential students and potential entrepreneurs to fill out a contact form, sign up for the email list, visit the physical location, or simply get in touch with the team.
         1. Through the form present on the website, location and contacts given in the footer and an map.
-        <details><summary></summary>
-        <img src="">
-        </details>
+           <details><summary></summary>
+           <img src="">
+           </details>
 
      7. Make the website as accessible as possible.
         1. The simple and instinctive structure of the website allows that, together with the clarifying images and dynamic gallery.
-        <details><summary></summary>
-        <img src="">
-        </details>
+           <details><summary></summary>
+           <img src="">
+           </details>
 
      8. Allow external stakeholders to check out the competence of each single member of the team..
         1. Dedicated and detailed pages allow that (people page and publications page).
-        <details><summary></summary>
-        <img src="">
-        </details>
+           <details><summary></summary>
+           <img src="">
+           </details>
     
      9. Increase chances of future cooperations and projects.
         1. Detailed contacts, disclosed research releases and declared applications of the research allow any stakeholder to interact with members of the team.
-        <details><summary></summary>
-        <img src="">
-        </details>
+           <details><summary></summary>
+           <img src="">
+           </details>
     
     10. Use reviews to increase customer satisfaction.
         1. The reviews are part of the improving process; social media interactions are the first indicator of popularity.
-        <details><summary></summary>
-        <img src="">
-        </details> 
+           <details><summary></summary>
+           <img src="">
+           </details> 
 
 ## User testing 
 Friends and family members were asked to review the site and documentation to point out any feedback and possible way of improving it. Their helpful advice throughout the process led to many UX changes in order to create a better experience, especially regarding the styling. 
