@@ -111,32 +111,49 @@ It was through this testing that the following changes were made:
 ### Common Elements Testing
 Manual testing was conducted on the following pages in order to assess responsiveness,funcionality and usability:
 
-- Hovering over the Navbar will trigger `hover` effect, confirming the link the users are on. Click [here](assets/images/testing_images/ux_stories/link_hover_decoration.gif)
+- Hovering over the Navbar will trigger `hover` effect. 
+  <details><summary>Navbar `hover`</summary>
+    <img src="assets/images/testing_images/ux_stories/link_hover_decoration.gif">
+  </details>
 
-- Hovering over Social links will trigger `hover` effect and clicking on them will open a new tab. Click [here](assets/images/testing_images/ux_stories/hover_click_social.gif)
+- Hovering over Social links will trigger `hover` effect and clicking on them will open a new tab. 
+  <details><summary>`hover` and open new tab</summary>
+    <img src="assets/images/testing_images/ux_stories/hover_click_social.gif">
+  </details>
 
-- Clicking on the logo will take you back to the home page or refresh it. Click [here](assets/images/testing_images/ux_stories/back_home_page.gif)
+- Clicking on the logo will take you back to the home page or refresh it.
+  <details><summary>Click logo to return to home page</summary>
+    <img src="assets/images/testing_images/ux_stories/back_home_page.gif">
+  </details>
 
 - Hovering over email and phone number in the footer will trigger `hover` effect and clicking on them will redirect you to the email (mailto) or initialise the call (callto - if using a mobile device - ). Click [here](assets/images/testing_images/ux_stories/callto_mailto.gif)
+  <details><summary>Header</summary>
+    <img src="assets/images/testing_images/ux_stories/link_hover_decoration.gif">
+  </details>
 
-- Clicking on the univesity logo in the footer will redirect you to the university homepage and clicking on the address will open the location in GoogleMaps. Click [here](assets/images/testing_images/ux_stories/footer_out_link.gif)
+- Clicking on the univesity logo in the footer will redirect you to the university homepage and clicking on the address will open the location in GoogleMaps.
+  <details><summary>Footer external links</summary>
+    <img src="assets/images/testing_images/ux_stories/callto_mailto.gif">
+  </details>
 
 ### Home Page
 Manual testing was conducted on the following elements of the [Home Page](index.html):
 
  - All the elements are responsive (header, footer, carousel, cards, jumbotrons, cookies div)
  - The Navbar turns into a toggler icon in smaller devices
+   <details><summary>Home Page</summary>
+    <img src="assets/images/testing_images/ux_stories/gif_home_responsive.gif">
+  </details>
  
-   ![Homepage Test](assets/images/testing_images/ux_stories/gif_home_responsive.gif)
-
 ### About Page
 Manual testing was conducted on the following elements of the [About Page](about.html):
 
  - All the elements are responsive (header, footer, jumbotron, hero image, form, iframe)
  - The form maintain its functionality in all devices 
  - The Navbar turns into a toggler icon in smaller devices
-
-   ![xxxx Test](assets/images/testing_images/ux_stories/gif_about_responsive.gif)
+   <details><summary>About page</summary>
+    <img src="assets/images/testing_images/ux_stories/gif_about_responsive.gif">
+  </details>
 
 ### People Page
 Manual testing was conducted on the following elements of the [People Page](people.html):
@@ -144,8 +161,9 @@ Manual testing was conducted on the following elements of the [People Page](peop
  - All the elements are responsive (header, footer, jumbotron, titles, cards, dynamic gallery)
  - The cards align vertically in small devices
  - The Navbar turns into a toggler icon in smaller devices
-
-   ![xxxx Test](assets/images/testing_images/ux_stories/gif_people_responsive.gif)
+   <details><summary>People page</summary>
+    <img src="assets/images/testing_images/ux_stories/gif_people_responsive.gif">
+  </details>
 
 ### Projects Page
 Manual testing was conducted on the following elements of the [Projects Page](projects.html):
@@ -153,24 +171,27 @@ Manual testing was conducted on the following elements of the [Projects Page](pr
  - All the elements are responsive (header, footer, titles, jumbotron, clock, quiz, met app)
  - Clock, quiz and met app maintain their functionality in small devices
  - The Navbar turns into a toggler icon in smaller devices
-
-   ![xxxx Test](assets/images/testing_images/ux_stories/gif_projects_responsive.gif)
+   <details><summary>Projects Page</summary>
+    <img src="assets/images/testing_images/ux_stories/gif_projects_responsive.gif">
+  </details>
 
 ### Publications Page
 Manual testing was conducted on the following elements of the [Publications Page](publications.html):
 
  - All the elements are responsive (header, footer, titles, jumbotron, images, text, progress bars)
  - The Navbar turns into a toggler icon in smaller devices
-
-   ![xxxx Test](assets/images/testing_images/ux_stories/gif_publications_responsive.gif)
+   <details><summary>Publications Page</summary>
+    <img src="assets/images/testing_images/ux_stories/gif_publications_responsive.gif">
+  </details>
 
 ### 404 Page
 Manual testing was conducted on the following elements of the [404 Page](404.html):
 
  - All the elements are responsive (header, footer, text)
  - The Navbar turns into a toggler icon in smaller devices
-
-   ![xxxx Test](assets/images/testing_images/ux_stories/gif_404_responsive.gif)
+   <details><summary>404 Page</summary>
+    <img src="assets/images/testing_images/ux_stories/gif_404_responsive.gif">
+  </details>
 
 ### Testing API Functionality 
  - The user can regulary fill out the form fields and gets informed when the email has been sent. Click [here](assets/images/testing_images/api_testing/emailJS_api.png)
