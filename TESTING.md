@@ -138,34 +138,34 @@
 
 -   #### Site Owner Goals, Testing
 
-     1. Increasing the overall group reputation and awareness of the team and related releases..
+     1. Increasing the overall group reputation and awareness of the team and related releases.
         1. Through descriptive images,thorough descriptions and easy access to social medias.
-           <details><summary></summary>
-           <img src="">
+           <details><summary>Example</summary>
+           <img src="assets/images/testing_images/ux_stories/collage_site_owner_goal1.png">
            </details>
 
      2. Give an immediate overview of the research, its main applications, releases and other important information.
-        1. Gallery images, staff cards, descriptions and interactive map abundantly provide that.
-           <details><summary></summary>
-           <img src="">
+        1. Gallery images, staff cards, descriptions abundantly provide that.
+           <details><summary>Example</summary>
+           <img src="assets/images/testing_images/ux_stories/collage_site_owner_goal2.png">
            </details>
 
      3. Increase percentage of website visits in order to gain more popularity among the community.
         1. A combination of exhaustive descriptive pages, images, topics; all connected to social and professional links allow that.
-           <details><summary></summary>
-           <img src="">
+           <details><summary>Example</summary>
+           <img src="assets/images/testing_images/ux_stories/collage_site_owner_goal3.png">
            </details>
 
      4. Gain a better understanding of the audience by checking their feedback both via the website and social networks.
         1. Possible via the reviews from ther social medias connected to the research group and the form in the page "About".
-           <details><summary></summary>
-           <img src="">
+           <details><summary>Example</summary>
+           <img src="assets/images/testing_images/ux_stories/collage_site_owner_goal4.png">
            </details>
 
      5. Consequently, increase social mentions and post with regularity in order to keep attention high.
         1. Possible via regular updates (press releases, newsletter and constant update of the site pages) that connected to the social medias interactions give the owner a trend of its audience.
-           <details><summary></summary>
-           <img src="">
+           <details><summary>Example</summary>
+           <img src="assets/images/testing_images/ux_stories/collage_site_owner_goal5.png">
            </details>
 
      6. Allow potential students and potential entrepreneurs to fill out a contact form, sign up for the email list, visit the physical location, or simply get in touch with the team.
