@@ -157,7 +157,7 @@ Each page of the website features a consistent responsive navigational system:
   </details>
 - On smaller screens, the navigation bar collapses into a **toggler** icon whereby clicking it will reveal the links to the other pages.
   <details><summary>Toggle btn</summary>
-    <img src="">
+    <img src="assets/images/testing_images/ux_stories/toggle_btn.gif">
   </details>
 - The **Footer** contains the appropriate **social media icons**, linking users to the main social media pages of the research group and university logo (clicking this will redirect users back to the univesity official page). Also the address in the footer works as a link to the university in Google Maps.
   <details><summary>Footer</summary>
@@ -283,6 +283,7 @@ The guiding approach in developing the website was the motto: "Mobile First". Th
 
 **Navbar issue** 
 - An initial issue was the position (if opened from a small device) the button would take in relation to the logo. After a few trials it has been resolved by reducing the size of the logo.
+- The drop down menu on small devices would jump from the left to the right of the page. It has been resolved by using Bootstrap class `justify-content-lg-end`. This way it maintains its natural position in small devices and it does not affect the links to the other page if seen on bigger screens.
 
 **Logo issue** 
 - The initial use of `%` instead of `px` to size the logo made the whole surface of the navbar cliccable. The use of the unit `px` resolved the situation. Now in the navbar only the logo can be clickable (together with the links) and the rest of the navbar is safe.
