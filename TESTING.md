@@ -127,7 +127,7 @@ Manual testing was conducted on the following pages in order to assess responsiv
   </details>
 
 - Hovering over email and phone number in the footer will trigger `hover` effect and clicking on them will redirect you to the email (mailto) or initialise the call (callto - if using a mobile device - ).
-  <details><summary>Header</summary>
+  <details><summary>Mailto/Callto</summary>
     <img src="assets/images/testing_images/ux_stories/callto_mailto.gif">
   </details>
 
