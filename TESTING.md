@@ -111,13 +111,13 @@ It was through this testing that the following changes were made:
 ### Common Elements Testing
 Manual testing was conducted on the following pages in order to assess responsiveness,funcionality and usability:
 
-- Hovering over the Navbar will trigger `hover` effect. 
-  <details><summary>Navbar `hover`</summary>
+- Hovering over the Navbar will trigger `hover` effect. The page the user is in it is clearly visible by the text decoration.
+  <details><summary>Navbar hover</summary>
     <img src="assets/images/testing_images/ux_stories/link_hover_decoration.gif">
   </details>
 
 - Hovering over Social links will trigger `hover` effect and clicking on them will open a new tab. 
-  <details><summary>`hover` and open new tab</summary>
+  <details><summary>Hover and open new tab</summary>
     <img src="assets/images/testing_images/ux_stories/hover_click_social.gif">
   </details>
 
@@ -126,14 +126,14 @@ Manual testing was conducted on the following pages in order to assess responsiv
     <img src="assets/images/testing_images/ux_stories/back_home_page.gif">
   </details>
 
-- Hovering over email and phone number in the footer will trigger `hover` effect and clicking on them will redirect you to the email (mailto) or initialise the call (callto - if using a mobile device - ). Click [here](assets/images/testing_images/ux_stories/callto_mailto.gif)
+- Hovering over email and phone number in the footer will trigger `hover` effect and clicking on them will redirect you to the email (mailto) or initialise the call (callto - if using a mobile device - ).
   <details><summary>Header</summary>
-    <img src="assets/images/testing_images/ux_stories/link_hover_decoration.gif">
+    <img src="assets/images/testing_images/ux_stories/callto_mailto.gif">
   </details>
 
 - Clicking on the univesity logo in the footer will redirect you to the university homepage and clicking on the address will open the location in GoogleMaps.
   <details><summary>Footer external links</summary>
-    <img src="assets/images/testing_images/ux_stories/callto_mailto.gif">
+    <img src="assets/images/testing_images/ux_stories/footer_out_link.gif">
   </details>
 
 ### Home Page
