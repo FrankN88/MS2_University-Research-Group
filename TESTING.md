@@ -126,6 +126,7 @@
         </details>
 
     3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or releases or notified about special events and seminars.
+
         1. At the bottom of every page there is a footer with a clickable embedded email address.
         <details><summary>Mailto</summary>
         <img src="assets/images/testing_images/ux_stories/mailto.gif">
