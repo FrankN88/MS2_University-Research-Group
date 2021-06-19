@@ -170,32 +170,32 @@
 
      6. Allow potential students and potential entrepreneurs to fill out a contact form, sign up for the email list, visit the physical location, or simply get in touch with the team.
         1. Through the form present on the website, location and contacts given in the footer and an map.
-           <details><summary></summary>
-           <img src="">
+           <details><summary>Example</summary>
+           <img src="assets/images/testing_images/ux_stories/collage_site_owner_goal6.png">
            </details>
 
      7. Make the website as accessible as possible.
         1. The simple and instinctive structure of the website allows that, together with the clarifying images and dynamic gallery.
-           <details><summary></summary>
-           <img src="">
+           <details><summary>Example</summary>
+           <img src="assets/images/testing_images/ux_stories/collage_site_owner_goal7.png">
            </details>
 
      8. Allow external stakeholders to check out the competence of each single member of the team..
         1. Dedicated and detailed pages allow that (people page and publications page).
-           <details><summary></summary>
-           <img src="">
+           <details><summary>Example</summary>
+           <img src="assets/images/testing_images/ux_stories/collage_site_owner_goal8.png">
            </details>
     
      9. Increase chances of future cooperations and projects.
-        1. Detailed contacts, disclosed research releases and declared applications of the research allow any stakeholder to interact with members of the team.
-           <details><summary></summary>
-           <img src="">
+        1. Detailed contacts, disclosed research releases and contact form allow any stakeholder to interact with members of the team.
+           <details><summary>Example</summary>
+           <img src="assets/images/testing_images/ux_stories/collage_site_owner_goal9.png">
            </details>
     
     10. Use reviews to increase customer satisfaction.
-        1. The reviews are part of the improving process; social media interactions are the first indicator of popularity.
-           <details><summary></summary>
-           <img src="">
+        1. The reviews are part of the improving process; social media interactions are the first indicator of popularity together with feedback via the form.
+           <details><summary>Example</summary>
+           <img src="assets/images/testing_images/ux_stories/collage_site_owner_goal10.png">
            </details> 
 
 ## User testing 
