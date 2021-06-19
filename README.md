@@ -295,14 +295,14 @@ The guiding approach in developing the website was the motto: "Mobile First". Th
 - A great amount of time was dedicated to finding the most suitable style for a gallery that could be both responsive and aesthetically pleasing. After many trials, the best approach was a dynamic gallery made with JS that would respond to user inputs.
 
 **Progress bar issue** 
-- The elements in the progress bars would overlay one another. Sizing via CSS and enlarging the div resolved that issue and made it totally responsive.
+- The elements in the progress bars would overlay one another. Sizing via CSS and enlarging the `div` resolved that issue and made it totally responsive.
 
 **Form Issue** 
 - The form is correctly working and sending emails. During the development of the page i have tried to build a function within the EmailJS one that would validate the inputs. As a result of that the form stopped working and i have therefore decided to go back to the original idea of using the "required" attribute to validate the empty fields.
 The "required" attribute satisfies 100% the functionality i needed, therefore i have decided not to jeopardize the form function and leave it the way i had originally built it.
 
 **HTML Validator-related resolved bugs**
-- Some missing "alt" attributes to the <img> tags.
+- Some missing `alt` attributes to the `img` tags.
 - Incorrect spacing in the phone number in the footer.
 - One missing closing tag.
 
