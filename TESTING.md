@@ -28,11 +28,11 @@
     2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content,research and researchers.
 
         1. The site has been designed to be fluid and to never entrap the user. At the top of each page there is a clean navigation bar; each link describes what page they will end up at clearly and change colour when hovering over the link. 
-           <details><summary>Call to action btn</summary>
+           <details><summary>Navbar features</summary>
            <img src="assets/images/testing_images/ux_stories/link_hover_decoration.gif">
            </details>
         2. At the bottom of each page there is a button that redirects you at the top of the page so that the user does not have to scroll up again, especially on the longer pages and even more if visualised on a small device.
-           <details><summary>Navbar features</summary>
+           <details><summary>Btn back to the top</summary>
            <img src="assets/images/testing_images/ux_stories/btn_up_footer.gif">
            </details>
         3. The navigation bar is clearly defined and easily navigable for users to find and use.
@@ -41,7 +41,7 @@
            </details>
         4. The logo image on the top left of each page leads users back to the home page.
            <details><summary>Clicking logo</summary>
-           <img src="assets/images/testing_images/ux_stories/logo.gif">
+           <img src="assets/images/testing_images/ux_stories/back_home_page.gif">
            </details>
         5. The footer menu is easy to use with appropriate icons for easy identification.
            <details><summary>Footer layout</summary>
@@ -65,11 +65,11 @@
 
 -   #### Returning Visitor Goals
 
-    1. As a Returning Visitor, I want to find information about new releases and events/seminars.
+    1. As a Returning Visitor, I want to find information about new publications.
 
         1. These are clearly shown in the publications page and easily accessible via the specific links.
            <details><summary>Publications updates</summary>
-           <img src="assets/images/testing_images/ux_stories/publications_link.png">
+           <img src="assets/images/testing_images/ux_stories/publications.gif">
            </details>
         2. Each member of the team is presented with a detailed descriptiion and updated with the latest info and relative contacts.
            <details><summary>Staff description</summary>
@@ -139,7 +139,7 @@
 -   #### Site Owner Goals, Testing
 
      1. Increasing the overall group reputation and awareness of the team and related releases..
-        1.  Through descriptive images,thorough descriptions and easy access to social medias.
+        1. Through descriptive images,thorough descriptions and easy access to social medias.
            <details><summary></summary>
            <img src="">
            </details>

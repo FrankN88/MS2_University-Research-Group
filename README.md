@@ -57,7 +57,7 @@ The main requirement is to make an interactive front-end website using primarily
         3. As a First Time Visitor, I want to find the main areas of the research group. I also want to locate their social media links to see their followings on social media in order to be updated about their latest releases.
 
     -   #### Returning Visitor Goals
-        1. As a Returning Visitor, I want to find information about new releases and events/seminars.
+        1. As a Returning Visitor, I want to find information about new publications.
         2. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any question I may have.
         3. As a Returning Visitor, I want to find the social media links so that I can join and interact with others in the community.
 
