@@ -57,26 +57,26 @@ The main requirement is to make an interactive front-end website using primarily
         3. As a First Time Visitor, I want to find the main areas of the research group. I also want to locate their social media links to see their followings on social media in order to be updated about their latest releases.
 
     -   #### Returning Visitor Goals
-        1. As a Returning Visitor, I want to find information about new publications.
-        2. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any question I may have.
-        3. As a Returning Visitor, I want to find the social media links so that I can join and interact with others in the community.
+        4. As a Returning Visitor, I want to find information about new publications.
+        5. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any question I may have.
+        6. As a Returning Visitor, I want to find the social media links so that I can join and interact with others in the community.
 
     -   #### Frequent User Goals
-        1. As a Frequent User, I want to check to see if there are any newly added features regarding the research.
-        2. As a Frequent User, I want to check to see if there are any updates to the staff and seminars.
-        3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or releases or notified about special events and seminars.
+        7. As a Frequent User, I want to check to see if there are any newly added features regarding the research.
+        8. As a Frequent User, I want to check to see if there are any updates to the staff and seminars.
+        9. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or releases or notified about special events and seminars.
 
     -   #### Site Owner Goals
-        1. Increasing the overall group reputation and awareness of the team and related releases.
-        2. Give an immediate overview of the research, its main applications, releases and other important information.
-        3. Increase percentage of website visits in order to gain more popularity among the community.
-        4. Gain a better understanding of the audience by checking their feedback both via the website and social networks.
-        5. Consequently, increase social mentions and post with regularity in order to keep attention high.
-        6. Allow potential students and entrepreneurs  to fill out a contact form, sign up for the email list, visit the physical location, or simply get in touch with the team.
-        7. Make the website as accessible and responsive as possible.
-        8. Allow external stakeholders to check out the competence of each single member of the team.
-        9. Increase chances of future cooperations and projects.
-        10. Use reviews to increase customer satisfaction.
+        10. Increasing the overall group reputation and awareness of the team and related releases.
+        11. Give an immediate overview of the research, its main applications, releases and other important information.
+        12. Increase percentage of website visits in order to gain more popularity among the community.
+        13. Gain a better understanding of the audience by checking their feedback both via the website and social networks.
+        14. Consequently, increase social mentions and post with regularity in order to keep attention high.
+        15. Allow potential students and entrepreneurs  to fill out a contact form, sign up for the email list, visit the physical location, or simply get in touch with the team.
+        16. Make the website as accessible and responsive as possible.
+        17. Allow external stakeholders to check out the competence of each single member of the team.
+        18. Increase chances of future cooperations and projects.
+        19. Use reviews to increase customer satisfaction.
 
 #### Strategy
 The website will focus on the following target audiences:
