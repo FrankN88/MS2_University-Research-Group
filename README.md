@@ -67,7 +67,6 @@ The main requirement is to make an interactive front-end website using primarily
         9. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or releases or notified about special events and seminars.
 
     -   #### Site Owner Goals
-
         10. Increasing the overall group reputation and awareness of the team and related releases.
         11. Give an immediate overview of the research, its main applications, releases and other important information.
         12. Increase percentage of website visits in order to gain more popularity among the community.

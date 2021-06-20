@@ -65,7 +65,7 @@
 
 -   #### Returning Visitor Goals
 
-    1. As a Returning Visitor, I want to find information about new publications.
+    4. As a Returning Visitor, I want to find information about new publications.
 
         1. These are clearly shown in the publications page and easily accessible via the specific links.
            <details><summary>Publications updates</summary>
@@ -76,7 +76,7 @@
            <img src="assets/images/testing_images/ux_stories/staff_cards.png">
            </details>
 
-    2. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any question I may have.
+    5. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any question I may have.
 
         1. Contacts are easily visible in every page in the footer.
            <details><summary>Contacts</summary>
@@ -95,7 +95,7 @@
            <img src="assets/images/testing_images/ux_stories/mailto.gif">
            </details>
 
-    3. As a Returning Visitor, I want to find the social media links so that I can join and interact with others in the community.
+    6. As a Returning Visitor, I want to find the social media links so that I can join and interact with others in the community.
         1. The Facebook Page (together with the other social links) can be found at the footer of every page and will open a new tab for the user and more information can be found on the Facebook page.
            <details><summary>Social media position</summary>
            <img src="assets/images/testing_images/ux_stories/footer.png">
@@ -111,21 +111,21 @@
 
 -   #### Frequent User Goals
 
-    1. As a Frequent User, I want to check to see if there are any newly added features regarding the research.
+    7. As a Frequent User, I want to check to see if there are any newly added features regarding the research.
 
         1. The user would already be comfortable with the website layout and can easily check the page he/she is interested in.
            <details><summary>Navbar details</summary>
            <img src="assets/images/testing_images/ux_stories/navbar.png">
            </details>
 
-    2. As a Frequent User, I want to check to see if there is any news related to the staff and seminars.
+    8. As a Frequent User, I want to check to see if there is any news related to the staff and seminars.
 
         1. The user would already be comfortable with the website layout and can easily click the links to the selected pages.
            <details><summary>Clicking publications links</summary>
            <img src="assets/images/testing_images/ux_stories/publications.gif">
            </details>
 
-    3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or releases or notified about special events and seminars.
+    9. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or releases or notified about special events and seminars.
 
         1. At the bottom of every page there is a footer with a clickable embedded email address.
            <details><summary>Mailto</summary>
@@ -138,61 +138,61 @@
 
 -   #### Site Owner Goals, Testing
 
-     1. Increasing the overall group reputation and awareness of the team and related releases.
+     10. Increasing the overall group reputation and awareness of the team and related releases.
         1. Through descriptive images,thorough descriptions and easy access to social medias.
            <details><summary>Example</summary>
            <img src="assets/images/testing_images/ux_stories/collage_site_owner_goal1.png">
            </details>
 
-     2. Give an immediate overview of the research, its main applications, releases and other important information.
+     11. Give an immediate overview of the research, its main applications, releases and other important information.
         1. Gallery images, staff cards, descriptions abundantly provide that.
            <details><summary>Example</summary>
            <img src="assets/images/testing_images/ux_stories/collage_site_owner_goal2.png">
            </details>
 
-     3. Increase percentage of website visits in order to gain more popularity among the community.
+     12. Increase percentage of website visits in order to gain more popularity among the community.
         1. A combination of exhaustive descriptive pages, images, topics; all connected to social and professional links allow that.
            <details><summary>Example</summary>
            <img src="assets/images/testing_images/ux_stories/collage_site_owner_goal3.png">
            </details>
 
-     4. Gain a better understanding of the audience by checking their feedback both via the website and social networks.
+     13. Gain a better understanding of the audience by checking their feedback both via the website and social networks.
         1. Possible via the reviews from ther social medias connected to the research group and the form in the page "About".
            <details><summary>Example</summary>
            <img src="assets/images/testing_images/ux_stories/collage_site_owner_goal4.png">
            </details>
 
-     5. Consequently, increase social mentions and post with regularity in order to keep attention high.
+     14. Consequently, increase social mentions and post with regularity in order to keep attention high.
         1. Possible via regular updates (press releases, newsletter and constant update of the site pages) that connected to the social medias interactions give the owner a trend of its audience.
            <details><summary>Example</summary>
            <img src="assets/images/testing_images/ux_stories/collage_site_owner_goal5.png">
            </details>
 
-     6. Allow potential students and potential entrepreneurs to fill out a contact form, sign up for the email list, visit the physical location, or simply get in touch with the team.
+     15. Allow potential students and potential entrepreneurs to fill out a contact form, sign up for the email list, visit the physical location, or simply get in touch with the team.
         1. Through the form present on the website, location and contacts given in the footer and an map.
            <details><summary>Example</summary>
            <img src="assets/images/testing_images/ux_stories/collage_site_owner_goal6.png">
            </details>
 
-     7. Make the website as accessible as possible.
+     16. Make the website as accessible as possible.
         1. The simple and instinctive structure of the website allows that, together with the clarifying images and dynamic gallery.
            <details><summary>Example</summary>
            <img src="assets/images/testing_images/ux_stories/collage_site_owner_goal7.png">
            </details>
 
-     8. Allow external stakeholders to check out the competence of each single member of the team..
+     17. Allow external stakeholders to check out the competence of each single member of the team..
         1. Dedicated and detailed pages allow that (people page and publications page).
            <details><summary>Example</summary>
            <img src="assets/images/testing_images/ux_stories/collage_site_owner_goal8.png">
            </details>
     
-     9. Increase chances of future cooperations and projects.
+     18. Increase chances of future cooperations and projects.
         1. Detailed contacts, disclosed research releases and contact form allow any stakeholder to interact with members of the team.
            <details><summary>Example</summary>
            <img src="assets/images/testing_images/ux_stories/collage_site_owner_goal9.png">
            </details>
     
-    10. Use reviews to increase customer satisfaction.
+    19. Use reviews to increase customer satisfaction.
         1. The reviews are part of the improving process; social media interactions are the first indicator of popularity together with feedback via the form.
            <details><summary>Example</summary>
            <img src="assets/images/testing_images/ux_stories/collage_site_owner_goal10.png">
