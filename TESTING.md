@@ -354,12 +354,12 @@ weather.js | 0 errors | [Results](assets/images/testing_images/js_hint/weather_j
 
 Page | Test Detail/Screenshot
 ------------ | -------------
-index.html | [Results](assets/images/testing_images/lighthouse_validator/lh_index.png)
-about.html | [Results](assets/images/testing_images/lighthouse_validator/lh_about.png)
-people.html | [Results](assets/images/testing_images/lighthouse_validator/lh_people.png)
-projects.html | [Results](assets/images/testing_images/lighthouse_validator/lh_projects.png)
-publications.html | [Results](assets/images/testing_images/lighthouse_validator/lh_publications.png)
-404.html | [Results](assets/images/testing_images/lighthouse_validator/lh_404.png)
+index.html | [Results](assets/images/testing_images/lighthouse_validator/index_lh.png)
+about.html | [Results](assets/images/testing_images/lighthouse_validator/about_lh.png)
+people.html | [Results](assets/images/testing_images/lighthouse_validator/people_lh.png)
+projects.html | [Results](assets/images/testing_images/lighthouse_validator/projects_lh.png)
+publications.html | [Results](assets/images/testing_images/lighthouse_validator/publications_lh.png)
+404.html | [Results](assets/images/testing_images/lighthouse_validator/404_lh.png)
 
 <br>
 
