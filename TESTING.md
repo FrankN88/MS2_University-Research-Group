@@ -344,10 +344,10 @@ publications.js | 0 errors | [Results](assets/images/testing_images/js_hint/publ
 weather.js | 0 errors | [Results](assets/images/testing_images/js_hint/weather_js.png)
 
 ### Browser Validation
-- Chrome
-- Edge
-- Opera
-- Firefox
+- **Microsoft Edge**: Website and user stories work as expected. 
+- **Google Chrome**: Website and user stories work as expected. 
+- **Safari**: Website and user stories work as expected.
+- **Firefox**: Website and user stories work as expected. 
 
 ### Lighthouse Auditing
 - I used [Lighthouse](https://developers.google.com/web/tools/lighthouse) to test the performance, seo, best practices and accessability of the site
