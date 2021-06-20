@@ -174,10 +174,6 @@ Each page of the website features a consistent responsive navigational system:
 
 <dl>
   <dt><a href="index.html" target="_blank" alt="Research group Home Page">Home Page</a></dt>
-   Ux story identifier| Result 
-   ------------ | ------------- 
-   a,b,c,f | covered  
-
   <dd>The Home Page consists of the following elements:
      <ul>
           <li><strong>Introductory Jumbotron with title</strong> - Occupies 100% of the page width, from the left to the right, while being viewed on all devices. It introduces the page the user is checking with a short title and a blurred background that changes for every page.
