@@ -57,6 +57,10 @@ The main requirement is to make an interactive front-end website using primarily
         2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content,research and researchers.
         3. As a First Time Visitor, I want to find the main areas of the research group. I also want to locate their social media links to see their followings on social media in order to be updated about their latest releases.
 
+        1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the University Research Group and its main features.
+        2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content,research and researchers.
+        3. As a First Time Visitor, I want to find the main areas of the research group. I also want to locate their social media links to see their followings on social media in order to be updated about their latest releases.
+
     -   #### Returning Visitor Goals
 
         4. As a Returning Visitor, I want to find information about new publications.
