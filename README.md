@@ -234,6 +234,20 @@ Each page of the website features a consistent responsive navigational system:
   <br>
 
   <dt><a href="about.html" target="_blank" alt="About Page">About Page</a></dt>
+     <ul>
+         <li><strong>User stories covered by this feature:</strong>  
+      </li>
+          <li><strong>X</strong> - xxxx
+      </li>
+          <li><strong>X</strong> - xxxx
+      </li>
+          <li><strong>X</strong> - xxxx
+      </li>
+          <li><strong>X</strong> - xxxx
+      </li>
+          <li><strong>X</strong> - xxxx
+      </li>
+     </ul>
   <dd>The About page consists of the following elements:
      <ul>
           <li><strong>Introductory Jumbotron with title</strong> - Occupies 100% of the page width, from the left to the right, while being viewed on all devices. It Introduces the page the user is checking with a short title and a blurred background that changes for every page.
