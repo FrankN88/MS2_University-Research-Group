@@ -215,6 +215,18 @@ Each page of the website features a consistent responsive navigational system:
 
 <dl>
   <dt><a href="index.html" target="_blank" alt="Research group Home Page">Home Page</a></dt>
+     <ul>
+         <li><strong>User stories covered by this feature:</strong>  
+      </li>
+          <li><strong>A</strong> - As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the University Research Group and its main features.
+      </li>
+          <li><strong>B</strong> - As a First Time Visitor, I want to be able to easily navigate throughout the site to find content,research and researchers.
+      </li>
+          <li><strong>F</strong> - As a Returning Visitor, I want to find the social media links so that I can join and interact with others in the community.
+      </li>
+          <li><strong>P</strong> - Make the website as accessible and responsive as possible.
+      </li>
+     </ul>
   <dd>The Home Page consists of the following elements:
      <ul>
           <li><strong>Introductory Jumbotron with title</strong> - Occupies 100% of the page width, from the left to the right, while being viewed on all devices. It introduces the page the user is checking with a short title and a blurred background that changes for every page.
@@ -237,15 +249,19 @@ Each page of the website features a consistent responsive navigational system:
      <ul>
          <li><strong>User stories covered by this feature:</strong>  
       </li>
-          <li><strong>X</strong> - xxxx
+          <li><strong>A</strong> - As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the University Research Group and its main features.
       </li>
-          <li><strong>X</strong> - xxxx
+          <li><strong>C</strong> - As a First Time Visitor, I want to find the main areas of the research group. I also want to locate their social media links to see their followings on social media in order to be updated about their latest releases.
       </li>
-          <li><strong>X</strong> - xxxx
+          <li><strong>E</strong> - As a Returning Visitor, I want to find the best way to get in contact with the organisation with any question I may have.
       </li>
-          <li><strong>X</strong> - xxxx
+          <li><strong>F</strong> - As a Returning Visitor, I want to find the social media links so that I can join and interact with others in the community.
       </li>
-          <li><strong>X</strong> - xxxx
+          <li><strong>I</strong> - As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or releases or notified about special events and seminars.
+      </li>
+          <li><strong>O</strong> - Allow potential students and entrepreneurs to fill out a contact form, sign up for the email list, visit the physical location, or simply get in touch with the team.
+      </li>
+          <li><strong>S</strong> - Use reviews to increase customer satisfaction.
       </li>
      </ul>
   <dd>The About page consists of the following elements:
@@ -267,6 +283,20 @@ Each page of the website features a consistent responsive navigational system:
   <br>
 
   <dt><a href="people.html" target="_blank" alt="People Page">People Page</a></dt>
+     <ul>
+         <li><strong>User stories covered by this feature:</strong>  
+      </li>
+          <li><strong>A</strong> - As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the University Research Group and its main features.
+      </li>
+          <li><strong>B</strong> - As a First Time Visitor, I want to be able to easily navigate throughout the site to find content,research and researchers.
+      </li>
+          <li><strong>F</strong> - As a Returning Visitor, I want to find the social media links so that I can join and interact with others in the community.
+      </li>
+          <li><strong>H</strong> - As a Frequent User, I want to check to see if there are any updates to the staff and seminars.
+      </li>
+          <li><strong>O</strong> - Allow potential students and entrepreneurs to fill out a contact form, sign up for the email list, visit the physical location, or simply get in touch with the team.
+      </li>
+     </ul>
   <dd>The people page consists of the following elements:
      <ul>
           <li><strong>Introductory Jumbotron with title</strong> - Occupies 100% of the page width, from the left to the right, while being viewed on all devices. It Introduces the page the user is checking with a short title and a blurred background that changes for every page.
@@ -285,6 +315,20 @@ Each page of the website features a consistent responsive navigational system:
   <br>
 
   <dt><a href="projects.html" target="_blank" alt="Projects Page">Projects Page</a></dt>
+     <ul>
+         <li><strong>User stories covered by this feature:</strong>  
+      </li>
+          <li><strong>C</strong> - As a First Time Visitor, I want to find the main areas of the research group. I also want to locate their social media links to see their followings on social media in order to be updated about their latest releases.
+      </li>
+          <li><strong>G</strong> - As a Frequent User, I want to check to see if there are any newly added features regarding the research.
+      </li>
+          <li><strong>K</strong> - Give an immediate overview of the research, its main applications, releases and other important information.
+      </li>
+          <li><strong>P</strong> - Make the website as accessible and responsive as possible.
+      </li>
+          <li><strong>R</strong> - Increase chances of future cooperations and projects.
+      </li>
+     </ul>
   <dd>The projects page consists of the following elements:
      <ul>
           <li><strong>Introductory Jumbotron with title</strong> - Occupies 100% of the page width, from the left to the right, while being viewed on all devices. It Introduces the page the user is checking with a short title and a blurred background that changes for every page.
@@ -304,6 +348,24 @@ Each page of the website features a consistent responsive navigational system:
   <br>
 
   <dt><a href="publications.html" target="_blank" alt="Publications Page">Publications Page</a></dt>
+     <ul>
+         <li><strong>User stories covered by this feature:</strong>  
+      </li>
+          <li><strong>A</strong> - As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the University Research Group and its main features.
+      </li>
+          <li><strong>B</strong> - As a First Time Visitor, I want to be able to easily navigate throughout the site to find content,research and researchers.
+      </li>
+          <li><strong>C</strong> - As a First Time Visitor, I want to find the main areas of the research group. I also want to locate their social media links to see their followings on social media in order to be updated about their latest releases.
+      </li>
+          <li><strong>D</strong> - As a Returning Visitor, I want to find information about new publications.
+      </li>
+          <li><strong>F</strong> - As a Returning Visitor, I want to find the social media links so that I can join and interact with others in the community.
+      </li>
+          <li><strong>J</strong> - Increasing the overall group reputation and awareness of the team and related releases.
+      </li>
+          <li><strong>K</strong> - Give an immediate overview of the research, its main applications, releases and other important information.
+      </li>
+     </ul>
   <dd>The Publications page consists of the following elements:
      <ul>
           <li><strong>Introductory Jumbotron with title</strong> - Occupies 100% of the page width, from the left to the right, while being viewed on all devices. It Introduces the page the user is checking with a short title and a blurred background that changes for every page.
@@ -324,6 +386,14 @@ Each page of the website features a consistent responsive navigational system:
   <br>
 
   <dt><a href="404.html" target="_blank" alt="404 Page">404 Page</a></dt>
+     <ul>
+         <li><strong>User stories covered by this feature:</strong>  
+      </li>
+          <li><strong>P</strong> - Make the website as accessible and responsive as possible.
+      </li>
+          <li><strong>S</strong> - Use reviews to increase customer satisfaction.
+      </li>
+     </ul>
   <dd>The 404 page consists of the following elements:
      <ul>
           <li><strong>Navbar</strong> - Occupies 100% of the page width, from the left to the right, while being viewed on all devices. It Includes the standard links to the other pages.
