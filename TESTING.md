@@ -299,7 +299,7 @@ Manual testing was conducted on the following elements of the [404 Page](404.htm
 ### Testing API Functionality 
  - The user can regulary fill out the form fields and gets informed when the email has been sent.
    <details><summary>Email JS API</summary>
-    <img src="assets/images/testing_images/api_testing/email_js_testing.png">
+    <img src="assets/images/testing_images/api_testing/email_js_API.png">
    </details>
  - The user can put the desired location and check out the weather.
    <details><summary>Weather in the location</summary>
