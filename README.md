@@ -138,6 +138,9 @@ Several style changes were made in the final project compared to the inital wire
 
 #### Colour Scheme
   - The main colours used throughout the website are a mixture of dark gray, opaque white (as a clear and non-invasive contrast colour to the previous one), and black fonts. That combination of colours has a classic, professional and non invasive effect on the user. At the same time, when needed, a theme of bright colours provide the right dynamism by appearing near features that need to be highlighted (i.e. gallery and progress bars).
+  <details><summary>Colour palette</summary>
+    <img src="assets/images/testing_images/ux_stories/color_palette.png">
+  </details>
 
 #### Typography
   -   The "Open sans" font is the main font used throughout the whole website with "Roboto" as the fallback font in case, for any reason, the font won't be imported into the site correctly. 
