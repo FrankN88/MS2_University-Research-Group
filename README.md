@@ -40,7 +40,7 @@
 ***
 
 ## Introduction
-This comprehensive website has been designed for the University Research Group "Magnetic Soft Matter Group" of the University of Granada (Spain). 
+This comprehensive website has been designed for the University Research Group "Magnetic Soft Matter Group" of the University of Granada (Spain) :es: . 
 It is designed to be responsive and accessible on a range of devices, making it easy to navigate for potential students and partners.
 The purpose of the site is to create an online presence allowing researchers and students in general, to find out relevant information about the place, its main research releases, professors' background and events. 
 "Magnetic Soft Matter Group" is a new international research group that operates in Granada (Spain) in the field of Bioengineering.
@@ -497,7 +497,7 @@ The "required" attribute satisfies 100% the functionality i needed, therefore i 
 ### Known existing bugs
 - Occasional use of `!important` to override Boostrap features.
 - People page tends to load slightly slower than the other pages. That is due to the many images present on the page. All of the images have been resized and compressed but that still affects a bit the speed in loading if compared to the other pages.
-- For detailed testing information please check: [TESTING.md](TESTING.md "Link to testing file")
+- For detailed testing information please check: :information_source: [TESTING.md](TESTING.md "Link to testing file")
 
 ## Technologies Used
 
