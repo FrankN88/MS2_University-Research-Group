@@ -160,6 +160,8 @@ Each page of the website features a consistent responsive navigational system:
     <img src="assets/images/testing_images/ux_stories/back_home_page.gif">
   </details>
 
+<br>
+
 - On smaller screens, the navigation bar collapses into a **toggler** icon whereby clicking it will reveal the links to the other pages.
 **User stories covered by this feature:**
 - (A) As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the University Research Group and its main features.
@@ -170,6 +172,8 @@ Each page of the website features a consistent responsive navigational system:
   <details><summary>Toggle btn</summary>
     <img src="assets/images/testing_images/ux_stories/toggle_btn.gif">
   </details>
+
+<br>
 
 - The **Footer** contains the appropriate **social media icons**, linking users to the main social media pages of the research group and university logo (clicking this will redirect users back to the univesity official page). Also the address in the footer works as a link to the university in Google Maps.
 **User stories covered by this feature:**
@@ -184,7 +188,9 @@ Each page of the website features a consistent responsive navigational system:
     <img src="assets/images/testing_images/ux_stories/footer_out_link.gif">
   </details>
 
-- In the footer, there are respectively a mailto and a callto embedded in the email and number.
+<br>
+
+- In the footer, there are respectively a **Mailto** and a **Callto** embedded in the email and number.
 **User stories covered by this feature:**
 - (E) As a Returning Visitor, I want to find the best way to get in contact with the organisation with any question I may have.
 - (I) As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or releases or notified about special events and seminars.
@@ -195,6 +201,8 @@ Each page of the website features a consistent responsive navigational system:
     <img src="assets/images/testing_images/ux_stories/callto_mailto.gif">
   </details>
 
+<br>
+
 - **Back to the top button**  - Those <strong>buttons</strong> are present in the footer so that the user can comfortably click them to be redirected to the top of the page. This feature improves the quality of navigation, especially if using smartphones.
 **User stories covered by this feature:**
 - (B) As a First Time Visitor, I want to be able to easily navigate throughout the site to find content,research and researchers.
@@ -202,6 +210,8 @@ Each page of the website features a consistent responsive navigational system:
   <details><summary>Btn back to the top</summary>
     <img src="assets/images/testing_images/ux_stories/btn_up_footer.gif">
   </details>
+
+<br>
 
 <dl>
   <dt><a href="index.html" target="_blank" alt="Research group Home Page">Home Page</a></dt>
@@ -220,6 +230,9 @@ Each page of the website features a consistent responsive navigational system:
         <img src="assets/images/testing_images/pages/home.png">
         </details>
   </dd>
+
+  <br>
+
   <dt><a href="about.html" target="_blank" alt="About Page">About Page</a></dt>
   <dd>The About page consists of the following elements:
      <ul>
@@ -236,6 +249,9 @@ Each page of the website features a consistent responsive navigational system:
         <img src="assets/images/testing_images/pages/about.png">
         </details>
   </dd>
+
+  <br>
+
   <dt><a href="people.html" target="_blank" alt="People Page">People Page</a></dt>
   <dd>The people page consists of the following elements:
      <ul>
@@ -251,6 +267,9 @@ Each page of the website features a consistent responsive navigational system:
          <img src="assets/images/testing_images/pages/people.png">
          </details>
   </dd>
+
+  <br>
+
   <dt><a href="projects.html" target="_blank" alt="Projects Page">Projects Page</a></dt>
   <dd>The projects page consists of the following elements:
      <ul>
@@ -267,6 +286,9 @@ Each page of the website features a consistent responsive navigational system:
          <img src="assets/images/testing_images/pages/projects.png">
          </details>
   </dd>
+
+  <br>
+
   <dt><a href="publications.html" target="_blank" alt="Publications Page">Publications Page</a></dt>
   <dd>The Publications page consists of the following elements:
      <ul>
@@ -284,6 +306,9 @@ Each page of the website features a consistent responsive navigational system:
          </details>
   </dd>
   </dl>
+
+  <br>
+
   <dt><a href="404.html" target="_blank" alt="404 Page">404 Page</a></dt>
   <dd>The 404 page consists of the following elements:
      <ul>
@@ -301,6 +326,8 @@ Each page of the website features a consistent responsive navigational system:
          </details>
   </dd>
   </dl>
+
+  <br>
 
 ### Features to Implement in the future
   - A search area for the whole website in particular the events page would be a useful addition to add
