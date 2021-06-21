@@ -157,6 +157,7 @@ Each page of the website features a consistent responsive navigational system:
 
 <br>
 
+#### Header
 - The **Header** contains a conventionally placed **logo** at the top left of the page (clicking this will redirect users back to the home page) and **navigation bar** at the top right of the page.
 <ul>
     <li><strong>User stories covered by this feature:</strong>  
@@ -174,6 +175,7 @@ Each page of the website features a consistent responsive navigational system:
 
 <br>
 
+#### Toggler
 - On smaller screens, the navigation bar collapses into a **toggler** icon whereby clicking it will reveal the links to the other pages.
 <ul>
     <li><strong>User stories covered by this feature:</strong>  
@@ -195,6 +197,7 @@ Each page of the website features a consistent responsive navigational system:
 
 <br>
 
+#### Footer
 - The **Footer** contains the appropriate **social media icons**, linking users to the main social media pages of the research group and university logo (clicking this will redirect users back to the univesity official page). Also the address in the footer works as a link to the university in Google Maps.
 <ul>
     <li><strong>User stories covered by this feature:</strong>  
@@ -220,6 +223,7 @@ Each page of the website features a consistent responsive navigational system:
 
 <br>
 
+#### Mailto/Callto
 - In the footer, there are respectively a **Mailto** and a **Callto** embedded in the email and number.
 <ul>
     <li><strong>User stories covered by this feature:</strong>  
@@ -241,7 +245,8 @@ Each page of the website features a consistent responsive navigational system:
 
 <br>
 
-- **Back to the top button**  - Those <strong>buttons</strong> are present in the footer so that the user can comfortably click them to be redirected to the top of the page. This feature improves the quality of navigation, especially if using smartphones.
+#### Back to the top button
+- **Back to the top button**  - Those <strong>buttons</strong> :arrow_up: are present in the footer so that the user can comfortably click them to be redirected to the top of the page. This feature improves the quality of navigation, especially if using smartphones.
 <ul>
     <li><strong>User stories covered by this feature:</strong>  
     </li>
