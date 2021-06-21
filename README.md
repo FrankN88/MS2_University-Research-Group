@@ -152,22 +152,53 @@ Several style changes were made in the final project compared to the inital wire
 ### Design Features
 Each page of the website features a consistent responsive navigational system:
 - The **Header** contains a conventionally placed **logo** at the top left of the page (clicking this will redirect users back to the home page) and **navigation bar** at the top right of the page.
+User stories covered by this feature:
+- (A) As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the University Research Group and its main features.
+- (B) As a First Time Visitor, I want to be able to easily navigate throughout the site to find content,research and researchers.
+- (P) Make the website as accessible and responsive as possible.
   <details><summary>Header</summary>
     <img src="assets/images/testing_images/ux_stories/back_home_page.gif">
   </details>
+
 - On smaller screens, the navigation bar collapses into a **toggler** icon whereby clicking it will reveal the links to the other pages.
+User stories covered by this feature:
+- (A) As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the University Research Group and its main features.
+- (B) As a First Time Visitor, I want to be able to easily navigate throughout the site to find content,research and researchers.
+- (D) As a Returning Visitor, I want to find information about new publications.
+- (I) Increase percentage of website visits in order to gain more popularity among the community.
+- (P) Make the website as accessible and responsive as possible.
   <details><summary>Toggle btn</summary>
     <img src="assets/images/testing_images/ux_stories/toggle_btn.gif">
   </details>
+
 - The **Footer** contains the appropriate **social media icons**, linking users to the main social media pages of the research group and university logo (clicking this will redirect users back to the univesity official page). Also the address in the footer works as a link to the university in Google Maps.
+User stories covered by this feature:
+- (C) As a First Time Visitor, I want to find the main areas of the research group. I also want to locate their social media links to see their followings on social media in order to be updated about their latest releases.
+- (E) As a Returning Visitor, I want to find the best way to get in contact with the organisation with any question I may have.
+- (F) As a Returning Visitor, I want to find the social media links so that I can join and interact with others in the community.
+- (I) As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or releases or notified about special events and seminars.
+- (M) Gain a better understanding of the audience by checking their feedback both via the website and social networks.
+- (N) Consequently, increase social mentions and post with regularity in order to keep attention high.
+- (P) Make the website as accessible and responsive as possible.
   <details><summary>Footer</summary>
     <img src="assets/images/testing_images/ux_stories/footer_out_link.gif">
   </details>
+
 - In the footer, there are respectively a mailto and a callto embedded in the email and number.
+User stories covered by this feature:
+- (E) As a Returning Visitor, I want to find the best way to get in contact with the organisation with any question I may have.
+- (I) As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or releases or notified about special events and seminars.
+- (O) Allow potential students and entrepreneurs to fill out a contact form, sign up for the email list, visit the physical location, or simply get in touch with the team.
+- (R) Increase chances of future cooperations and projects.
+- (S) Use reviews to increase customer satisfaction.
   <details><summary>Mailto/Callto</summary>
     <img src="assets/images/testing_images/ux_stories/callto_mailto.gif">
   </details>
+
 - **Back to the top button**  - Those <strong>buttons</strong> are present in the footer so that the user can comfortably click them to be redirected to the top of the page. This feature improves the quality of navigation, especially if using smartphones.
+User stories covered by this feature:
+- (B) As a First Time Visitor, I want to be able to easily navigate throughout the site to find content,research and researchers.
+- (P) Make the website as accessible and responsive as possible.
   <details><summary>Btn back to the top</summary>
     <img src="assets/images/testing_images/ux_stories/btn_up_footer.gif">
   </details>
