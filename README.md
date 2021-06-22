@@ -548,7 +548,7 @@ The "required" attribute satisfies 100% the functionality i needed, therefore i 
     - To access current weather data for any location.
 
 ## Testing
-Testing information can be found in a separate testing [file](TESTING.md "Link to testing file")
+Testing information can be found in a separate testing :information_source: [file](TESTING.md "Link to testing file")
 
 ## Deployment
 
