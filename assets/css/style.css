@@ -78,7 +78,7 @@ background-color: #ccc;
 	text-decoration: underline;
 }
 
-/*----Jumbotron with a call to action and bg image----*/
+/*----Home jumbotron with a call to action and bg image----*/
 
 .jumbotron {
   position:relative;
@@ -113,7 +113,6 @@ img.blur {
 #main-page-btn {
   padding: 10px;
 }
-
 
 /*----Home Cards----*/
 
@@ -336,8 +335,8 @@ img.blur {
   margin-top: -20px;
   text-align: center;
   line-height: 40px;
-  
 }
+
 .slider .left-slide:hover,.slider .right-slide:hover {
  box-shadow: 0px 0px 10px #f5f5f5;
  background-color: #D19d00;
@@ -346,9 +345,11 @@ img.blur {
 .slider .left-slide {
 	left: 30px;
 }
+
 .slider .right-slide {
 	right: 30px;
 }
+
 .slider .slider-items .item img {
 	max-width: 100%;
 	display: block;
@@ -360,6 +361,7 @@ img.blur {
 	50%{transform: scale(2);}
 	100%{transform: scale(1);opacity:1}
 }
+
 .slider .slider-items .item {
 	display: none;
 	position: relative;
@@ -521,12 +523,14 @@ textarea {
   text-align: center;
   font-size: 1.5em;
 }
+
 .areabar {
   margin: 10px;
   width: 100%;
   border-radius: 10px;
   background-color: #d19d00;
 }
+
 .areabar .progress {
   font-weight: 900;
   font-size: 0.7em;
@@ -537,17 +541,21 @@ textarea {
   border-radius: 10px;
   position: relative;
 }
+
 .areabar .progress .subjectName {
 
   position: absolute;
   left: 50%;
 }
+
 .areabar .blue {
   background-color: #4169E1;
 }
+
 .green {
   background-color: #9ACD32;
 }
+
 .azure {
   background-color: #ADD8E6;
 }
@@ -773,7 +781,6 @@ textarea {
 	font-family: "roboto";
 	font-size: 70%;
 	font-weight: 800;
-
 }
 
 /*----Weather----*/
