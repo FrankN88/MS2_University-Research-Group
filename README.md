@@ -383,7 +383,7 @@ Each page of the website features a consistent responsive navigational system:
           </li>
           <li><strong>Clock</strong> - A clock positioned on top of the quiz div shows the real time of the location the user is in.
           </li>
-          <li><strong>Quiz</strong> - Science based quiz. This quiz has been created to entertain the user while waiting. The questions show immediately if they have been answered correctly or not and at the end give a feedback with a percentage.
+          <li><strong>Quiz</strong> - Science based quiz. This quiz has been created to entertain the user while waiting. The questions show immediately if they have been answered correctly or not and at the end give a feedback with a percentage. The user is adviced with a modal when he/she selects the "Next" button without selecting first the answer (Graceful notification to the user). The quiz game allows the user to initiate control actions,shows progress and gives feedback.
           </li>
           <li><strong>Weather app</strong> - A simple weather app with an input will idicate the temperature together with the main weather phenomena when the user inserts the name of the desired location.
           </li>
@@ -488,8 +488,8 @@ The guiding approach in developing the website was the motto: "Mobile First". Th
 - The elements in the progress bars would overlay one another. Sizing via CSS and enlarging the `div` resolved that issue and made it totally responsive.
 
 **Form Issue** 
-- The form is correctly working and sending emails. During the development of the page i have tried to build a function within the EmailJS one that would validate the inputs. As a result of that the form stopped working and i have therefore decided to go back to the original idea of using the "required" attribute to validate the empty fields.
-The "required" attribute satisfies 100% the functionality i needed, therefore i have decided not to jeopardize the form function and leave it the way i had originally built it.
+- The form is correctly working and sending emails. During the development of the page i have tried to build a function within the EmailJS one that would validate the inputs. As a result of that the form stopped working and i have therefore decided to go back to the original idea of using the `required` attribute to validate the empty fields.
+The `required` attribute satisfies 100% the functionality i needed, therefore i have decided not to jeopardize the form function and leave it the way i had originally built it. 
 
 **HTML Validator-related resolved bugs**
 - Some missing `alt` attributes to the `img` tags.
@@ -604,3 +604,5 @@ The developer consulted multiple sites in order to better understand the code th
 - My mentor Mo Shami for continuous helpful feedback.
 - Tutor support at Code Institute for their support.
 - My family for opinions and feedback.
+
+***

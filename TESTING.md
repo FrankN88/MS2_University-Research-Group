@@ -282,7 +282,7 @@ Manual testing was conducted on the following elements of the [People Page](peop
 Manual testing was conducted on the following elements of the [Projects Page](projects.html):
 
  - All the elements are responsive (header, footer, titles, jumbotron, clock, quiz, met app)
- - Clock, quiz and met app maintain their functionality in small devices
+ - Clock, quiz and met app maintain their functionality in small devices.
  - The Navbar turns into a toggler icon in smaller devices
    <details><summary>Projects Page</summary>
     <img src="assets/images/testing_images/ux_stories/gif_projects_responsive.gif">
@@ -307,7 +307,7 @@ Manual testing was conducted on the following elements of the [404 Page](404.htm
    </details>
 
 ### Testing API Functionality 
- - The user can regulary fill out the form fields and gets informed when the email has been sent.
+ - The user can regulary fill out the form fields and gets informed when the email has been sent out successfully (Confirmation).
    <details><summary>Email JS API</summary>
     <img src="assets/images/testing_images/api_testing/email_js_API.png">
    </details>
