@@ -141,70 +141,70 @@
      10. Increasing the overall group reputation and awareness of the team and related releases.
 
          1. Through descriptive images,thorough descriptions and easy access to social medias.
-           <details><summary>Example</summary>
+           <details><summary>Evidence</summary>
            <img src="assets/images/testing_images/ux_stories/collage_site_owner_goal1.png">
            </details>
 
      11. Give an immediate overview of the research, its main applications, releases and other important information.
 
          1. Gallery images, staff cards, descriptions abundantly provide that.
-           <details><summary>Example</summary>
+           <details><summary>Evidence</summary>
            <img src="assets/images/testing_images/ux_stories/collage_site_owner_goal2.png">
            </details>
 
      12. Increase percentage of website visits in order to gain more popularity among the community.
 
          1. A combination of exhaustive descriptive pages, images, topics; all connected to social and professional links allow that.
-           <details><summary>Example</summary>
+           <details><summary>Evidence</summary>
            <img src="assets/images/testing_images/ux_stories/collage_site_owner_goal3.png">
            </details>
 
      13. Gain a better understanding of the audience by checking their feedback both via the website and social networks.
 
          1. Possible via the reviews from ther social medias connected to the research group and the form in the page "About".
-           <details><summary>Example</summary>
+           <details><summary>Evidence</summary>
            <img src="assets/images/testing_images/ux_stories/collage_site_owner_goal4.png">
            </details>
 
      14. Consequently, increase social mentions and post with regularity in order to keep attention high.
 
          1. Possible via regular updates (press releases, newsletter and constant update of the site pages) that connected to the social medias interactions give the owner a trend of its audience.
-           <details><summary>Example</summary>
+           <details><summary>Evidence</summary>
            <img src="assets/images/testing_images/ux_stories/collage_site_owner_goal5.png">
            </details>
 
      15. Allow potential students and potential entrepreneurs to fill out a contact form, sign up for the email list, visit the physical location, or simply get in touch with the team.
 
          1. Through the form present on the website, location and contacts given in the footer and an map.
-           <details><summary>Example</summary>
+           <details><summary>Evidence</summary>
            <img src="assets/images/testing_images/ux_stories/collage_site_owner_goal6.png">
            </details>
 
      16. Make the website as accessible as possible.
 
          1. The simple and instinctive structure of the website allows that, together with the clarifying images and dynamic gallery.
-           <details><summary>Example</summary>
+           <details><summary>Evidence</summary>
            <img src="assets/images/testing_images/ux_stories/collage_site_owner_goal7.png">
            </details>
 
      17. Allow external stakeholders to check out the competence of each single member of the team.
 
          1. Dedicated and detailed pages allow that (people page and publications page).
-           <details><summary>Example</summary>
+           <details><summary>Evidence</summary>
            <img src="assets/images/testing_images/ux_stories/collage_site_owner_goal8.png">
            </details>
     
      18. Increase chances of future cooperations and projects.
 
          1. Detailed contacts, disclosed research releases and contact form allow any stakeholder to interact with members of the team.
-           <details><summary>Example</summary>
+           <details><summary>Evidence</summary>
            <img src="assets/images/testing_images/ux_stories/collage_site_owner_goal9.png">
            </details>
     
     19. Use reviews to increase customer satisfaction.
 
          1. The reviews are part of the improving process; social media interactions are the first indicator of popularity together with feedback via the form.
-           <details><summary>Example</summary>
+           <details><summary>Evidence</summary>
            <img src="assets/images/testing_images/ux_stories/collage_site_owner_goal10.png">
            </details> 
 
