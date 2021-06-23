@@ -584,7 +584,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Content
 - References in the JS code related to the APIs.
-- Stack Overflow for guidance regarding the dynamic slider in <a href="people.js">People page</a>
+- Stack Overflow for guidance regarding the dynamic slider in <a href="assets/js/people.js" target="_blank" alt="People Page">People page</a>
 - Psychological properties of text colour in the README.md was found [here](http://www.colour-affects.co.uk/psychological-properties-of-colours)
 - [Bootstrap](https://getbootstrap.com/ "Link to BootStrap page") for the Boostrap features.
 
