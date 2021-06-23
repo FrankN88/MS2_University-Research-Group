@@ -1,5 +1,6 @@
 /*
  * Dynamic gallery using querySelector
+ * Thanks to Stack Overflow for guidance regarding the dynamic slider
  */
 //Events variables
 let slides = document.querySelector('.slider-items').children;
