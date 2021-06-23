@@ -555,7 +555,7 @@ Testing information can be found in a separate testing :information_source: [fil
 ### Deploying on GitHub Pages
 To deploy this page to GitHub Pages from its GitHub repository, the following steps were taken:
 1. Log into [GitHub](https://github.com/login "Link to GitHub login page") or [create an account](https://github.com/join "Link to GitHub create account page").
-2. Locate the [GitHub Repository](https://github.com/FrankN88/FrankN88-xxxxxxxx "Link to GitHub Repo").
+2. Locate the [GitHub Repository](https://github.com/FrankN88/MS2_University-Research-Group "Link to GitHub Repo").
 3. At the top of the repository, select Settings from the menu items.
 4. Scroll down the Settings page to the "GitHub Pages" section.
 5. Under "Source" click the drop-down menu labelled "None" and select "Master Branch".
@@ -566,7 +566,7 @@ To deploy this page to GitHub Pages from its GitHub repository, the following st
 ### Forking the Repository
 By forking the GitHub Repository a copy of the original repository is made on the GitHub account. To view and/or to make  changes without affecting the original repository: 
 1. Log into [GitHub](https://github.com/login "Link to GitHub login page") or [create an account](https://github.com/join "Link to GitHub create account page").
-2. Locate the [GitHub Repository](https://github.com/FrankN88/FrankN88-xxxxxxxxxxxxx "Link to GitHub Repo").
+2. Locate the [GitHub Repository](https://github.com/FrankN88/MS2_University-Research-Group "Link to GitHub Repo").
 3. At the top of the repository, on the right side of the page, select "Fork".
 4. You should now have a copy of the original repository in your GitHub account.
 
@@ -577,7 +577,7 @@ How to run this project locally:
 3. Log into [GitHub](https://github.com/login/ "Link to GitHub login page") or [create an account](https://github.com/join "Link to GitHub create account page").
 4. Locate the [GitHub Repository](https://github.com/FrankN88/FrankN88-MS2_University-Research-Group "Link to GitHub Repo").
 5. Click the green "GitPod" button in the top right corner of the repository.
-This will trigger a new gitPod workspace to be created from the code in github where you can work locally.
+This will trigger a new gitPod workspace to be created from the code in github where you can work locally. 
 Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) to retrieve pictures for some of the buttons and more detailed explanations of the above process.
 
 ## Credits
