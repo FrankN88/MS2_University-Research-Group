@@ -48,7 +48,7 @@
            <img src="assets/images/testing_images/ux_stories/footer.png">
            </details>
 
-    3. As a First Time Visitor, I want to find the main areas of the research group. I also want to locate their social media links to see their followings on social media in order to be updated about their latest releases.
+    3. As a First Time Visitor, I want to find the main research topics of the research group. I also want to locate their social media links to see their followings on social media in order to be updated about their latest releases.
 
         1. The social media links are located in the footer together with the group's contacts.
            <details><summary>Footer links</summary>
