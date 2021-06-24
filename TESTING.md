@@ -212,7 +212,6 @@
 Friends and family members were asked to review the site and documentation to point out any feedback and possible way of improving it. Their helpful advice throughout the process led to many UX changes in order to create a better experience, especially regarding the styling. 
 
 It was through this testing that the following changes were made:
-- Centering social media links in the footer instead of floating them to the right.
 - Assessing the combinations of colours and the related contrast.
 - Fonts choice looking smart and not invasive.
 - Improving the overall images quality compared to the initial framework idea.
