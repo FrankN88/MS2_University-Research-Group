@@ -221,7 +221,7 @@ It was through this testing that the following changes were made:
 ## Manual Testing
 
 ### Common Elements Testing
-Manual testing was conducted on the following pages in order to assess responsiveness,funcionality and usability:
+Manual testing was conducted on the following pages in order to assess responsiveness,functionality and usability:
 
 - Hovering over the Navbar will trigger `hover` effect. The page the user is in it is clearly visible by the text decoration.
   <details><summary>Navbar hover</summary>

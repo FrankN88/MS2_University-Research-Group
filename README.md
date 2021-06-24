@@ -2,7 +2,7 @@
 
 ![URG Mockup Images](assets/images/testing_images/mockup/mockup.png)
 
-[View the live project here](https://frankn88.github.io/MS2_University-Research-Group/)
+[View website in GitHub Pages](https://frankn88.github.io/MS2_University-Research-Group/)
 
 [View the testing information here - (TESTING.md) ](TESTING.md)
 
